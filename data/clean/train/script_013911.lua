@@ -1,0 +1,1 @@
+players.PlayerAdded:Connect(require(playerFunctions).PlayerAdded)<unk>players.PlayerRemoving:Connect(require(playerFunctions).Save)

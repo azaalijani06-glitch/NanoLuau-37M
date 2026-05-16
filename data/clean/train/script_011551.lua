@@ -1,0 +1,1 @@
+--<unk>ROBLOX<unk>deviation<unk>not<unk>ported<unk>as<unk>it<unk>doesn't<unk>seem<unk>necessary<unk>in<unk>Lua<unk>--<unk>exports.interopRequireDefault<unk>=<unk>require(script.interopRequireDefault).default

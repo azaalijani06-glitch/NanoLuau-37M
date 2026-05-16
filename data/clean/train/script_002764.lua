@@ -1,0 +1,1 @@
+local<unk>char<unk>=<unk>script.Parent<unk>local<unk>root<unk>=<unk>char.PrimaryPart<unk><unk>local<unk>bg<unk>=<unk>root:WaitForChild("BodyGyro")<unk>bg.CFrame<unk>=<unk>CFrame.new(root.CFrame.X,root.CFrame.Y,root.CFrame.Z)<unk>local<unk>bv<unk>=<unk>root:WaitForChild("BodyVelocity")<unk>local<unk>target<unk>=<unk>root:WaitForChild("Target")

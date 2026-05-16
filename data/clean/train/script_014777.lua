@@ -1,0 +1,1 @@
+local<unk>CameraModule<unk>=<unk>{}<unk>local<unk>Mouse<unk>=<unk>game.Players.LocalPlayer:GetMouse()<unk>local<unk>UserInput<unk>=<unk>game:GetService("UserInputService")

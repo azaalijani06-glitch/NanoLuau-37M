@@ -1,0 +1,1 @@
+local<unk>hdMain<unk>=<unk>require(game:GetService("ReplicatedStorage"):WaitForChild("HDAdminSetup")):GetMain()<unk>local<unk>hd<unk>=<unk>hdMain:GetModule("API")<unk>hd:SetTopbarTransparency(1)

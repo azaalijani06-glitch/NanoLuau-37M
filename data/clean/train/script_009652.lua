@@ -1,0 +1,1 @@
+local<unk>Figure<unk>=<unk>script.Parent<unk>local<unk>Head<unk>=<unk>Figure:WaitForChild("Head")<unk>local<unk>Humanoid<unk>=<unk>Figure:WaitForChild("NPC")<unk>local<unk>Regening<unk>=<unk>false

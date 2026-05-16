@@ -1,0 +1,1 @@
+game.Players.PlayerAdded:Connect(function(player)<unk><unk>---<unk>Check<unk>for<unk>new<unk>gamepasses<unk><unk>CheckPlayer(player)<unk><unk>end)

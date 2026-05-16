@@ -1,0 +1,1 @@
+local<unk>players=game:GetService("Players")<unk>local<unk>lp=players.LocalPlayer<unk>local<unk>char=lp.Character<unk>or<unk>lp.CharacterAdded:wait()<unk>local<unk>hum=char:WaitForChild("Humanoid")<unk><unk>local<unk>UIS=game:GetService("UserInputService")

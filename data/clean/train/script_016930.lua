@@ -1,0 +1,1 @@
+local<unk>gui<unk>=<unk>Guis:WaitForChild(IS_MOBILE<unk>and<unk>"MobileGui"<unk>or<unk>IS_CONSOLE<unk>and<unk>"ConsoleGui"<unk>or<unk>"DesktopGui")<unk>gui.Parent<unk>=<unk>player.PlayerGui<unk>local<unk>guiController<unk>=<unk>require(gui:WaitForChild("GuiController"))

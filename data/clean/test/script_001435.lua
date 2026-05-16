@@ -1,0 +1,1 @@
+local<unk>Player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>Event<unk>=<unk>game.ReplicatedStorage.MusicEvents.NewSong<unk>local<unk>Frame<unk>=<unk>script.Parent.Parent<unk>local<unk>Gui<unk>=<unk>game.StarterGui.SurfaceGui.SongPart.Frame.SongName<unk>local<unk>SongText<unk>=<unk>Gui.Text<unk>local<unk>sound<unk>=<unk>game.Workspace.Sound

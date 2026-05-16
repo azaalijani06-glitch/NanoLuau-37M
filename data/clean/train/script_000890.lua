@@ -1,0 +1,1 @@
+Security<unk>=<unk>require(Tool.Core.Security);<unk>RegionModule<unk>=<unk>require(Tool.Libraries.Region);<unk>Support<unk>=<unk>require(Tool.Libraries.SupportLibrary);<unk>Serialization<unk>=<unk>require(Tool.Libraries.SerializationV3);

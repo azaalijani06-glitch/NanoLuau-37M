@@ -1,0 +1,1 @@
+--minutes.Changed:Connect(function(int)<unk>--<unk>if<unk>seconds<unk>><unk>9<unk>then<unk>--<unk><unk>script.Parent.Text<unk>=<unk>tostring(minutes.Value)..":"tostring(seconds)<unk>--<unk>else<unk>--<unk><unk>script.Parent.Text<unk>=<unk>tostring(minutes.Value)..":0"tostring(seconds)<unk>--<unk>end<unk>--end)

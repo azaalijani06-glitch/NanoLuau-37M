@@ -1,0 +1,1 @@
+local<unk>players<unk>=<unk>game:GetService("Players")<unk>local<unk>frame<unk>=<unk>script.Parent.Frame<unk>local<unk>slots<unk>=<unk>frame.slots<unk>local<unk>temp<unk>=<unk>frame.Template<unk><unk>local<unk>players_table<unk>=<unk>{}

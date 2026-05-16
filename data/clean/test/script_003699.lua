@@ -1,0 +1,1 @@
+for<unk>i,<unk>v<unk>in<unk>pairs(script.Parent:GetChildren())<unk>do<unk><unk>if<unk>v.ClassName<unk>==<unk>"Seat"<unk>then<unk><unk><unk>table.insert(seats,<unk>v)<unk><unk>end<unk>end

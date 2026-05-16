@@ -1,0 +1,1 @@
+local<unk>function<unk>loadModule(module)<unk><unk>local<unk>module<unk>=<unk>require(module)<unk><unk><unk><unk>if<unk>(module.Init)<unk>then<unk><unk><unk><unk>module.Init()<unk><unk>end<unk><unk><unk>return<unk>module<unk>end<unk><unk>local<unk>function<unk>loadModules<unk>(Parent,<unk>arraySoFar)<unk><unk>for<unk>_,<unk>obj<unk>in<unk>pairs(Parent:GetChildren())<unk>do

@@ -1,0 +1,1 @@
+script.Parent.Text<unk>=<unk>"I<unk>FINISHED!"<unk>wait(2)<unk>game.ReplicatedStorage.Kicker:FireAllClients()

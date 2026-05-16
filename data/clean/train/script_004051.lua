@@ -1,0 +1,1 @@
+end<unk><unk>wait(1)<unk><unk>deb<unk>=<unk>false<unk><unk>script.Parent.Text<unk>=<unk>("Complete")<unk><unk>end<unk>script.Parent.MouseButton1Click:connect(onClicked)

@@ -1,0 +1,1 @@
+local<unk>STAT_SCRIPT<unk>=<unk>ServerScriptService.StatScript<unk><unk>local<unk>REMOTES<unk>=<unk>ReplicatedStorage.Remotes<unk>local<unk>MODULES<unk>=<unk>ReplicatedStorage.Modules<unk><unk>local<unk>DAMAGE<unk>=<unk>require(MODULES.Damage)<unk><unk>local<unk>MAX_DISTANCE<unk>=<unk>20

@@ -1,0 +1,1 @@
+local<unk>UIS<unk>=<unk>game:GetService('UserInputService')<unk>local<unk>SSS<unk>=<unk>game:GetService('ServerScriptService')<unk>local<unk>Players<unk>=<unk>game:GetService('Players')<unk>local<unk>rp<unk>=<unk>game:GetService("ReplicatedStorage")

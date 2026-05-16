@@ -1,0 +1,1 @@
+--!strict<unk>--<unk>Defines<unk>all<unk>FC<unk>types.<unk>--<unk>Any<unk>script<unk>that<unk>requires<unk>this<unk>will<unk>have<unk>these<unk>types<unk>defined.

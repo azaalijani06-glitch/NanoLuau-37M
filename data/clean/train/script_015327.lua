@@ -1,0 +1,1 @@
+local<unk>Figure<unk>=<unk>script.Parent<unk>local<unk>Head<unk>=<unk>waitForChild(Figure,<unk>"Head")<unk>local<unk>Humanoid<unk>=<unk>waitForChild(Figure,<unk>"Humanoid")<unk>Humanoid.Health=500

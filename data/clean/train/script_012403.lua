@@ -1,0 +1,1 @@
+EventModule.ActivateEvent<unk>=<unk>function()<unk><unk>local<unk>RandomPlayer<unk>=<unk>PlayingTeam:GetPlayers()[math.random(1,<unk>#PlayingTeam:GetPlayers())]<unk><unk><unk>if<unk>RandomPlayer<unk>then<unk><unk><unk>RandomPlayer.CameraMaxZoomDistance<unk>=<unk>3<unk><unk>end<unk>end

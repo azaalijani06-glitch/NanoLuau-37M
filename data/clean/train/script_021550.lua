@@ -1,0 +1,1 @@
+--[[if<unk>(script.Parent.Active)<unk>then<unk><unk>script.Parent.Name<unk>=<unk>"RESELECT"<unk><unk>while<unk>(script.Parent.Active)<unk>do<unk>wait()<unk>end<unk>end<unk>script.Parent.Name<unk>=<unk>"Plane"]]

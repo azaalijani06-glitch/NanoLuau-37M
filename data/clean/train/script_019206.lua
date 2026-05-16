@@ -1,0 +1,1 @@
+--local<unk>connection<unk>--local<unk>function<unk>func()<unk>--<unk>script.Parent:PivotTo(CFrame.new(script.Parent.Vec3Pos.Value))<unk>--<unk>connection:Disconnect()<unk>--<unk>wait(.05)<unk>--<unk>connection<unk>=<unk>script.Parent.Vec3Pos.Changed:Connect(func)<unk>--end<unk>--connection<unk>=<unk>script.Parent.Vec3Pos.Changed:Connect(func)

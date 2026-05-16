@@ -1,0 +1,1 @@
+local<unk>Text<unk>=<unk>script.Parent<unk><unk>Text.Text<unk>=<unk>Multiplier.Value<unk><unk>Multiplier.Changed:Connect(function()<unk><unk>Text.Text<unk>=<unk>Multiplier.Value<unk>end)

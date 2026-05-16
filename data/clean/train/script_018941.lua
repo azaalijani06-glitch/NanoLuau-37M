@@ -1,0 +1,1 @@
+--local<unk>configs<unk>=<unk>workspace:WaitForChild("Configuration",<unk>10)<unk>--local<unk>hasModel<unk>=<unk>configs:FindFirstChild("hasC4Model")

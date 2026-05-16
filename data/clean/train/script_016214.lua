@@ -1,0 +1,1 @@
+local<unk>ActionService<unk>=<unk>game:GetService("ContextActionService")<unk>local<unk>UserInputService<unk>=<unk>game:GetService("UserInputService")<unk>local<unk>RS<unk>=<unk>game:GetService("ReplicatedStorage")

@@ -1,0 +1,1 @@
+button<unk>=<unk>script.Parent<unk>Input<unk>=<unk>script.Parent.Parent.SCREEN<unk>function<unk>Clear()<unk>print("Cleared")<unk>Input.Text<unk>=<unk>"Cleared"<unk>script.Parent.Parent.Sound4:play()<unk>wait(0.5)<unk>Input.Text<unk>=<unk>""<unk>end<unk><unk>button.MouseButton1Click:connect(Clear)

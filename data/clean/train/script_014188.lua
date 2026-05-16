@@ -1,0 +1,1 @@
+game.Players.PlayerAdded:connect(function(p)<unk><unk>wait(TimeNo)<unk><unk>b<unk>=<unk>game:GetService("BadgeService")<unk><unk>b:AwardBadge(p.userId,BadgeID)<unk>end)

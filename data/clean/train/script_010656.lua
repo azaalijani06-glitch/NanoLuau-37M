@@ -1,0 +1,1 @@
+--[=[<unk><unk>@class<unk>Keyboard<unk><unk>@client<unk><unk><unk>The<unk>Keyboard<unk>class<unk>is<unk>part<unk>of<unk>the<unk>Input<unk>package.<unk><unk><unk>```lua<unk><unk>local<unk>Keyboard<unk>=<unk>require(packages.Input).Keyboard<unk><unk>```<unk>]=]

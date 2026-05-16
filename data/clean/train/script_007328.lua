@@ -1,0 +1,1 @@
+script.SkipTier.OnInvoke<unk>=<unk>SkipTier<unk><unk>Players.PlayerAdded:Connect(function(player)<unk><unk>PLAYER_DATA:WaitForChild(player.Name)<unk><unk>UpdateLevels(player)<unk>end)

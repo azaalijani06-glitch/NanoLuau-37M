@@ -1,0 +1,1 @@
+game:GetService("RunService").Heartbeat:Connect(function(dt)<unk><unk>BP.Position<unk>=<unk>lookAt(target.Position);<unk><unk>local<unk>set<unk>=<unk>springPart.Position;<unk><unk>neck.C0<unk>=<unk>neckC0<unk>*<unk>CFrame.fromEulerAnglesYXZ(set.z*0.5,<unk>set.x,<unk>0);<unk><unk>waist.C0<unk>=<unk>waistC0<unk>*<unk>CFrame.fromEulerAnglesYXZ(set.z*0.5,<unk>set.y,<unk>0);<unk>end);

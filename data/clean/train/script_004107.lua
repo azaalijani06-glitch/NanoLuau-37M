@@ -1,0 +1,1 @@
+local<unk>Character<unk>=<unk>script.Parent<unk>local<unk>HRP<unk>=<unk>Character:WaitForChild("HumanoidRootPart")<unk>local<unk>Player<unk>=<unk>game.Players:GetPlayerFromCharacter(Character)<unk><unk>local<unk>Humanoid<unk>=<unk>Character:WaitForChild("Humanoid")<unk>Humanoid.BreakJointsOnDeath<unk>=<unk>false

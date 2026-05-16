@@ -1,0 +1,1 @@
+GameSettings.TransitionTime<unk>=<unk>5<unk>GameSettings.QueueTime<unk>=<unk>5<unk><unk>GameSettings.PlayersPerDifficulty<unk>=<unk>{<unk><unk>Easy<unk>=<unk>1,<unk><unk>Normal<unk>=<unk>2,<unk><unk>Hard<unk>=<unk>3<unk>}

@@ -1,0 +1,1 @@
+script.Parent.Wheels.boggieF.motb.HingeConstraint.AngularVelocity<unk>=<unk>speed<unk>script.Parent.Wheels.boggieF.motb.HingeConstraint2.AngularVelocity<unk>=<unk>-speed<unk>script.Parent.Wheels.boggieF.motb.HingeConstraint.MotorMaxTorque<unk>=<unk>RPM<unk>script.Parent.Wheels.boggieF.motb.HingeConstraint2.MotorMaxTorque<unk>=<unk>RPM

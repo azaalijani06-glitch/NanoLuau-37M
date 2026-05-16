@@ -1,0 +1,1 @@
+--while<unk>Tool<unk>==<unk>nil<unk>do<unk>--<unk>Tool<unk>=<unk>script.Parent<unk>--<unk>wait(.5)<unk>--end

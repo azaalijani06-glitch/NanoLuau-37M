@@ -1,0 +1,1 @@
+function<unk>WeldParts(part0,part1)<unk><unk>local<unk>newWeld<unk>=<unk>Instance.new("Weld")<unk><unk>newWeld.Part0<unk>=<unk>part0<unk><unk>newWeld.Part1<unk>=<unk>part1<unk><unk>newWeld.C0<unk>=<unk>CFrame.new()<unk><unk>newWeld.C1<unk>=<unk>part1.CFrame:toObjectSpace(part0.CFrame)<unk><unk>newWeld.Parent<unk>=<unk>part0<unk>end

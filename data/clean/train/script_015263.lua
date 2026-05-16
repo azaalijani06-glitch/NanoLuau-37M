@@ -1,0 +1,1 @@
+--<unk>Watch<unk>for<unk>newly<unk>playing<unk>tracks<unk>in<unk>workspace.Music,<unk>change<unk>script.Parent.MusicName<unk>to<unk>the<unk>Sound's<unk>name<unk>--<unk>When<unk>script.Parent.TextBox<unk>is<unk>changed,<unk>change<unk>the<unk>volume<unk>of<unk>all<unk>children<unk>of<unk>workspace.Music

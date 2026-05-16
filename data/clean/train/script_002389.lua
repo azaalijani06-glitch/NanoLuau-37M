@@ -1,0 +1,1 @@
+--local<unk>asdf<unk>=<unk>Instance.new("Part")<unk>--asdf.Anchored<unk>=<unk>true<unk>--asdf.Size<unk>=<unk>Vector3.new(2,2,2)<unk>--asdf.CFrame<unk>=<unk>CFrame.new(pos)<unk>--asdf.Parent<unk>=<unk>workspace

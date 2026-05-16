@@ -1,0 +1,1 @@
+--<unk>local<unk>Debris<unk>=<unk>game:GetService("Debris")<unk>--<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>

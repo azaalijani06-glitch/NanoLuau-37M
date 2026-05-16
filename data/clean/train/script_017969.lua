@@ -1,0 +1,1 @@
+--<unk>Inverse<unk>Kinematics<unk>will<unk>require<unk>profecient<unk>knowledge<unk>of<unk>trig<unk>and<unk>potentially<unk>calculus<unk>to<unk>understand<unk>completely.

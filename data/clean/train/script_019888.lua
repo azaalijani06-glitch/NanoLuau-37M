@@ -1,0 +1,1 @@
+local<unk>Configurations<unk>=<unk>require(game.ServerStorage.Configurations)<unk>local<unk>Events<unk>=<unk>game.ReplicatedStorage.Events<unk>local<unk>ResetMouseIcon<unk>=<unk>Events.ResetMouseIcon<unk>local<unk>TeamManager<unk>=<unk>require(script.Parent.TeamManager)<unk>local<unk>DisplayManager<unk>=<unk>require(script.Parent.DisplayManager)

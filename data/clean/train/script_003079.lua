@@ -1,0 +1,1 @@
+--You<unk>can<unk>copy<unk>and<unk>paste<unk>script.Parent.BrickColor<unk>=<unk>BrickColor.new("Colorname")<unk>--You<unk>can<unk>copy<unk>and<unk>paste<unk>wait(0)<unk>on<unk>the<unk>bottom<unk>on<unk>the<unk>script

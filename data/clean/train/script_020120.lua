@@ -1,0 +1,1 @@
+local<unk>Polyfills<unk>=<unk>script.Parent.Parent<unk>local<unk>Number<unk>=<unk>require(Polyfills.Number)

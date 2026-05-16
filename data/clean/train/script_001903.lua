@@ -1,0 +1,1 @@
+local<unk>sw<unk>=<unk>Instance.new("Motor",<unk>script.Parent.Parent.Misc.SW.SS)<unk>sw.MaxVelocity<unk>=<unk>0.167<unk>sw.Part0<unk>=<unk>script.Parent.SW<unk>sw.Part1<unk>=<unk>sw.Parent

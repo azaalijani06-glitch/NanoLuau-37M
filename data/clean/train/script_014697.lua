@@ -1,0 +1,1 @@
+--game.Players:GetPlayerFromCharacter(hit.Parent)<unk>--or<unk>game.Players:FindFirstChild(hit.Parent.Name)

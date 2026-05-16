@@ -1,0 +1,1 @@
+local<unk>Remote_Events<unk>=<unk>ReplicatedStorage:WaitForChild("RemoteEvents")<unk>local<unk>Local_Player<unk>=<unk>PlayersService.LocalPlayer

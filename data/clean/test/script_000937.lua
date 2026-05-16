@@ -1,0 +1,1 @@
+--[[<unk>RunService:BindToRenderStep("AdjustCamera",<unk>Enum.RenderPriority.Last.Value,<unk>function()<unk><unk>local<unk>head<unk>=<unk>script.Parent:FindFirstChild("Head")<unk><unk>local<unk>cam<unk>=<unk>workspace.CurrentCamera<unk><unk>cam.CFrame<unk>=<unk>CFrame.new(head.Position)<unk>*<unk>cam.CFrame.Rotation<unk>*<unk>CFrame.new(0,0,1)<unk>end)<unk>]]

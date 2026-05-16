@@ -1,0 +1,1 @@
+local<unk>mySettings<unk>=<unk>script.Parent.Settings<unk>local<unk>debugOption<unk>=<unk>mySettings.Debug.Value

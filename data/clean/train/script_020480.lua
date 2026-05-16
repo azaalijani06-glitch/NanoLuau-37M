@@ -1,0 +1,1 @@
+--[[<unk>game:GetService('UserInputService').InputBegan:Connect(function(Input)<unk><unk>if<unk>Input.KeyCode<unk>==<unk>Enum.KeyCode.E<unk>then<unk><unk><unk>script.Parent.OrbEvent:FireServer()<unk><unk>end<unk>end)<unk>]]

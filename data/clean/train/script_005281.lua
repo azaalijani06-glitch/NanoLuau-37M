@@ -1,0 +1,1 @@
+local<unk>PathfindingService<unk>=<unk>game:GetService("PathfindingService")<unk>local<unk>TweenService<unk>=<unk>game:GetService("TweenService")

@@ -1,0 +1,1 @@
+parts<unk>=<unk>script.Parent;<unk>ignoreList<unk>=<unk>{script.Parent}<unk>dealingDamage<unk>=<unk>6000<unk><unk>makeRays<unk>=<unk>false

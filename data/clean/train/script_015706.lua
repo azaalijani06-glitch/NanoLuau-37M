@@ -1,0 +1,1 @@
+--[[<unk><unk>wait(3);<unk><unk><unk><unk>M:Test1(script.Parent);<unk><unk><unk><unk>wait(3);<unk><unk>M:Test2(script.Parent);<unk><unk>wait(3);<unk><unk>M:Test3(script.Parent);<unk><unk>--]]

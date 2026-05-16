@@ -1,0 +1,1 @@
+--Lights<unk>=<unk>script.Parent.Light<unk>--Clicks<unk>=<unk>script.Parent.Motorz.Sound<unk>--Lights.BrickColor<unk>=<unk>BrickColor.new("Really<unk>red")<unk>--Clicks:Play()<unk>--wait(2.2)<unk>--script.Parent.Soon.Disabled<unk>=<unk>true<unk>--script.Parent.Lights.Disabled<unk>=<unk>true<unk>--script.Parent.Light.BrickColor<unk>=<unk>BrickColor.new("Really<unk>black")

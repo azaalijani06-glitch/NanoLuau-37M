@@ -1,0 +1,1 @@
+--<unk>ROBLOX<unk>deviation:<unk>Makes<unk>urls<unk>clickable<unk>in<unk>the<unk>terminal.<unk>Not<unk>able<unk>to<unk>support<unk>--<unk>local<unk>terminalLink<unk>=<unk>require(Packages["terminal-link"])

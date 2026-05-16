@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>Players.LocalPlayer<unk>local<unk>character<unk>=<unk>player.Character<unk>or<unk>player.CharacterAdded:wait()<unk>local<unk>humanoidRoot<unk>=<unk>character:WaitForChild("HumanoidRootPart")

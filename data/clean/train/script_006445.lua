@@ -1,0 +1,1 @@
+--[[local<unk>function<unk>playSoundLocal(sId,sParent)<unk><unk>local<unk>sound<unk>=<unk>Instance.new("Sound",sParent)<unk><unk>sound.SoundId<unk>=<unk>"http://www.roblox.com/asset/?id="..sId<unk><unk>sound:Play()<unk><unk>sound:Destroy()<unk>end<unk>]]

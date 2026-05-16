@@ -1,0 +1,1 @@
+Player.CameraMode<unk>=<unk>Enum.CameraMode.LockFirstPerson<unk><unk>RunService.Stepped:Connect(function()<unk><unk><unk><unk><unk><unk><unk>end)<unk><unk>return<unk>nil

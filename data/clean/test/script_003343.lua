@@ -1,0 +1,1 @@
+local<unk>REMOTES<unk>=<unk>ReplicatedStorage:WaitForChild("Remotes")<unk>local<unk>MODULES<unk>=<unk>ReplicatedStorage:WaitForChild("Modules")<unk><unk>local<unk>EFFECTS<unk>=<unk>require(MODULES:WaitForChild("Effects"))

@@ -1,0 +1,1 @@
+local<unk>_PPH<unk>=<unk>_Tune.Peripherals<unk><unk>for<unk>i,v<unk>in<unk>pairs(_PPH)<unk>do<unk><unk>local<unk>a<unk>=<unk>Instance.new("IntValue",Controls)<unk><unk>a.Name<unk>=<unk>i<unk><unk>a.Value<unk>=<unk>v<unk><unk>a.Changed:connect(function()<unk><unk><unk><unk>a.Value=math.min(100,math.max(0,a.Value))<unk><unk><unk>_PPH[i]<unk>=<unk>a.Value<unk><unk>end)<unk>end

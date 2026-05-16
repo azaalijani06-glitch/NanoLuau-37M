@@ -1,0 +1,1 @@
+else<unk>script.Parent.Parent.Parent.Torso.Cable:remove()<unk>script.Parent.Parent.Parent.Torso.Snap:play()<unk>script.Parent.Parent.Parent.Torso.Snap:remove()<unk>script.Parent.Parent.Parent.Humanoid.WalkSpeed<unk>=<unk>script.Parent.WS.Value<unk>script.Parent.Parent:remove()<unk>end<unk>end<unk>connection<unk>=<unk>script.Parent.Parent.Touched:connect(onTouched)

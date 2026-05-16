@@ -1,0 +1,1 @@
+--<unk>if<unk>script.Parent.DriveSeat.Lights.Value<unk>==<unk>true<unk>then<unk>--Headlight<unk>object;<unk>neons<unk>aren't<unk>affected<unk>by<unk>auto<unk>lighting<unk>--<unk><unk>script.Parent.Body.Lights.L.Light.Enabled<unk>=<unk>true<unk>--<unk>else<unk>--<unk><unk>script.Parent.Body.Lights.L.Light.Enabled<unk>=<unk>false<unk>--<unk>end

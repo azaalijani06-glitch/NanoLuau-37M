@@ -1,0 +1,1 @@
+script.Parent.Triggered:Connect(function(plr)<unk><unk>plr.PlayerGui.Shop.Frame.Visible<unk>=<unk>true<unk><unk>plr.PlayerGui.Shop.Frame.Startup:Play()<unk>end)

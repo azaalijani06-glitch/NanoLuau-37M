@@ -1,0 +1,1 @@
+local<unk>debris<unk>=<unk>game:GetService("Debris")<unk>local<unk>runService<unk>=<unk>game:GetService("RunService")<unk>local<unk>replicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")<unk>local<unk>UIS<unk>=<unk>game:GetService("UserInputService")<unk><unk>repeat<unk>task.wait()<unk>until<unk>game:GetService("ReplicatedStorage"):FindFirstChild("Footsteps")

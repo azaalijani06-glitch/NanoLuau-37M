@@ -1,0 +1,1 @@
+--[[<unk><unk>local<unk>message<unk>=<unk>"<unk>"<unk><unk>game:GetService("DataStoreService"):GetDataStore("GlobalMessage"):SetAsync(<unk>"Message",<unk>message)<unk>--]]

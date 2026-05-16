@@ -1,0 +1,1 @@
+local<unk>TutorialGui<unk>=<unk>script.Parent<unk>local<unk>Panels<unk>=<unk>TutorialGui.TutorialPanels<unk>local<unk>Panel1<unk>=<unk>Panels.Panel1<unk>local<unk>Panel2<unk>=<unk>Panels.Panel2<unk>local<unk>NextButton<unk>=<unk>Panels.NextButton<unk>local<unk>Arrow<unk>=<unk>TutorialGui.Arrow

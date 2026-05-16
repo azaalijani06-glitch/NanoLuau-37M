@@ -1,0 +1,1 @@
+Render()<unk><unk>CameraUpdater<unk>=<unk>RunService.Heartbeat:Connect(function()<unk><unk>if<unk>Character.HumanoidRootPart<unk>then<unk><unk><unk>Camera.CFrame<unk>=<unk><unk>cf(Character.HumanoidRootPart.CFrame:toWorldSpace(Offset).p,<unk>Character.HumanoidRootPart.CFrame.p)<unk><unk>end<unk>end)

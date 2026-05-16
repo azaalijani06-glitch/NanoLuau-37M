@@ -1,0 +1,1 @@
+local<unk>function<unk>MoveCamera(newCamPart)<unk><unk>local<unk>camera<unk>=<unk>workspace.CurrentCamera<unk><unk>camera.CFrame<unk>=<unk>newCamPart.CFrame<unk>end

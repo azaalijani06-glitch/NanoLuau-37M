@@ -1,0 +1,1 @@
+local<unk>M<unk>=<unk>require(game.ReplicatedStorage.FOSLS.UIModule);<unk>script.Parent.Button.MouseButton1Click:Connect(function<unk>()<unk><unk>game.Players.LocalPlayer.Character.Humanoid.Health<unk>=<unk>0;<unk>end)<unk>M:DefaultButton(script.Parent);

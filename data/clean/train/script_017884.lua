@@ -1,0 +1,1 @@
+script.Parent.Configuration.Colour.Value<unk>=<unk>Color3.new(255,<unk>255,<unk>255)<unk><unk>--ResetScript<unk>Ends<unk>script.Parent.Configuration.Reset.Value<unk>=<unk>false;<unk>end<unk><unk>end)

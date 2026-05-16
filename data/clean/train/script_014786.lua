@@ -1,0 +1,1 @@
+--[[<unk><unk>CLIMAXIMUS's<unk>Saving<unk>Script.<unk><unk>Equipped<unk>with<unk>the<unk>best<unk>of<unk>scripting.<unk><unk>(<unk>Must<unk>be<unk>put<unk>in<unk>ServerScriptService(Reccomended!)<unk>or<unk>workspace.<unk>)<unk>]]

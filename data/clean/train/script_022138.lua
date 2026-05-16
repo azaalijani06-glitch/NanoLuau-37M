@@ -1,0 +1,1 @@
+script.Parent.KickDoor.MouseButton1Click:Connect(function()<unk><unk>House.DoAction:InvokeServer('Kick')<unk>end)

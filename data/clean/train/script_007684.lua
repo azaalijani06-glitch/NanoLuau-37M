@@ -1,0 +1,1 @@
+--<unk><unk><unk>for<unk>i,v<unk>in<unk>pairs(script.Parent.Parent.Body.phone:GetChildren())<unk>do<unk>--<unk><unk><unk><unk>v.Transparency<unk>=<unk>0<unk>--<unk><unk><unk>end

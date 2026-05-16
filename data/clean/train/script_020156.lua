@@ -1,0 +1,1 @@
+--[=[<unk><unk>@class<unk>Gamepad<unk><unk>@client<unk><unk><unk>The<unk>Gamepad<unk>class<unk>is<unk>part<unk>of<unk>the<unk>Input<unk>package.<unk><unk><unk>```lua<unk><unk>local<unk>Gamepad<unk>=<unk>require(packages.Input).Gamepad<unk><unk><unk>local<unk>gamepad<unk>=<unk>Gamepad.new()<unk><unk>```<unk>]=]

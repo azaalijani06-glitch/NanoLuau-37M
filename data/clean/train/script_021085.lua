@@ -1,0 +1,1 @@
+speed<unk>=<unk>80<unk>humanoid<unk>=<unk>script.Parent.Parent.Parent.Character.Humanoid<unk>script.Parent.Selected:connect(function(m)<unk><unk>humanoid.WalkSpeed<unk>=<unk>speed<unk>end)<unk>script.Parent.Deselected:connect(function()<unk><unk>humanoid.WalkSpeed<unk>=<unk>16<unk>end)

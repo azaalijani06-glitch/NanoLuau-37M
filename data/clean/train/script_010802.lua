@@ -1,0 +1,1 @@
+local<unk>player=game.Players.LocalPlayer<unk>local<unk>mouse=player:GetMouse()<unk>local<unk>car=script.Parent.Car.Value<unk>local<unk>run=game:GetService("RunService")<unk>local<unk>Binded={}<unk>local<unk>GMode=0

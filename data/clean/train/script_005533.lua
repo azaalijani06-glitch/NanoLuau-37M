@@ -1,0 +1,1 @@
+--<unk>Cmdr:RegisterCommandsIn(script.Parent.CmdrCommands)<unk>--<unk>Register<unk>commands<unk>from<unk>your<unk>own<unk>folder.<unk>(Optional)

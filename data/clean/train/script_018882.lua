@@ -1,0 +1,1 @@
+script.Parent.MouseButton1Click:connect(function()<unk><unk>fovCamera.FieldOfView<unk>=<unk>fovCode.Text<unk><unk>fovCode.Text<unk>=<unk>"FOV<unk>Number"<unk>end)

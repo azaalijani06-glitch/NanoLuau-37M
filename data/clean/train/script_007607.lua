@@ -1,0 +1,1 @@
+--<unk>else<unk>--<unk><unk>if<unk>script.Parent.Parent.Self_Destruction_Panel.Opened.Value<unk>then<unk>--<unk><unk><unk>script.Parent.Parent.Self_Destruction_Panel.Open:Fire()<unk>--<unk><unk>end

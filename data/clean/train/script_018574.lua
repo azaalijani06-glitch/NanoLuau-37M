@@ -1,0 +1,1 @@
+--<unk>ROBLOX<unk>scripter<unk>hackers,<unk>see<unk>what<unk>you<unk>can<unk>do<unk>with<unk>this:<unk>--<unk>game:GetService("BadgeService"):UserHasBadge(userid,<unk>badgeid)

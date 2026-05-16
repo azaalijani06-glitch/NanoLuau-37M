@@ -1,0 +1,1 @@
+--[[while<unk>true<unk>do<unk>local<unk>v<unk>=<unk>4<unk>int<unk>=<unk>.1<unk>for<unk>i<unk>=<unk>1,<unk>18<unk>do<unk>script.Parent.Rotation=script.Parent.Rotation+5--*v<unk>game:GetService('RunService').RenderStepped:wait()<unk>end<unk>wait(int)<unk>end--]]

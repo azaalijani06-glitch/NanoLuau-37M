@@ -1,0 +1,1 @@
+local<unk>LuauPolyfill<unk>=<unk>script.Parent.Parent<unk>local<unk>types<unk>=<unk>require(LuauPolyfill.types)<unk>type<unk>Array<T><unk>=<unk>types.Array<T><unk>type<unk>reduceFn<T,<unk>U><unk>=<unk>(previousValue:<unk>U,<unk>currentValue:<unk>T,<unk>currentIndex:<unk>number,<unk>array:<unk>Array<T>)<unk>-><unk>U

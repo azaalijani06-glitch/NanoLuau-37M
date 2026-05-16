@@ -1,0 +1,1 @@
+local<unk>centerWeld<unk><unk>=<unk>Instance.new("Weld")<unk>local<unk>leftWeld<unk><unk><unk>=<unk>Instance.new("Weld")<unk>local<unk>rightWeld<unk><unk>=<unk>Instance.new("Weld")

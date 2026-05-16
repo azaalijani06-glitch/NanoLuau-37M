@@ -1,0 +1,1 @@
+--[[local<unk>url<unk>=<unk>''<unk><unk>local<unk>http<unk>=<unk>game:GetService("HttpService")<unk><unk>local<unk>HookData<unk>=<unk>{<unk><unk>['username']<unk>=<unk>player.Name,<unk><unk><unk><unk>['content']<unk>=<unk>msg<unk><unk><unk><unk><unk>}<unk><unk>HookData<unk>=<unk>http:JSONEncode(HookData)<unk>http:PostAsync(url,<unk>HookData)--]]

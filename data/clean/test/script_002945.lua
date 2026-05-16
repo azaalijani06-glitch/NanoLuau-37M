@@ -1,0 +1,1 @@
+script.Parent.BrickColor<unk>=<unk>BrickColor.new("New<unk>Yeller")<unk>wait(1)<unk>trans<unk>=<unk>0<unk>for<unk>i<unk>=<unk>1,<unk>50<unk>do<unk>trans<unk>=<unk>trans<unk>-<unk>0.05<unk>script.Parent.Transparency<unk>=<unk>script.Parent.Transparency<unk>-<unk>trans<unk>wait(.5)<unk>end<unk>script.Parent:Destroy()

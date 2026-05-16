@@ -1,0 +1,1 @@
+local<unk>maxChunkSize<unk>=<unk>100<unk>*<unk>1000<unk>local<unk>ApiJson<unk>if<unk>script:FindFirstChild("RawApiJson")<unk>then<unk><unk>ApiJson<unk>=<unk>script.RawApiJson<unk>else<unk><unk>ApiJson<unk>=<unk>""<unk>end<unk><unk>local<unk>jsonToParse<unk>=<unk>require(ApiJson)<unk><unk>function<unk>getRbxApi()

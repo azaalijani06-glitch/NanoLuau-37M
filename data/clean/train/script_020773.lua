@@ -1,0 +1,1 @@
+--local<unk>PlayerGui<unk>=<unk>game.Players.LocalPlayer:WaitForChild("PlayerGui")<unk>--PlayerGui:SetTopbarTransparency(0)

@@ -1,0 +1,1 @@
+local<unk>Button<unk>=<unk>script.Parent<unk><unk>local<unk>ID<unk>=<unk>Button.EmoteID<unk><unk>local<unk>EmotesHolder<unk>=<unk>Button.Parent<unk>local<unk>CurrentAnimation<unk>=<unk>EmotesHolder.CurrentAnimation<unk><unk>local<unk>Action

@@ -1,0 +1,1 @@
+local<unk><unk>Paint<unk>=<unk>false<unk><unk><unk>script.Parent.MouseButton1Click:connect(function()<unk><unk>Paint<unk>=<unk>not<unk>Paint<unk><unk>handler:FireServer("Grime",Paint)<unk>end)

@@ -1,0 +1,1 @@
+--Lucargia--<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>--//<unk>function<unk>a(x)<unk>local<unk>y<unk>=<unk>game.Lighting.Cup:Clone()<unk>y.Parent<unk>=<unk>x.Backpack<unk>end<unk><unk>script.Parent.ClickDetector.MouseClick:connect(a)

@@ -1,0 +1,1 @@
+local<unk>Current_Camera<unk>=<unk>workspace:WaitForChild("Camera")<unk>local<unk>Local_Player<unk>=<unk>PlayersService.LocalPlayer

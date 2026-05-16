@@ -1,0 +1,1 @@
+--local<unk>DataStore<unk><unk><unk><unk><unk><unk><unk><unk>=<unk>DataStoreService:etDataStore("BannedPlayers")

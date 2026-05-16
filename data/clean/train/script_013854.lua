@@ -1,0 +1,1 @@
+local<unk>Debris<unk>=<unk>game:GetService("Debris")<unk>local<unk>TweenService<unk>=<unk>game:GetService("TweenService")

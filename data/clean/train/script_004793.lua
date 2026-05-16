@@ -1,0 +1,1 @@
+local<unk>Storage<unk>local<unk>RocketTemplate<unk>local<unk>Buffer<unk>=<unk>{}<unk>local<unk>Tool<unk>=<unk>script.Parent<unk>local<unk>Owner<unk>=<unk>nil<unk>local<unk>Configurations<unk>=<unk>Tool.Configuration

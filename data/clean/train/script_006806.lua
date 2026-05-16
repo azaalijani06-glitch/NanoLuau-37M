@@ -1,0 +1,1 @@
+local<unk>SongsHolder<unk>=<unk>script.Parent<unk><unk>local<unk>Songs<unk>=<unk>SongsHolder.Songs:GetChildren()<unk><unk>local<unk>CurrentSong<unk>=<unk>SongsHolder.CurrentSong<unk><unk>local<unk>Boombox<unk>=<unk>SongsHolder.Boombox<unk>local<unk>SongNameGui<unk>=<unk>Boombox.SongNameGui<unk>local<unk>NameText<unk>=<unk>SongNameGui.NameText

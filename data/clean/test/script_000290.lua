@@ -1,0 +1,1 @@
+--[=[<unk><unk>@param<unk>tag<unk>string<unk><unk>@param<unk>class<unk>table<unk><unk>@param<unk>renderPriority<unk>number?<unk><unk>@param<unk>requireComponents<unk>{string}?<unk><unk>@return<unk>Component<unk><unk><unk>Constructs<unk>a<unk>new<unk>component<unk>class.<unk>]=]

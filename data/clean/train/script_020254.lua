@@ -1,0 +1,1 @@
+--local<unk>KeySequence<unk>=<unk>game:GetService("KeyframeSequenceProvider")<unk>--humanoid.Animation.AnimationId<unk>=<unk>KeySequence:RegisterKeyframeSequence(humanoid.OrangeJustice)

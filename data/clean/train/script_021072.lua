@@ -1,0 +1,1 @@
+--<unk>Do<unk>not<unk>require<unk>this<unk>module<unk>directly!<unk>Use<unk>normal<unk>`invariant`<unk>calls<unk>with<unk>--<unk>template<unk>literal<unk>strings.<unk>The<unk>messages<unk>will<unk>be<unk>replaced<unk>with<unk>error<unk>codes<unk>--<unk>during<unk>build.

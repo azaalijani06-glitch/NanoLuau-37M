@@ -1,0 +1,1 @@
+--<unk>The<unk>subset<unk>of<unk>a<unk>Thenable<unk>required<unk>by<unk>things<unk>thrown<unk>by<unk>Suspense.<unk>--<unk>This<unk>doesn't<unk>require<unk>a<unk>value<unk>to<unk>be<unk>passed<unk>to<unk>either<unk>handler.

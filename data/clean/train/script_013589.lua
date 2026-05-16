@@ -1,0 +1,1 @@
+--while<unk>true<unk>do<unk>--<unk>for<unk>i<unk>=<unk>10,<unk>1,<unk>-1<unk>do<unk>--<unk><unk>script.Parent.Orientation<unk>=<unk>script.Parent.Orientation<unk>+<unk>Vector3.new(0,<unk>i/2,<unk>0)<unk>--<unk><unk>wait()<unk>--<unk>end<unk>--<unk>wait(1)<unk>--end

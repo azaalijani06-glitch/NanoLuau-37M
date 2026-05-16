@@ -1,0 +1,1 @@
+local<unk>playerService<unk>=<unk>game:GetService("Players")<unk><unk>playerService.PlayerAdded:Connect(function<unk>(plr)<unk><unk>plr.CharacterAdded:wait()<unk><unk>plr.CameraMode<unk>=<unk>Enum.CameraMode.LockFirstPerson<unk>end)

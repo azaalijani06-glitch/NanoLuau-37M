@@ -1,0 +1,1 @@
+local<unk>Player<unk>=<unk>Players.LocalPlayer<unk>local<unk>Character<unk>local<unk>Humanoid<unk>local<unk>HRP<unk>local<unk>Tool<unk>=<unk>script.Parent<unk><unk>local<unk>attackRemote<unk>=<unk>script:WaitForChild("Attack")<unk>local<unk>Equipped<unk>=<unk>script:WaitForChild("Equipped")

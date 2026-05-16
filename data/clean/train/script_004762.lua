@@ -1,0 +1,1 @@
+--local<unk>url<unk>=<unk>"https://40-percent-updates.smktd.repl.co/get_updates"<unk>--local<unk>current_version<unk>=<unk>script.Parent.Connector:InvokeServer(url)<unk>--local<unk>main<unk>=<unk>script.Parent.Parent.Parent<unk>--local<unk>version<unk>=<unk>main.Properties.Version<unk>--local<unk>update_notifier<unk>=<unk>main.Popups.UpdateNotifier

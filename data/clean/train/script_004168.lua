@@ -1,0 +1,1 @@
+for<unk>_,<unk>team<unk>in<unk>ipairs(Teams:GetTeams())<unk>do<unk><unk>TeamPlayers[team]<unk>=<unk>{}<unk><unk>TeamScores[team]<unk>=<unk>0<unk>end

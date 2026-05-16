@@ -1,0 +1,1 @@
+local<unk>Speed<unk>=<unk>10<unk>--<unk>That's<unk>How<unk>Fast<unk>Your<unk>Image<unk>Spin<unk>local<unk>Image<unk>=<unk>script.Parent<unk>--<unk>Gets<unk>The<unk>Image

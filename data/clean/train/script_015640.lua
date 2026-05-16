@@ -1,0 +1,1 @@
+local<unk>modules<unk>=<unk>script.Parent.Modules<unk>local<unk>core<unk>=<unk>require(modules.Core)<unk>local<unk>combat<unk>=<unk>require(modules.Combat)<unk>local<unk>flight<unk>=<unk>require(modules.Flight)<unk>local<unk>pathing<unk>=<unk>require(modules.Pathing)<unk>local<unk>troubleshoot<unk>=<unk>require(modules.Troubleshoot)

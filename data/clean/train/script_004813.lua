@@ -1,0 +1,1 @@
+--<unk><unk>if<unk>car.DriveSeat.CC.Value<unk>then<unk>--<unk><unk><unk>script.Parent.Values.CCS.Value<unk>=<unk>car.DriveSeat.CCS.Value<unk>--<unk><unk>end<unk>--<unk>end)

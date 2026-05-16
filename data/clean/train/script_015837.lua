@@ -1,0 +1,1 @@
+local<unk>bar<unk>=<unk>Instance.new("Frame",<unk>frame)<unk>bar.Position<unk>=<unk>UDim2.new(0,<unk>0,<unk>0,<unk>0)<unk>bar.Size<unk>=<unk>UDim2.new(1,<unk>0,<unk>1,<unk>0)<unk>bar.BackgroundColor3<unk>=<unk>Color3.new(0,<unk>1,<unk>0)

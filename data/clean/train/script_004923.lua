@@ -1,0 +1,1 @@
+local<unk>AssetService<unk>=<unk>game:GetService("AssetService");<unk><unk>return<unk>function(BundleId)<unk><unk>return<unk>pcall(function()<unk><unk><unk>AssetService:GetBundleDetailsAsync(BundleId)<unk><unk>end)<unk>end

@@ -1,0 +1,1 @@
+local<unk>Figure<unk>=<unk>script.Parent<unk>local<unk>Head<unk>=<unk>Figure:WaitForChild("Head")<unk>local<unk>Humanoid;<unk>for<unk>_,Child<unk>in<unk>pairs(Figure:GetChildren())do<unk>if<unk>Child<unk>and<unk>Child.ClassName=="Humanoid"then<unk>Humanoid=Child;<unk>end;<unk>end;<unk>local<unk>regening<unk>=<unk>false

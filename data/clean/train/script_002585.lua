@@ -1,0 +1,1 @@
+script.Parent.PlacementScript.Parent<unk>=<unk>game.ServerScriptService<unk>script.Parent.PlayerMouseScript.Parent<unk>=<unk>game.StarterPlayer.StarterPlayerScripts

@@ -1,0 +1,1 @@
+game:GetService("Players").PlayerAdded:Connect(function(player)<unk><unk>player.CharacterAdded:Connect(character_added)<unk>end)

@@ -1,0 +1,1 @@
+local<unk>Holder<unk>=<unk>script.Parent<unk><unk>local<unk>DamageEvent<unk>=<unk>game.ReplicatedStorage:WaitForChild("DamageEvent")<unk><unk>local<unk>Display<unk>=<unk>Holder.DisplayBar<unk>local<unk>Status<unk>=<unk>Holder.Status<unk><unk>local<unk>Settings<unk>=<unk>{<unk><unk><unk>}

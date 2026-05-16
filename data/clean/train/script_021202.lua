@@ -1,0 +1,1 @@
+script.Parent.Parent.Part1:Remove()<unk><unk>script.Parent.Parent.Part2:Remove()<unk><unk>wait(1)<unk><unk>script.Parent.Parent.Part3:Remove()<unk><unk>script.Parent.Parent.Part4:Remove()<unk><unk>wait(1)<unk><unk>script.Parent.Parent.Part5:Remove()<unk><unk>script.Parent.Parent.Part6:Remove()

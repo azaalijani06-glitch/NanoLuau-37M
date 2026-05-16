@@ -1,0 +1,1 @@
+local<unk>new<unk>=<unk>Roact.createElement<unk>local<unk>Tooltip<unk>=<unk>require(script.Parent:WaitForChild('Tooltip'))

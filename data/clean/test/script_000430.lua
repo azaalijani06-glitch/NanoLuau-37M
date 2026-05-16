@@ -1,0 +1,1 @@
+local<unk>rep<unk>=<unk>game:GetService("ReplicatedStorage")<unk><unk>if<unk>rep:FindFirstChild("Footsteps")<unk>then<unk><unk>if<unk>not<unk>rep.Footsteps.AcceleratedWalking.Value<unk>then<unk><unk><unk>script.Parent:Destroy()<unk><unk>end<unk>end

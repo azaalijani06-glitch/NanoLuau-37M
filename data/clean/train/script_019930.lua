@@ -1,0 +1,1 @@
+--[[local<unk>humanoidf<unk>=<unk>Instance.new("Humanoid")<unk>humanoidf.Parent<unk>=<unk>game.Workspace.PlayerModule<unk><unk>humanoidf:ApplyDescription(game.Players:GetHumanoidDescriptionFromUserId(player.UserId))]]

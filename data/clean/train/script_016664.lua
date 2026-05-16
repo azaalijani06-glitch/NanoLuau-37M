@@ -1,0 +1,1 @@
+local<unk>playerGuiBlacklist<unk>=<unk>{<unk><unk>"Intro"<unk>}<unk><unk>local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk><unk>function<unk>kick()<unk><unk>plr:Kick("You<unk>have<unk>been<unk>kicked<unk>for<unk>cheating.")<unk>end

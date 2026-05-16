@@ -1,0 +1,1 @@
+while<unk>true<unk>do<unk><unk>script.Parent.CFrame<unk>=<unk>script.Parent.CFrame<unk>*<unk>CFrame.fromEulerAnglesXYZ(0,.01,0)<unk><unk>wait()<unk>end

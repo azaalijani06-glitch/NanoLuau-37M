@@ -1,0 +1,1 @@
+local<unk>Players<unk>=<unk>game.Players<unk>local<unk>PointsService<unk>=<unk>game:GetService('PointsService')

@@ -1,0 +1,1 @@
+Zombie=script.Parent<unk>repeat<unk>wait(0.1)<unk>until<unk>script.Parent.Parent:FindFirstChildOfClass("Part")

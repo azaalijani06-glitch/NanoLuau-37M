@@ -1,0 +1,1 @@
+local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>char<unk>=<unk>plr.Character<unk>local<unk>hum<unk>=<unk>char:WaitForChild("Humanoid")<unk>local<unk>gaurdingAnimation<unk>=<unk>hum.Animator:LoadAnimation(RS.Animations.Combat.Player:WaitForChild("Block"))<unk>local<unk>CD<unk>=<unk>1

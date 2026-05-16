@@ -1,0 +1,1 @@
+local<unk>mouse<unk>=<unk>game.Players.LocalPlayer:GetMouse()<unk>local<unk>frame<unk>=<unk>script.Parent.Frame

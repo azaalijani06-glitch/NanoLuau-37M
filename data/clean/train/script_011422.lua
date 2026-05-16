@@ -1,0 +1,1 @@
+local<unk>code<unk>=<unk>script.Parent.Code<unk>local<unk>redeem<unk>=<unk>script.Parent.Redeem<unk><unk>local<unk>event<unk>=<unk>game.ReplicatedStorage.Code

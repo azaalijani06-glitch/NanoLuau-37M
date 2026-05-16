@@ -1,0 +1,1 @@
+function<unk>Weld(L_31_arg1,<unk>L_32_arg2)<unk><unk>local<unk>L_33_<unk>=<unk>Instance.new("WeldConstraint",<unk>L_31_arg1)<unk><unk>L_33_.Part0<unk>=<unk>L_31_arg1<unk><unk>L_33_.Part1<unk>=<unk>L_32_arg2<unk><unk>L_33_.Name<unk>=<unk>L_31_arg1.Name<unk>end

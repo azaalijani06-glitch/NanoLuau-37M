@@ -1,0 +1,1 @@
+--<unk>local<unk>replacePathSepForGlob<unk>=<unk>require(script.Parent.replacePathSepForGlob).default

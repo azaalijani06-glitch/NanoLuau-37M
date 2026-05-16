@@ -1,0 +1,1 @@
+local<unk>partEmitter<unk>=<unk>require(Modules.PartEmitter)<unk>local<unk>partCacheModule<unk>=<unk>require(Modules.PartCache)<unk>local<unk>partCache<unk>=<unk>partCacheModule.new(script.Part,<unk>100,<unk>workspace.Debris)<unk>local<unk>SpiralModule<unk>=<unk>require(Modules.SpiralTrail)

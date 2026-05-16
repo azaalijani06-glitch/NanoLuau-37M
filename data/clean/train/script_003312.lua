@@ -1,0 +1,1 @@
+local<unk>FirstPersonRigAssembly<unk>=<unk>require(ReplicatedStorage.Common.FirstPersonRigAssembly)<unk>local<unk>Database<unk>=<unk>require(ReplicatedStorage.Common.Database)

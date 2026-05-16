@@ -1,0 +1,1 @@
+local<unk>Rep<unk>=<unk>game:GetService("ReplicatedStorage")<unk>local<unk>Assets<unk>=<unk>Rep:FindFirstChild("Assets")<unk>local<unk>Events<unk>=<unk>Assets:FindFirstChild("Events")<unk><unk>Events.Dialouge1.OnServerEvent:Connect(function()<unk><unk>script.Parent.Main.Disabled<unk>=<unk>false<unk>end)

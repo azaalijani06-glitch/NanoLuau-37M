@@ -1,0 +1,1 @@
+local<unk>runService<unk>=<unk>game:GetService("RunService")<unk>local<unk>uis<unk>=<unk>game:GetService("UserInputService")<unk><unk>local<unk>Drag<unk>=<unk>require(script.Drag)

@@ -1,0 +1,1 @@
+game.Players.PlayerRemoving:Connect(function(player)<unk><unk>---<unk>Remove<unk>from<unk>cache<unk><unk>RemovePlayer(player)<unk><unk>end)

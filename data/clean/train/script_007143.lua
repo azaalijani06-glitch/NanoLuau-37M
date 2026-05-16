@@ -1,0 +1,1 @@
+local<unk>Support<unk>=<unk>require(Libraries:WaitForChild<unk>'SupportLibrary')<unk>local<unk>Roact<unk>=<unk>require(Vendor:WaitForChild<unk>'Roact')<unk>local<unk>Maid<unk>=<unk>require(Libraries:WaitForChild<unk>'Maid')<unk>local<unk>Signal<unk>=<unk>require(Libraries:WaitForChild<unk>'Signal')

@@ -1,0 +1,1 @@
+local<unk>Players<unk>=<unk>game:GetService("Players")<unk>local<unk>UserInputService<unk>=<unk>game:GetService("UserInputService")<unk>local<unk>UserGameSettings<unk>=<unk>UserSettings():GetService("UserGameSettings")<unk><unk>local<unk>CameraUtils<unk>=<unk>{}<unk><unk>local<unk>function<unk>round(num:<unk>number)<unk><unk>return<unk>math.floor(num<unk>+<unk>0.5)<unk>end

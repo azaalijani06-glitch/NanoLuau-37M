@@ -1,0 +1,1 @@
+Heat<unk>=<unk>0<unk><unk>if<unk>GUI<unk>then<unk><unk>script.Parent.Visible<unk>=<unk>true<unk>else<unk><unk>script.Parent.Visible<unk>=<unk>false<unk>end

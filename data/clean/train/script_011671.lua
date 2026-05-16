@@ -1,0 +1,1 @@
+local<unk>Holder<unk>=<unk>script.Parent<unk><unk>local<unk>Button<unk>=<unk>Holder.IconButton<unk><unk>local<unk>SettingsMenu<unk>=<unk>Holder.Parent.Parent.SettingMenuHolder

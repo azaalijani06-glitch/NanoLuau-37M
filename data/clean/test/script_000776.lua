@@ -1,0 +1,1 @@
+local<unk>new<unk>=<unk>Roact.createElement<unk>local<unk>ImageLabel<unk>=<unk>require(UI:WaitForChild<unk>'ImageLabel')

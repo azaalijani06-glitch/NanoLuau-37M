@@ -1,0 +1,1 @@
+script.Parent.Color<unk>=<unk>Color3.new(math.random(),math.random(),math.random())<unk>wait(0.1)<unk>mode3()<unk>end<unk><unk>function<unk>mode4()

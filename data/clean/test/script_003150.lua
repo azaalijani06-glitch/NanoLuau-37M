@@ -1,0 +1,1 @@
+local<unk>Src<unk>=<unk>script.Parent<unk>local<unk>ErrorReporter<unk>=<unk>require(Src.ErrorReporter)<unk>local<unk>ErrorObserverClient<unk>=<unk>Src.ErrorObserverClient<unk><unk><unk>local<unk>er<unk>=<unk>ErrorReporter.new()<unk>local<unk>function<unk>onError(message,<unk>stack,<unk>origin)<unk><unk>er:Report(message,<unk>stack,<unk>origin)<unk>end

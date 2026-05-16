@@ -1,0 +1,1 @@
+--<unk>RunService.Heartbeat:Wait()<unk>--<unk>in<unk>case<unk>no<unk>player<unk>is<unk>near<unk>the<unk>npc<unk>--end

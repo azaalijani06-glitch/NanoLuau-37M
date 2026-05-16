@@ -1,0 +1,1 @@
+local<unk>soundService<unk>=<unk>game:GetService("SoundService")<unk>local<unk>chat<unk>=<unk>game:GetService("Chat")<unk>local<unk>players<unk>=<unk>game:GetService("Players")<unk>local<unk>lighting<unk>=<unk>game:GetService("Lighting")

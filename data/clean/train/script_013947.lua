@@ -1,0 +1,1 @@
+local<unk>new<unk>=<unk>Roact.createElement<unk>local<unk>ScopeHierarchyItemButton<unk>=<unk>require(script:WaitForChild<unk>'ScopeHierarchyItemButton')<unk>local<unk>HotkeyTooltip<unk>=<unk>require(script:WaitForChild<unk>'HotkeyTooltip')<unk>local<unk>ModeToggle<unk>=<unk>require(script:WaitForChild<unk>'ModeToggle')

@@ -1,0 +1,1 @@
+local<unk>Humanoid:Humanoid<unk>=<unk>script.Parent:WaitForChild("Humanoid")<unk>Humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll,<unk>false)<unk>Humanoid:SetStateEnabled(Enum.HumanoidStateType.Swimming,<unk>false)

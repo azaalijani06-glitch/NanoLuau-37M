@@ -1,0 +1,1 @@
+--<unk>add<unk>a<unk>wait<unk>till<unk>character<unk>is<unk>loaded<unk>in<unk>--local<unk>rumble<unk>=<unk>require(replicatedStorage.modules.RumbleSupport)

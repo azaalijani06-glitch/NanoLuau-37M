@@ -1,0 +1,1 @@
+local<unk>ContextActionService<unk>=<unk>game:GetService<unk>'ContextActionService'<unk>local<unk>Workspace<unk>=<unk>game:GetService<unk>'Workspace'<unk>local<unk>UserInputService<unk>=<unk>game:GetService('UserInputService')

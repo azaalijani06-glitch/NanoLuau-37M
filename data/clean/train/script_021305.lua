@@ -1,0 +1,1 @@
+pcall(function()<unk><unk>while<unk>script.Parent.PrimaryPart:GetNetworkOwnershipAuto()<unk>do<unk><unk><unk>script.Parent.PrimaryPart:SetNetworkOwner(nil)<unk><unk>end<unk>end)

@@ -1,0 +1,1 @@
+if<unk>workspace:findFirstChild("Rays")<unk>then<unk><unk>workspace:findFirstChild("Rays"):remove()<unk>end

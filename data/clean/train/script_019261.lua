@@ -1,0 +1,1 @@
+--[[<unk><unk>Clone<unk>the<unk>contents<unk>of<unk>StarterGui<unk>into<unk>the<unk>player's<unk>PlayerGui,<unk>placing<unk>them<unk>on<unk>top<unk><unk><unk>This<unk>is<unk>required<unk>as<unk>this<unk>game<unk>does<unk>not<unk>use<unk>characters,<unk>therefore<unk>StarterGui<unk>does<unk>not<unk>work<unk><unk>out<unk>of<unk>the<unk>box.<unk>]]

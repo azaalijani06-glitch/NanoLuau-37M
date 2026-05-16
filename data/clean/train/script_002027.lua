@@ -1,0 +1,1 @@
+--[[<unk>game["Run<unk>Service"].RenderStepped:connect(function()<unk><unk>local<unk>s<unk>=<unk>script.Parent.Parent.Sound<unk><unk>if<unk>s<unk>and<unk>s.IsPlaying<unk>then<unk><unk><unk>local<unk>pbl<unk>=<unk>s.PlaybackLoudness<unk><unk><unk>Tool.UpdatePlaybackLoudness:FireServer(pbl)<unk><unk>end<unk>end)<unk>]]

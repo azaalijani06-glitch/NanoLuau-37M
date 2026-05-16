@@ -1,0 +1,1 @@
+local<unk>STAT_SCRIPT<unk>=<unk>ServerScriptService.StatScript<unk><unk>local<unk>REMOTES<unk>=<unk>ReplicatedStorage.Remotes<unk>local<unk>MODULES<unk>=<unk>ReplicatedStorage.Modules<unk><unk>local<unk>CONFIG<unk><unk>=<unk>require(MODULES.Config)<unk><unk>local<unk>PROJECTILE<unk>=<unk>require(MODULES.Projectile)<unk><unk>local<unk>DAMAGE<unk><unk>=<unk>require(MODULES.Damage)

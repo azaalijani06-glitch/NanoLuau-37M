@@ -1,0 +1,1 @@
+local<unk>Types<unk>=<unk>require(script.Parent.Parent.Parent.Types)<unk><unk>return<unk>function(player:<unk>Player):<unk>Types.PlayerContainer<unk><unk>return<unk>{<unk>kind<unk>=<unk>"single",<unk>value<unk>=<unk>player<unk>}<unk>end

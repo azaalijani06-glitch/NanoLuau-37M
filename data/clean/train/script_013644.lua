@@ -1,0 +1,1 @@
+local<unk>tiles<unk>=<unk>script.Parent:GetChildren()<unk>--tiles/items<unk>inside<unk>of<unk>the<unk>model<unk>local<unk>speed<unk>=<unk>3<unk>--time<unk>between<unk>each<unk>color<unk>change

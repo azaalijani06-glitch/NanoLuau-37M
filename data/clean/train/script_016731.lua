@@ -1,0 +1,1 @@
+local<unk>parent<unk>=<unk>script.Parent.Parent.LoadingScreen<unk>local<unk>first<unk>=<unk>game.ReplicatedFirst<unk>parent.Parent<unk>=<unk>first<unk>script:Destroy()

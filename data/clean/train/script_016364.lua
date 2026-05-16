@@ -1,0 +1,1 @@
+local<unk>ModuleScriptsFolder<unk>=<unk>ReplicatedStorage.ModuleScripts<unk>local<unk>GameSettings<unk>=<unk>require(ModuleScriptsFolder.GameSettings)

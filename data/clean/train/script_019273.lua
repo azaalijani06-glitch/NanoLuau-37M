@@ -1,0 +1,1 @@
+local<unk>Players<unk>=<unk>game:GetService("Players")<unk>local<unk>Workspace<unk>=<unk>game:GetService("Workspace")

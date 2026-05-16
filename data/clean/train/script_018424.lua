@@ -1,0 +1,1 @@
+local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk>repeat<unk>wait()<unk>until<unk>plr.Character<unk>--Getting<unk>the<unk>player<unk>local<unk>chr<unk>=<unk>plr.Character<unk>hum<unk>=<unk>chr:FindFirstChild("Humanoid")<unk>gui<unk>=<unk>script:WaitForChild("Shading")

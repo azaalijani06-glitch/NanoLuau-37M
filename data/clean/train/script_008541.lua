@@ -1,0 +1,1 @@
+AlignOrientation.CFrame<unk>=<unk>script.Parent.CFrame<unk>*<unk>CFrame.Angles(math.rad(-1),<unk>0,<unk>0)<unk><unk>wait(23)<unk><unk>RotateBlimp().Completed:Connect(function()<unk><unk><unk>wait(3)<unk><unk><unk>RotateBlimp().Completed:Connect(function()<unk><unk><unk><unk>wait(20)<unk><unk><unk><unk>script.Parent:Destroy()<unk><unk><unk>end)<unk><unk>end)

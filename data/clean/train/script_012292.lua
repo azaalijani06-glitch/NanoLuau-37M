@@ -1,0 +1,1 @@
+local<unk>Template<unk>=<unk>script.Template<unk>local<unk>Plr<unk>=<unk>script.Parent.Parent.Parent<unk>local<unk>CarStorage<unk>=<unk>game.ReplicatedStorage.Vehicles<unk>local<unk>ScrollFrame<unk>=<unk>script.Parent.MainFrame.ScrollingFrame

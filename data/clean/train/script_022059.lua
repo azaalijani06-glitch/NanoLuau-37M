@@ -1,0 +1,1 @@
+local<unk>Hinge<unk>=<unk>script.Parent.Parent.Hinge1<unk>local<unk>OpenHinge<unk>=<unk>script.Parent.Parent.Open1<unk>local<unk>ClosedHinge<unk>=<unk>script.Parent.Parent.Closed1<unk>local<unk>Hinge1<unk>=<unk>script.Parent.Parent.Hinge0<unk>local<unk>OpenHinge1<unk>=<unk>script.Parent.Parent.Open0<unk>local<unk>ClosedHinge1<unk>=<unk>script.Parent.Parent.Closed0

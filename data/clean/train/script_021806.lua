@@ -1,0 +1,1 @@
+--function<unk>roamSelect()<unk>--<unk>if<unk>roaming<unk>==<unk>false<unk>then<unk>--<unk><unk>roaming<unk>=<unk>true<unk>--<unk><unk>Roam()<unk>--<unk>else<unk>--<unk><unk>roaming<unk>=<unk>false<unk>--<unk>end<unk>--end<unk>--script.Parent.Roam.MouseButton1Click:connect(roamSelect)

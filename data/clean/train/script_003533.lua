@@ -1,0 +1,1 @@
+local<unk>PartUtility<unk>=<unk>require(ReplicatedStorage.Common.PartUtility)<unk>local<unk>APICombat<unk>=<unk>require(ReplicatedStorage.Common.APICombat)<unk>local<unk>DamageInfo<unk>=<unk>require(ReplicatedStorage.Common.APICombat.DamageInfo)<unk>local<unk>WeaponDefinitionLoader<unk>=<unk>require(ReplicatedStorage.Common.WeaponDefintionLoader)

@@ -1,0 +1,1 @@
+--<unk>Ensures<unk>that<unk>SenseManager<unk>does<unk>nothing<unk>if<unk>accidentally<unk>required<unk>on<unk>client

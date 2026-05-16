@@ -1,0 +1,1 @@
+wait(.01)<unk><unk>debounce<unk>=<unk>false<unk><unk>end<unk><unk>end<unk><unk><unk><unk>script.Parent.Touched:connect(onTouch)

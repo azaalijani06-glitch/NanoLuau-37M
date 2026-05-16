@@ -1,0 +1,1 @@
+--game:GetService'ReplicatedStorage':WaitForChild'Count':FireServer(fold,<unk>countNum)<unk>causing<unk>server<unk>issues,<unk>will<unk>be<unk>done<unk>later

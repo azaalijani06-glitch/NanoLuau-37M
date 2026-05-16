@@ -1,0 +1,1 @@
+for<unk>_,NPC<unk>in<unk>pairs(workspace.Enemies:GetChildren())<unk>do<unk><unk>Distribute(NPC)<unk>end<unk><unk>workspace.Enemies.ChildAdded:Connect(Distribute)

@@ -1,0 +1,1 @@
+local<unk>myRoot<unk>=<unk>script.Parent:WaitForChild("HumanoidRootPart")<unk>local<unk>myHuman<unk>=<unk>script.Parent:WaitForChild("Humanoid")<unk>local<unk>upperTorso<unk>=<unk>script.Parent:WaitForChild("UpperTorso")

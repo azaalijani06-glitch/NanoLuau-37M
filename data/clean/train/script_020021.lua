@@ -1,0 +1,1 @@
+--<unk>local<unk>creator_tag<unk>=<unk>Instance.new("ObjectValue")<unk>--<unk>Don't<unk>need<unk>this<unk>anymore,<unk>as<unk>the<unk>module<unk>only<unk>needs<unk>the<unk>player<unk>value<unk>--<unk>creator_tag.Value<unk>=<unk>plr<unk>--<unk>creator_tag.Name<unk>=<unk>"creator"<unk>--<unk>creator_tag.Parent<unk>=<unk>bomb2

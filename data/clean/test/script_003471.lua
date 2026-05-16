@@ -1,0 +1,1 @@
+local<unk>ReplicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")<unk>local<unk>TweenService<unk><unk>=<unk>game:GetService("TweenService")<unk>local<unk>Workspace<unk><unk><unk>=<unk>game:GetService("Workspace")<unk>local<unk>Debris<unk><unk><unk>=<unk>game:GetService("Debris")

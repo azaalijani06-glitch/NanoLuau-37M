@@ -1,0 +1,1 @@
+workspace.CurrentCamera.CameraType<unk>=<unk>Enum.CameraType.Custom<unk>workspace.CurrentCamera.CameraSubject<unk>=<unk>script.Parent:WaitForChild('Humanoid')<unk><unk>wait()<unk><unk>script:Destroy()

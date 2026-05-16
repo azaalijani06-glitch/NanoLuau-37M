@@ -1,0 +1,1 @@
+game:GetService("RunService").RenderStepped:Connect(function()<unk><unk>--//Visible--<unk><unk>for<unk>i,<unk>part<unk>in<unk>pairs(character:GetChildren())<unk>do<unk><unk><unk>if<unk>string.match(part.Name,<unk>"Leg")<unk>or<unk>string.match(part.Name,<unk>"Foot")<unk>then<unk><unk><unk><unk>part.LocalTransparencyModifier<unk>=<unk>0<unk><unk><unk>end<unk><unk>end<unk>end)

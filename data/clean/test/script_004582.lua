@@ -1,0 +1,1 @@
+--[[<unk><unk><unk><unk><unk>Returns<unk>true<unk>if<unk>the<unk>given<unk>value<unk>is<unk>not<unk>automatically<unk>memory<unk>managed,<unk>and<unk><unk><unk><unk><unk>requires<unk>manual<unk>cleanup.<unk>]]

@@ -1,0 +1,1 @@
+local<unk>bindable<unk>=<unk>Instance.new("BindableEvent",<unk>script)<unk>bindable.Name<unk>=<unk>"DamageEvent"<unk>bindable.Event:Connect(_onDamage)

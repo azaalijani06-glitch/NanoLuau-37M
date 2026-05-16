@@ -1,0 +1,1 @@
+local<unk>Trigger<unk>=<unk>script.Parent<unk><unk>local<unk>SpawnEvent<unk>=<unk>game.ReplicatedStorage:WaitForChild("SpawnEvent")<unk>local<unk>SpawnPoint<unk>=<unk>Trigger.Parent.CrateSpawnAttachment

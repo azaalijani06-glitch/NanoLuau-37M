@@ -1,0 +1,1 @@
+local<unk>Open<unk>=<unk>script.Parent.Open.Value<unk>local<unk>Ready<unk>=<unk>script.Parent.Ready.Value

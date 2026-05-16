@@ -1,0 +1,1 @@
+--while<unk>wait(.5)<unk>do<unk>--<unk>if<unk>isIntermission<unk>then<unk>--<unk><unk>suff<unk>=<unk>1+(suff+3)%3<unk>--<unk><unk>script.Parent.Holder.TextLabel.Text<unk>=<unk>'Intermission'..string.rep('.',suff)<unk>--<unk>end<unk>--end

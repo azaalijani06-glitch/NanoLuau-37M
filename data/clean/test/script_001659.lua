@@ -1,0 +1,1 @@
+local<unk>Player<unk>=<unk>Players.LocalPlayer<unk>local<unk>PlayerGui<unk>=<unk>Player:WaitForChild("PlayerGui")<unk><unk>local<unk>Interface<unk>=<unk>PlayerGui:WaitForChild("UserInterface")<unk>local<unk>Options<unk>=<unk>Interface.MainMeta.Content.Options

@@ -1,0 +1,1 @@
+local<unk>MainGui<unk>=<unk>script.Parent<unk>local<unk>TextButton<unk>=<unk>MainGui.Frame.TextLabel.TextButton<unk>local<unk>sound<unk>=<unk>game.StarterPack.Phone.ClickSound<unk>TextButton.MouseButton1Up:Connect(function()<unk><unk>sound:Play()<unk>end)

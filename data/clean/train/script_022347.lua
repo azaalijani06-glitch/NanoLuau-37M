@@ -1,0 +1,1 @@
+--[[function<unk>colorwep()<unk><unk>plr=game.Players.LocalPlayer<unk><unk>if<unk>plr<unk>then<unk><unk><unk>--sp.Handle.Mesh.VertexColor=Vector3.new(plr.TeamColor.Color.r,plr.TeamColor.Color.g,plr.TeamColor.Color.b)<unk><unk><unk>sp.Handle.BrickColor=plr.TeamColor<unk><unk>end<unk>end<unk>colorwep()<unk>if<unk>plr<unk>then<unk><unk>plr.Changed:connect(colorwep)<unk>end]]

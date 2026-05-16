@@ -1,0 +1,1 @@
+Security<unk>=<unk>require(Tool.SecurityModule);<unk>History<unk>=<unk>require(Tool.HistoryModule);<unk>Selection<unk>=<unk>require(Tool.SelectionModule);<unk>Targeting<unk>=<unk>require(Tool.TargetingModule);<unk>Region<unk>=<unk>require(Tool['Region<unk>by<unk>AxisAngle']);<unk>RbxUtility<unk>=<unk>LoadLibrary<unk>'RbxUtility';<unk>Create<unk>=<unk>RbxUtility.Create;

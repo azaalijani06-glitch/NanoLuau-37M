@@ -1,0 +1,1 @@
+local<unk>Module<unk>=<unk>script.Parent<unk>local<unk>OnBtn<unk>=<unk>Module.OnButton<unk>local<unk>OffBtn<unk>=<unk>Module.OffButton<unk>local<unk>Cylinder<unk>=<unk>Module.MovingCylinder<unk>local<unk>Mode<unk>=<unk>script.On<unk>local<unk>OGPosition,<unk>Goal

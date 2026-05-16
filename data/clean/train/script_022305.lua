@@ -1,0 +1,1 @@
+local<unk>BuyCasesEvents<unk>=<unk>game:GetService("ReplicatedStorage").Events.BuyCase<unk>local<unk>OpenCasesEvents<unk>=<unk>game:GetService("ReplicatedStorage").Events.OpenCase<unk>local<unk>MessagesEvents<unk>=<unk>game:GetService("ReplicatedStorage").Events.Messages

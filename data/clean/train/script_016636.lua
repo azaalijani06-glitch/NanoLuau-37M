@@ -1,0 +1,1 @@
+local<unk>TweenService<unk>=<unk>game:GetService("TweenService")<unk>local<unk>parts<unk>=<unk>{centerWeld,leftWeld,rightWeld}<unk>local<unk>part<unk>=<unk>centerWeld

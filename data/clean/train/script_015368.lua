@@ -1,0 +1,1 @@
+--<unk><unk>if<unk>RunService:IsStudio()<unk>then<unk>--<unk><unk><unk>return<unk>true<unk>--<unk><unk>end

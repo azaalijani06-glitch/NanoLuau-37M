@@ -1,0 +1,1 @@
+local<unk>door1<unk>=<unk>script.Parent.Door1<unk>local<unk>door2<unk>=<unk>script.Parent.Door2<unk><unk>local<unk>vaf<unk>=<unk>script.Parent.Values<unk>local<unk>caf<unk>=<unk>script.Parent.Calls<unk>local<unk>sef<unk>=<unk>script.Parent.Settings

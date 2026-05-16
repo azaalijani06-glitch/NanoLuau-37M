@@ -1,0 +1,1 @@
+--local<unk>part2<unk>=<unk>Instance.new("Part")<unk>--if<unk>Instance.Lock(part2)<unk>then<unk>--<unk>Instance.Unlock(part2)<unk>--end

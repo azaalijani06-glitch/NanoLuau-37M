@@ -1,0 +1,1 @@
+while<unk>Spawner<unk>and<unk>Spawner.Parent~=nil<unk>and<unk>Zombie<unk>do<unk><unk>if<unk>not<unk>CurZombie<unk>or<unk>CurZombie.Parent~=workspace<unk>then<unk><unk><unk>CurZombie=Zombie:Clone()<unk><unk><unk>CurZombie:MoveTo(Spawner.Position)<unk><unk><unk>CurZombie.Parent=workspace<unk><unk><unk>DestroyCorpseOnDeath(CurZombie)<unk><unk>end<unk><unk>wait(5)<unk>end

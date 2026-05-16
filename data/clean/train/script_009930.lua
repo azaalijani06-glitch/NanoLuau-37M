@@ -1,0 +1,1 @@
+--local<unk>ViewPort<unk>=<unk>game.Players.LocalPlayer.PlayerGui["FOSLS-UI<unk>MODIFYING"].Container.Content.AnimationSelection.Main.Preview.ViewportFrame;

@@ -1,0 +1,1 @@
+repeat<unk><unk>wait(0.1)<unk>if<unk>shake.Value<unk>==<unk>true<unk>then<unk><unk>shakeCamera(1,<unk>script.Parent.Parent.HumanoidRootPart.Position,<unk>true)<unk><unk>end<unk>until<unk>nut<unk>==<unk>false

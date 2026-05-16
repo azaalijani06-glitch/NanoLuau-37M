@@ -1,0 +1,1 @@
+--script.Parent.Activated:Connect(function()<unk>--<unk>game.ReplicatedStorage.SendGiftType:FireServer("claim",<unk>script.Username.Value,<unk>script.Parent.Name)<unk>--<unk>subtractGiftCount()<unk>--<unk>game.SoundService.Success:Play()<unk>--<unk>script.Parent:Destroy()<unk>--end)

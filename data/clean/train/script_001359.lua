@@ -1,0 +1,1 @@
+--script.Parent.MouseClick:Connect(function()<unk>--<unk>script.Parent.MaxActivationDistance<unk>=<unk>0<unk>--<unk>TweenA:Play()<unk>--<unk>wait(7)<unk>--<unk>TweenB:Play()<unk>--<unk>wait(3)<unk>--<unk>script.Parent.MaxActivationDistance<unk>=<unk>20<unk>--end)

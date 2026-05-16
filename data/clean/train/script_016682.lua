@@ -1,0 +1,1 @@
+sp=script.Parent<unk><unk><unk>function<unk>Equipped(mouse)<unk><unk>if<unk>mouse~=nil<unk>then<unk><unk><unk>mouse.Icon="rbxasset://textures\\GunCursor.png"<unk><unk>end<unk>end<unk>sp.Equipped:connect(Equipped)

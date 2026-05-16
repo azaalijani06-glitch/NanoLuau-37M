@@ -1,0 +1,1 @@
+local<unk>owner<unk>=<unk>script.Parent.OwnerName<unk>local<unk>door<unk>=<unk>script.Parent<unk>local<unk>prompt<unk>=<unk>script.Parent.OpenClose<unk>local<unk>rentprompt<unk>=<unk>script.Parent.Rent<unk>local<unk>Player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>door2<unk>=<unk>script.Parent.Parent.Door2

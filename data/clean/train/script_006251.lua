@@ -1,0 +1,1 @@
+local<unk>SG<unk>=<unk>game:GetService("StarterGui")<unk><unk>while<unk>wait()<unk>do<unk>SG:SetCoreGuiEnabled("Chat",<unk>false)<unk>end

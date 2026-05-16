@@ -1,0 +1,1 @@
+local<unk>localPlayer<unk>=<unk>Players.LocalPlayer<unk>local<unk>playerGui<unk>=<unk>localPlayer:WaitForChild("PlayerGui")<unk><unk>local<unk>GuiHandler<unk>=<unk>require(ReplicatedStorage.Core.ClientGuisHandler)<unk><unk>if<unk>not<unk>PingHandler.doingSetup<unk>and<unk>not<unk>PingHandler.didSetup<unk>then<unk><unk>PingHandler.setup()<unk>end

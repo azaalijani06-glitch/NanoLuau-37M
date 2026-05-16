@@ -1,0 +1,1 @@
+local<unk>Sift<unk>=<unk>script.Parent.Parent<unk><unk>local<unk>copy<unk>=<unk>require(Sift.Dictionary.copy)

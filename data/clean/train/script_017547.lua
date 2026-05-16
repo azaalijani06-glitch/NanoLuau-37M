@@ -1,0 +1,1 @@
+local<unk>new<unk>=<unk>Roact.createElement<unk>local<unk>Slider<unk>=<unk>require(script:WaitForChild('Slider'))

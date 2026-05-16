@@ -1,0 +1,1 @@
+--[[function<unk>Communication:EffectWriter()<unk><unk><unk><unk><unk>local<unk>CommunicationServer<unk>=<unk>Knit.GetService("Communication")<unk><unk><unk><unk><unk><unk>CommunicationServer.EffectWriter:Connect(function(Module,<unk>Model)<unk><unk><unk><unk><unk><unk><unk><unk><unk>require(script.Parent.Parent.Effects[Module]):Init(Model)<unk><unk><unk><unk><unk>end)<unk>end]]

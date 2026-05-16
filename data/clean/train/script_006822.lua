@@ -1,0 +1,1 @@
+--<unk><unk>local<unk>bike=script.Parent.Parent<unk>local<unk>_Tune=require(script.Parent)<unk><unk>wait(_Tune.LoadDelay)

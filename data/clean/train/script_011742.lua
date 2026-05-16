@@ -1,0 +1,1 @@
+--<unk><unk>--<unk>If<unk>already<unk>loaded<unk>and<unk>cached,<unk>return<unk>cached<unk>module.<unk>This<unk>should<unk>behave<unk>--<unk><unk>--<unk>similarly<unk>to<unk>normal<unk>`require`<unk>behavior<unk>--<unk><unk>if<unk>requiredModules[scriptInstance]<unk>~=<unk>nil<unk>then<unk>--<unk><unk><unk>return<unk>requiredModules[scriptInstance]<unk>--<unk><unk>end

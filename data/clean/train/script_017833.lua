@@ -1,0 +1,1 @@
+Players.PlayerAdded:connect(HandlePlayer)<unk><unk>script.AddArmor.OnInvoke<unk>=<unk>AddArmor<unk>script.Boost.Event:connect(Boost)

@@ -1,0 +1,1 @@
+rentprompt.TriggerEnded:Connect(function(Player)<unk><unk>local<unk>claim<unk>=<unk>Player.Name<unk><unk>if<unk>owner.Value<unk>==<unk>""<unk>then<unk><unk><unk>owner.Value<unk>=<unk>claim<unk><unk><unk>script.Parent.Rent.Enabled<unk>=<unk>false<unk><unk><unk>script.Parent.OpenClose.Enabled<unk>=<unk>true<unk><unk>end<unk>end)

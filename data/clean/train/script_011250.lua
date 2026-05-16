@@ -1,0 +1,1 @@
+local<unk>cam<unk>=<unk>workspace.CurrentCamera<unk>local<unk>camPart<unk>=<unk>workspace["CameraPart"]<unk>local<unk>mouse<unk>=<unk>game:GetService("Players").LocalPlayer:GetMouse()

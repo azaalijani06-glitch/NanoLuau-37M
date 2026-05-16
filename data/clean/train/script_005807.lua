@@ -1,0 +1,1 @@
+--while<unk>true<unk>do<unk>--<unk>wait(0.5)<unk>--<unk>script.Parent.Parent.Name=script.Parent.Owner.Value<unk>..<unk>"'s<unk>Ship"<unk>--end

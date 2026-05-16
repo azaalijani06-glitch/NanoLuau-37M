@@ -1,0 +1,1 @@
+--[=[<unk><unk>@class<unk>Touch<unk><unk>@client<unk><unk><unk>The<unk>Touch<unk>class<unk>is<unk>part<unk>of<unk>the<unk>Input<unk>package.<unk><unk><unk>```lua<unk><unk>local<unk>Touch<unk>=<unk>require(packages.Input).Touch<unk><unk>```<unk>]=]

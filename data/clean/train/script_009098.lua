@@ -1,0 +1,1 @@
+src.Headlights.SpotLight.Enabled<unk>=<unk>true<unk><unk><unk>src.Headlights.Material<unk>=<unk>"Neon"<unk><unk><unk>light.Value<unk>=<unk>true<unk><unk>return<unk><unk>end<unk>end<unk>end)<unk>src.Parent.ChildRemoved:connect(function(child)<unk><unk>if<unk>child.Name=="SeatWeld"<unk>then<unk><unk><unk><unk>src:Stop()<unk><unk><unk>script.Parent:Destroy()<unk><unk>end<unk>end)

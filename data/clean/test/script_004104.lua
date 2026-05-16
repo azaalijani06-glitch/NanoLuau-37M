@@ -1,0 +1,1 @@
+local<unk>function<unk>printWarningMessage(target)<unk><unk>local<unk>msg<unk>=<unk>table.concat({<unk><unk><unk>string.format("Could<unk>not<unk>locate<unk>%s.",<unk>target),<unk><unk><unk>string.format("Clientside<unk>error<unk>reporting<unk>disabled<unk>for<unk>%s",<unk>Players.LocalPlayer.Name),<unk><unk>},<unk>"<unk>")<unk><unk>warn(msg)<unk>end

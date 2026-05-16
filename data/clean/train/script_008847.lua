@@ -1,0 +1,1 @@
+sp<unk>=<unk>script.Parent<unk>run<unk>=<unk>game:GetService("RunService")<unk>run.RenderStepped:Connect(function()<unk><unk>sp.Rotation<unk>=<unk>sp.Rotation<unk>+<unk>1<unk>end)

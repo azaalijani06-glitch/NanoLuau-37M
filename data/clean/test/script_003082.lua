@@ -1,0 +1,1 @@
+--[[<unk><unk>print("Started<unk>Clone<unk>Generation")<unk><unk>for<unk>i,k<unk>in<unk>pairs(Players)do<unk><unk><unk>RS.Replicate:FireClient(player,k)<unk><unk>end<unk><unk>print("Finished<unk>Clone<unk>Generation")<unk><unk>]]

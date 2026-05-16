@@ -1,0 +1,1 @@
+return<unk>require(ReplicatedStorage.Systems.EntitySystem.EntityClient.Render.EntityRenderController)

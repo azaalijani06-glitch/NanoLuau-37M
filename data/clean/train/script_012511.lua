@@ -1,0 +1,1 @@
+--<unk>creates<unk>a<unk>mask<unk>with<unk>'n'<unk>1<unk>bits<unk>at<unk>position<unk>'p'<unk>--<unk>MASK1(n,p)<unk>deleted,<unk>not<unk>required<unk>--<unk>creates<unk>a<unk>mask<unk>with<unk>'n'<unk>0<unk>bits<unk>at<unk>position<unk>'p'<unk>--<unk>MASK0(n,p)<unk>deleted,<unk>not<unk>required

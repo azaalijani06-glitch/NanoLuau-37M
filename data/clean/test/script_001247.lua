@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Game.Events.UI.Notification.OnClientEvent:Connect(function(...)<unk><unk>NotificationModule.QueueNotification(...)<unk>end)

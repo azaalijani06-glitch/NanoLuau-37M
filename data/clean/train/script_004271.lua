@@ -1,0 +1,1 @@
+while<unk>wait()<unk>do<unk><unk>script.Parent.Rotation<unk>=<unk>script.Parent.Rotation<unk>+<unk>15<unk><unk>if<unk>script.Parent.Rotation<unk>==<unk>360<unk>then<unk><unk><unk>script.Parent.Rotation<unk>=<unk>0<unk><unk>end<unk>end

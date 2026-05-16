@@ -1,0 +1,1 @@
+local<unk>SettingsS<unk>=<unk>Seat.Parent.Parent.Settings<unk><unk>local<unk>Settings<unk>=<unk>require(SettingsS)<unk><unk>local<unk>ExplosiveMissileScript<unk>=<unk>script.SubScripts.ExplosiveMissile<unk>local<unk>SmokeMissileScript<unk>=<unk>script.SubScripts.SmokeMissile<unk>local<unk>HeatMissileScript<unk>=<unk>script.SubScripts.HeatMissile

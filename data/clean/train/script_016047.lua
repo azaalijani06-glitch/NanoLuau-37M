@@ -1,0 +1,1 @@
+local<unk>Time<unk>=<unk>Instance.new('IntValue',<unk>game.Workspace:WaitForChild('MapPurgeProof'))<unk>Time.Name<unk>=<unk>'Time'

@@ -1,0 +1,1 @@
+local<unk>m4<unk>=<unk>script.Parent:WaitForChild("M4")<unk>local<unk>m4Weld<unk>=<unk>m4:WaitForChild("M4<unk>Weld")<unk>local<unk>barrel<unk>=<unk>script.Parent:WaitForChild("Barrel")<unk>local<unk>aimer<unk>=<unk>script.Parent:WaitForChild("Aimer")<unk>local<unk>aimerWeld<unk>=<unk>aimer:WaitForChild("Aimer<unk>Weld")

@@ -1,0 +1,1 @@
+local<unk>Replicated<unk>=<unk>game:GetService("ReplicatedStorage")<unk>local<unk>TS<unk>=<unk>game:GetService("TweenService")<unk>local<unk>Debris<unk>=<unk>game:GetService("Debris")

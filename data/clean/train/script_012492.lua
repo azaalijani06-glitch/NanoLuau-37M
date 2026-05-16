@@ -1,0 +1,1 @@
+local<unk>PLAYER<unk>=<unk>Players.LocalPlayer<unk><unk>local<unk>REMOTES<unk>=<unk>ReplicatedStorage:WaitForChild("Remotes")<unk><unk>local<unk>GUI<unk><unk>=<unk>script.Parent<unk>local<unk>INFO_GUI<unk>=<unk>GUI:WaitForChild("InfoFrame")<unk>local<unk>MAP_GUI<unk>=<unk>GUI:WaitForChild("Minimap")

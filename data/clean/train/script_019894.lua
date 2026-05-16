@@ -1,0 +1,1 @@
+local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk><unk>script.Parent.ItemIcon.MouseButton1Click:connect(function()<unk><unk><unk><unk>--<unk>Play<unk>sound<unk><unk>plr.PlayerGui.GUIClick:Play()<unk><unk><unk><unk>--<unk>Set<unk>as<unk>preview<unk><unk>plr.PlayerGui.MainGui.Shop.MainFrame.Preview.Item.Value<unk>=<unk>script.Parent.Item.Value<unk><unk><unk>end)

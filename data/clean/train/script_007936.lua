@@ -1,0 +1,1 @@
+state<unk>=<unk>script.Parent.Parent.Parent.State<unk>config<unk>=<unk>script.Parent.Parent.Parent.Config

@@ -1,0 +1,1 @@
+script.Parent.Triggered:Connect(function(plr)<unk><unk>plr.leaderstats.Coins.Value<unk>=<unk>plr.leaderstats.Coins.Value<unk>+<unk>amount<unk>end)

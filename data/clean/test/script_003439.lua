@@ -1,0 +1,1 @@
+local<unk>new<unk>=<unk>Roact.createElement<unk>local<unk>HotkeyTooltip<unk>=<unk>require(script.Parent:WaitForChild<unk>'HotkeyTooltip')

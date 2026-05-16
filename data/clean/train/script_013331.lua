@@ -1,0 +1,1 @@
+local<unk>MS<unk>=<unk>game:GetService("MarketplaceService")<unk>local<unk>P<unk>=<unk>game:GetService("Players")

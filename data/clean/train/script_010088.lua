@@ -1,0 +1,1 @@
+local<unk>fovCamera<unk>=<unk>game.Workspace:WaitForChild("Camera")<unk>local<unk>fovCode<unk>=<unk>script.Parent.Parent.idb

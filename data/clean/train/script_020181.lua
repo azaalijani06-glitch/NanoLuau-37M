@@ -1,0 +1,1 @@
+--script.Parent.BBB.Velocity<unk>=<unk>script.Parent.BBB.CFrame.lookVector<unk>*script.Parent.Speed.Value

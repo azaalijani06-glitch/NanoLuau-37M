@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>char<unk>=<unk>player.Character<unk>or<unk>player.CharacterAdded:Wait()<unk><unk>local<unk>healthbar<unk>=<unk>script.Parent:WaitForChild("HealthBar")

@@ -1,0 +1,1 @@
+local<unk>new<unk>=<unk>Roact.createElement<unk>local<unk>NotificationDialog<unk>=<unk>require(script:WaitForChild('NotificationDialog'))

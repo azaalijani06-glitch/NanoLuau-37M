@@ -1,0 +1,1 @@
+--<unk>MODULES<unk>--<unk>--local<unk>fallService<unk>=<unk>require(script.Parent:WaitForChild("FallService"))

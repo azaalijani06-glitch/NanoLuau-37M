@@ -1,0 +1,1 @@
+local<unk>L_12_<unk>=<unk>game:GetService('UserInputService')<unk>local<unk>L_13_<unk>=<unk>game:GetService('RunService')

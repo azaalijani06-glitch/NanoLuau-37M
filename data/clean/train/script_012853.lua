@@ -1,0 +1,1 @@
+local<unk>nextTime<unk>=<unk>0<unk>local<unk>runService<unk>=<unk>game:service("RunService");<unk><unk>while<unk>Figure.Parent~=nil<unk>do<unk><unk>time<unk>=<unk>runService.Stepped:wait()<unk><unk>if<unk>time<unk>><unk>nextTime<unk>then<unk><unk><unk>move(time)<unk><unk><unk>nextTime<unk>=<unk>time<unk>+<unk>.1<unk><unk>end<unk>end

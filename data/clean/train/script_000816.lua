@@ -1,0 +1,1 @@
+--https://roblox.com/library/2530470096/rbxscriptsignal<unk>--If<unk>you<unk>are<unk>only<unk>going<unk>to<unk>be<unk>requiring<unk>this<unk>from<unk>the<unk>server<unk>you<unk>can<unk>require<unk>by<unk>its<unk>asset<unk>ID.

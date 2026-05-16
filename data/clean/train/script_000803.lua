@@ -1,0 +1,1 @@
+local<unk>players<unk>=<unk>game:GetService("Players")<unk>local<unk>replicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")<unk><unk>local<unk>remotes<unk>=<unk>replicatedStorage:WaitForChild("Remotes",<unk>60)<unk><unk><unk>local<unk>sendFeed<unk>=<unk>remotes:WaitForChild("SendFeed",<unk>60)

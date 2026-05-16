@@ -1,0 +1,1 @@
+local<unk>ReplicatedFirst<unk>=<unk>game:GetService('ReplicatedFirst')<unk>local<unk>TeleportService<unk>=<unk>game:GetService("TeleportService")<unk><unk>ReplicatedFirst:RemoveDefaultLoadingScreen()<unk>TeleportService:SetTeleportGui(Instance.new('ScreenGui'))

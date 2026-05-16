@@ -1,0 +1,1 @@
+while<unk>true<unk>do<unk>UpdateTime()<unk>game.Lighting.TimeOfDay<unk>=<unk>hour.Value..":"..min.Value..":"..sec.Value<unk>script.Parent.Name<unk>=<unk>hour.Value.."<unk>:<unk>"..min.Value.."<unk>:<unk>"..sec.Value..<unk>"<unk>Day<unk>"<unk>..day.Value..<unk>"<unk>Month<unk>"<unk>..month.Value..<unk>"<unk>Year<unk>"<unk>..year.Value<unk>wait(1)<unk>end

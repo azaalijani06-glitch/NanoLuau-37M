@@ -1,0 +1,1 @@
+--while<unk>true<unk>do<unk>--<unk>script.Parent.JumpPower.Text<unk>=<unk>game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").JumpPower<unk>--<unk>script.Parent.WalkSpeed.Text<unk>=<unk>game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").WalkSpeed<unk>--<unk>wait()<unk>--end

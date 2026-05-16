@@ -1,0 +1,1 @@
+local<unk>ReactLazy<unk>=<unk>require(script.ReactLazy)<unk>export<unk>type<unk>LazyComponent<T,<unk>P><unk>=<unk>ReactLazy.LazyComponent<T,<unk>P><unk><unk>local<unk>SharedModule<unk>=<unk>require(Packages.Shared)<unk>export<unk>type<unk>StatelessFunctionalComponent<P><unk>=<unk>SharedModule.React_StatelessFunctionalComponent<P>

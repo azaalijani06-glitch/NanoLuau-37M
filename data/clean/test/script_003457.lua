@@ -1,0 +1,1 @@
+--<unk>dependencies<unk>:<unk>(dictionary<string,<unk>table>)<unk>a<unk>map<unk>of<unk>requirements<unk>--<unk>dependencies.networking<unk>:<unk>(table)<unk>an<unk>object<unk>that<unk>implements<unk>POST<unk>and<unk>returns<unk>a<unk>promise

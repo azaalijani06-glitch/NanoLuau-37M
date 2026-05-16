@@ -1,0 +1,1 @@
+local<unk>Tool<unk>=<unk>script.Parent<unk>repeat<unk>wait()<unk>until<unk>Tool.Parent:findFirstChild("Humanoid")<unk>local<unk>Plr<unk>=<unk>game.Players:findFirstChild(Tool.Parent.Name)<unk>local<unk>Chr<unk>=<unk>Tool.Parent<unk>local<unk>Hum<unk>=<unk>Chr.Humanoid<unk>local<unk>R<unk>=<unk>Random.new()

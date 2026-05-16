@@ -1,0 +1,1 @@
+--<unk>local<unk>CoverageWorkerModule<unk>=<unk>require(CurrentModule.CoverageWorker)<unk>--<unk>type<unk>worker<unk>=<unk>CoverageWorkerModule.worker

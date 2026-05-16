@@ -1,0 +1,1 @@
+local<unk>main<unk>=<unk>_G.HDAdminMain<unk>local<unk>playerGui<unk>=<unk>main.playerGui<unk>local<unk>topbarPlus<unk>=<unk>main.replicatedStorage:WaitForChild("HDAdmin"):WaitForChild("Topbar+")<unk>local<unk>iconController<unk>=<unk>require(topbarPlus.IconController)

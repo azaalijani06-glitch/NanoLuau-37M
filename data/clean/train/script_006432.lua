@@ -1,0 +1,1 @@
+local<unk>Template<unk>=<unk>script.Template<unk>local<unk>Plr<unk>=<unk>script.Parent.Parent.Parent.Parent.Parent

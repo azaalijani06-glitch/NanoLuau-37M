@@ -1,0 +1,1 @@
+local<unk>barb<unk>=<unk>script.Parent<unk>barb.Touched:connect(function(hit)<unk><unk>if<unk>hit<unk>==<unk>nil<unk>then<unk>return<unk>end<unk><unk>if<unk>hit.Parent<unk>==<unk>nil<unk>then<unk>return<unk>end<unk><unk>if<unk>hit.Parent:findFirstChild("Humanoid")<unk>or<unk>hit.Parent:findFirstChild("Zombie")<unk>~=<unk>nil<unk>then

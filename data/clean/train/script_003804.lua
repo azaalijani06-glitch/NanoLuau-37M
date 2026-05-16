@@ -1,0 +1,1 @@
+--<unk>TODO:<unk>Only<unk>require<unk>itemId.<unk>Category<unk>can<unk>be<unk>looked<unk>up<unk>with<unk>getCategoryForItemId<unk>now<unk>that<unk>we<unk>assume<unk>itemIds<unk>are<unk>unique<unk>across<unk>categories

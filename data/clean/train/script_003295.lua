@@ -1,0 +1,1 @@
+local<unk>knife<unk>=<unk>script.Parent:WaitForChild("Knife")<unk>local<unk>knifeWeld<unk>=<unk>knife:WaitForChild("Knife<unk>Weld")

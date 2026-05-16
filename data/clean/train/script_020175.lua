@@ -1,0 +1,1 @@
+--script.Parent.MouseClick:Connect(function()<unk>--<unk>local<unk>clonedExplosion<unk>=<unk>Explosion:Clone()<unk>--<unk>Explosion.Parent<unk>=<unk>game.Workspace.ExplodeWall.ExplosionPart<unk>--end)

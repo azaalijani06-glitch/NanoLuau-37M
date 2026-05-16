@@ -1,0 +1,1 @@
+handler.OnClientEvent:Connect(function()<unk><unk>print('client<unk>received')<unk><unk>local<unk>val<unk>=<unk>game.Players.LocalPlayer:WaitForChild('PlayerGui'):WaitForChild('A-Chassis<unk>Interface')<unk><unk>val.IsOn.Value<unk>=<unk>false<unk>end)

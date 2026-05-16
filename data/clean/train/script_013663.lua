@@ -1,0 +1,1 @@
+Seagull<unk>=<unk>script.Parent<unk>RunService<unk>=<unk>game:GetService("RunService")<unk><unk>Torso<unk>=<unk>Seagull:WaitForChild("Body")<unk>LeftWing<unk>=<unk>Seagull:WaitForChild("LeftWing")<unk>RightWing<unk>=<unk>Seagull:WaitForChild("RightWing")<unk><unk>LeftMotor<unk>=<unk>Torso:WaitForChild("LeftMotor")<unk>RightMotor<unk>=<unk>Torso:WaitForChild("RightMotor")

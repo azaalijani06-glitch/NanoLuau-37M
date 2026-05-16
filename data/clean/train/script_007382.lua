@@ -1,0 +1,1 @@
+local<unk>playersService<unk>=<unk>game:GetService("Players")<unk>local<unk>tweenService<unk>=<unk>game:GetService("TweenService")<unk>local<unk>part<unk>=<unk>script.Parent

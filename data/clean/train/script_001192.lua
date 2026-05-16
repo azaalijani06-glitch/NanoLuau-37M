@@ -1,0 +1,1 @@
+--[[<unk><unk>script.Parent.Text<unk>=<unk>"Text"<unk>TweenService:Create(script.Parent,<unk>Info,<unk>{TextTransparency<unk>=<unk>0}):Play()<unk>wait(5)<unk>TweenService:Create(script.Parent,<unk>Info,<unk>{TextTransparency<unk>=<unk>1}):Play()<unk>wait(0.5)<unk><unk>Use<unk>this<unk>to<unk>add<unk>more<unk>cycles.<unk><unk>]]

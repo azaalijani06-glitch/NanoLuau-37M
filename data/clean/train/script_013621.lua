@@ -1,0 +1,1 @@
+--[[<unk><unk>--<unk>This<unk>is<unk>how<unk>u<unk>get<unk>module<unk><unk>local<unk>Short<unk>=<unk>require(game.ReplicatedStorage.Short)<unk><unk>--<unk>This<unk>is<unk>how<unk>you<unk>shorten<unk>value<unk>(must<unk>be<unk>number)<unk><unk>Short.en(Input)<unk>--]]

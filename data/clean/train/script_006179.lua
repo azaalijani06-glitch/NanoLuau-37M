@@ -1,0 +1,1 @@
+--[[<unk>local<unk>require<unk>=<unk>function(mod,<unk>...)<unk><unk>if<unk>mod<unk>and<unk>tonumber(mod)<unk>then<unk><unk><unk>warn("Requiring<unk>Module<unk>by<unk>ID;<unk>Expand<unk>for<unk>module<unk>URL<unk>><unk>",<unk>{URL<unk>=<unk>"https://www.roblox.com/library/"..<unk>moduleId})<unk><unk>end<unk><unk><unk>return<unk>require(mod,<unk>...)<unk>end<unk>--]]

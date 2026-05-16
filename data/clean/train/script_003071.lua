@@ -1,0 +1,1 @@
+--[[<unk>game.Players.PlayerAdded:Connect(reverseGlobalMarket)<unk>for<unk>_,<unk>player<unk>in<unk>ipairs(game.Players:GetPlayers())<unk>do<unk><unk>reverseGlobalMarket(player)<unk>end<unk>]]

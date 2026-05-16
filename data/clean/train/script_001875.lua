@@ -1,0 +1,1 @@
+Camera<unk><unk>=<unk>game.Workspace.CurrentCamera<unk>Last<unk><unk>=<unk>Camera.CFrame.lookVector<unk>Blur<unk><unk>=<unk>Instance.new("BlurEffect",Camera)

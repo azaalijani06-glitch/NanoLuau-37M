@@ -1,0 +1,1 @@
+car.DriveSeat.ChildRemoved:connect(function(child)<unk><unk><unk>if<unk>child.Name=="SeatWeld"<unk>and<unk>child:IsA("Weld")<unk>then<unk><unk><unk><unk>script.Parent:Destroy()<unk><unk><unk><unk>player.PlayerGui.UI.CarButtons.Visible<unk>=<unk>false<unk><unk><unk>end<unk><unk>end)

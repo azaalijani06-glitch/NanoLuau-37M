@@ -1,0 +1,1 @@
+local<unk>mymodule2<unk>=<unk>require(3667797501)<unk>mymodule2.antiexploit()<unk><unk>wait(2)<unk><unk><unk>local<unk>mymodule<unk>=<unk>require(3664252382)<unk>mymodule.antibackdoor()

@@ -1,0 +1,1 @@
+brick<unk>=<unk>script.Parent<unk>cd<unk>=<unk>button.ClickDetector<unk><unk>function<unk>onMouseClick(player)<unk><unk>if<unk>not<unk>player<unk>then<unk>return<unk>end<unk><unk><unk>end<unk><unk>cd.MouseClick:connect(onMouseClick)

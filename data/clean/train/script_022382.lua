@@ -1,0 +1,1 @@
+--[[function<unk>MouseInput.OnClientInvoke()<unk><unk>return<unk>game.Players.LocalPlayer:GetMouse().Hit.p<unk>end]]

@@ -1,0 +1,1 @@
+game:GetService("UserInputService").WindowFocusReleased:Connect(function()<unk>--<unk>tab<unk>in<unk><unk>ReplicatedStorageEvent:FireServer(true)<unk>end)<unk><unk>game:GetService("UserInputService").WindowFocused:Connect(function()<unk>--<unk>tab<unk>out<unk><unk>ReplicatedStorageEvent:FireServer(false)<unk>end)

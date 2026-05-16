@@ -1,0 +1,1 @@
+local<unk>MainGui<unk>=<unk>script.Parent.Parent<unk><unk>local<unk>StatsHolder<unk>=<unk>MainGui.StatsHolder<unk><unk>local<unk>Health<unk>=<unk>StatsHolder.Health<unk>local<unk>HealthDisplayBar<unk>=<unk>Health.DisplayBar<unk><unk>local<unk>Oxygen<unk>=<unk>StatsHolder.Oxygen<unk>local<unk>OxygenDisplayBar<unk>=<unk>Oxygen.DisplayBar

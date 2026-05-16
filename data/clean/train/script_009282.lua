@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>char<unk>=<unk>player.Character<unk>local<unk>gui<unk>=<unk>script.Parent<unk>local<unk>frame<unk>=<unk>gui.HealthFrame<unk>local<unk>bar<unk>=<unk>frame.Bar<unk>local<unk>text<unk>=<unk>frame.HealthText<unk><unk>while<unk>wait()<unk>do

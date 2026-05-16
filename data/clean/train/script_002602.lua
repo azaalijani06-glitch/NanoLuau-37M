@@ -1,0 +1,1 @@
+--[=[<unk><unk>@class<unk>Mouse<unk><unk>@client<unk><unk><unk>The<unk>Mouse<unk>class<unk>is<unk>part<unk>of<unk>the<unk>Input<unk>package.<unk><unk><unk>```lua<unk><unk>local<unk>Mouse<unk>=<unk>require(packages.Input).Mouse<unk><unk>```<unk>]=]

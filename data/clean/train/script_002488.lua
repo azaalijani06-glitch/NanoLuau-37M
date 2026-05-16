@@ -1,0 +1,1 @@
+--Workspace.CurrentCamera.CameraSubject=game.Players.LocalPlayer.Character.Humanoid<unk>--Workspace.CurrentCamera.CameraType="Custom"

@@ -1,0 +1,1 @@
+--<unk>force<unk>=<unk>Instance.new("BodyThrust")<unk>--<unk>force.force<unk>=<unk>Tool.Parent.Torso.CFrame.lookVector<unk>*<unk>400<unk>--<unk>force.Parent<unk>=<unk>Tool.Parent.Torso

@@ -1,0 +1,1 @@
+script.Parent.MouseButton1Click:connect(function()<unk><unk>script.Parent.Parent.Parent.Parent:WaitForChild('Lang'):TweenSize(UDim2.new(.2,0,.4,0),'Out','Quint',.2,true)<unk><unk>wait()<unk><unk>script.Parent.Parent.Parent.Parent.Lang.Visible<unk>=<unk>true<unk>end)

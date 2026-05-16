@@ -1,0 +1,1 @@
+script.Parent.PrimaryPart:SetNetworkOwner(nil)<unk><unk>local<unk>RunS<unk>=<unk>game:GetService('RunService')<unk>local<unk>PFS<unk>=<unk>game:GetService('PathfindingService')

@@ -1,0 +1,1 @@
+SteeringGyro<unk>=<unk>Instance.new("BodyGyro")<unk>SteeringGyro.Parent<unk>=<unk>bike.FrontSection.TripleTreeHinge<unk>SteeringGyro.Name<unk>=<unk>"SteeringGyro"<unk>SteeringGyro.D<unk>=<unk>_Tune.SteerD<unk>SteeringGyro.MaxTorque<unk>=<unk>Vector3.new(0,0,0)<unk>SteeringGyro.P<unk>=<unk>_Tune.SteerP

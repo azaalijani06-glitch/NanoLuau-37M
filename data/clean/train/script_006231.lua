@@ -1,0 +1,1 @@
+uis<unk>=<unk>game:GetService("UserInputService")<unk>ismobile<unk>=<unk>uis.TouchEnabled<unk>button.Visible<unk>=<unk>ismobile

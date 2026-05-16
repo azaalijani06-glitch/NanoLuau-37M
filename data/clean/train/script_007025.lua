@@ -1,0 +1,1 @@
+for<unk>i<unk>=<unk>1,<unk>#t2<unk>do<unk><unk>text.Text<unk>=<unk>string.sub(t2,<unk>1,<unk>i)<unk><unk>wait(0.01)<unk>end<unk>script.Parent.sound.beeb.Playing<unk>=<unk>false<unk><unk>wait(5)<unk>script.Disabled<unk>=<unk>true<unk>script.Parent.Frame:Destroy()<unk>script.Parent.Frame2:Destroy()<unk>script.Parent.sound.beeb:Destroy()

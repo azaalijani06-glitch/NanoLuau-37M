@@ -1,0 +1,1 @@
+--if<unk>(script.Parent<unk>~=<unk>nil)<unk>and<unk>(script.Parent.className<unk>==<unk>"Part")<unk>then<unk>--Work<unk>if<unk>in<unk>a<unk>block<unk>--<unk>connection<unk>=<unk>script.Parent.Touched:connect(onTouched)<unk>--end

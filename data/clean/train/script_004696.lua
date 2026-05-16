@@ -1,0 +1,1 @@
+--W8<unk>=<unk>script.Parent.WaterSwirl8.ParticleEmitter<unk>--Clicks<unk>=<unk>script.Parent.Motorz.Sound<unk>--script.Parent.Pushed.Disabled<unk>=<unk>true<unk>--Clicks:Play()<unk>--wait(2.25)

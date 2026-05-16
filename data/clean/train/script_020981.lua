@@ -1,0 +1,1 @@
+local<unk>RS<unk>=<unk>game:GetService("ReplicatedStorage")<unk>local<unk>TS<unk>=<unk>game:GetService("TweenService")<unk>local<unk>CS<unk>=<unk>game:GetService("CollectionService")<unk>local<unk>PS<unk>=<unk>game:GetService("PhysicsService")<unk>local<unk>Players<unk>=<unk>game:GetService("Players")

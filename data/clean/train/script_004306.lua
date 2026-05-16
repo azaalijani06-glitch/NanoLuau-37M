@@ -1,0 +1,1 @@
+--<unk>see<unk>link<unk>for<unk>what<unk>the<unk>dictionary<unk>looks<unk>like:<unk>https://developer.roblox.com/en-us/api-reference/function/Players/GetCharacterAppearanceInfoAsync

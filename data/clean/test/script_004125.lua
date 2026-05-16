@@ -1,0 +1,1 @@
+local<unk>ReplicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")<unk>local<unk>ReplicatedFirst<unk>=<unk>game:GetService("ReplicatedFirst")<unk>local<unk>Players<unk>=<unk>game:GetService("Players")<unk><unk>local<unk>Conf<unk>=<unk>require(ReplicatedFirst.Configurations.MainConfiguration)

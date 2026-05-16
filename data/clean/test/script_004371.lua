@@ -1,0 +1,1 @@
+if<unk>TurnCharacterToMouse<unk>==<unk>true<unk>then<unk><unk>MseGuide<unk>=<unk>true<unk><unk>HeadHorFactor<unk>=<unk>0<unk><unk>BodyHorFactor<unk>=<unk>0<unk>end<unk><unk>game:GetService("RunService").RenderStepped:Connect(function()<unk><unk>local<unk>CamCF<unk>=<unk>Cam.CoordinateFrame

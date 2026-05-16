@@ -1,0 +1,1 @@
+function<unk>Signal.new(trackConnectionsChanged)<unk><unk>local<unk>self<unk>=<unk>setmetatable({},<unk>Signal)<unk><unk><unk>self._bindableEvent<unk>=<unk>Instance.new("BindableEvent")<unk><unk>if<unk>trackConnectionsChanged<unk>then<unk><unk><unk>self.connectionsChanged<unk>=<unk>Signal.new()<unk><unk>end<unk><unk><unk>return<unk>self<unk>end

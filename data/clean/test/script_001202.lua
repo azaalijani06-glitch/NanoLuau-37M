@@ -1,0 +1,1 @@
+local<unk>Pistol<unk>=<unk>script.Parent.Parent<unk>local<unk>Player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>BulletHoleEvent<unk>=<unk>script.Parent

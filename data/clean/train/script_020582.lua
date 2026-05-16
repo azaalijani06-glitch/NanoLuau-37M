@@ -1,0 +1,1 @@
+--local<unk>pupil1<unk>=<unk>script.Parent.BillboardGui.Pupils1<unk>--local<unk>pupil2<unk>=<unk>script.Parent.BillboardGui.Pupils2

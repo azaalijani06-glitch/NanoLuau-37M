@@ -1,0 +1,1 @@
+function<unk>wander()<unk><unk>local<unk>x<unk>=<unk>math.random(script.Parent.Head.Position.X-50,script.Parent.Head.Position.X+50)<unk><unk>local<unk>z<unk>=<unk>math.random(script.Parent.Head.Position.Z-50,script.Parent.Head.Position.Z+50)<unk><unk>GoTo(Vector3.new(x,script.Parent.Head.Position,z))<unk><unk>wait(wandertime)<unk>end

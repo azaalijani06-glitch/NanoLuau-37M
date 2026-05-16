@@ -1,0 +1,1 @@
+bux1<unk>=<unk>script.Parent["Donation<unk>2"].Bux25<unk>bux2<unk>=<unk>script.Parent["Donation<unk>2"].Bux100<unk>bux3<unk>=<unk>script.Parent["Donation<unk>2"].Bux500<unk>tix1<unk>=<unk>script.Parent.Donation1.Tix50<unk>tix2<unk>=<unk>script.Parent.Donation1.Tix100<unk>tix3<unk>=<unk>script.Parent.Donation1.Tix500

@@ -1,0 +1,1 @@
+local<unk>rep<unk>=<unk>game:GetService("ReplicatedStorage")<unk>--You<unk>can<unk>change<unk>this<unk>to<unk>ServerStorage<unk>for<unk>more<unk>security.<unk>local<unk>nametag<unk>=<unk>rep.NameTag

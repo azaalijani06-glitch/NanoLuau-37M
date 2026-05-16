@@ -1,0 +1,1 @@
+--<unk>this<unk>script<unk>removes<unk>its<unk>parent<unk>from<unk>the<unk>workspace<unk>after<unk>24<unk>seconds

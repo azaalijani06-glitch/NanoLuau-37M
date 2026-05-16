@@ -1,0 +1,1 @@
+--<unk>The<unk>Bawby<unk>Special<unk>--if<unk>(car.DriveSeat.Orientation.Z<unk><=<unk>0)<unk>then<unk>--<unk>script.Parent.TEST.Visible<unk>=<unk>true<unk>--end

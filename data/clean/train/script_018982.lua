@@ -1,0 +1,1 @@
+--task.spawn(function()<unk>--<unk>while<unk>task.wait(60)<unk>do<unk>--<unk><unk>current_version<unk>=<unk>script.Parent.Connector:InvokeServer(url)<unk>--<unk><unk>check_version()<unk>--<unk>end<unk>--end)

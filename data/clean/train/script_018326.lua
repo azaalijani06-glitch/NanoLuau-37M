@@ -1,0 +1,1 @@
+--<unk>local<unk>throtOff<unk>=<unk>script.Parent.Values.RPM.Value<unk>><unk>7500<unk>and<unk>randomability<unk><=1<unk>and<unk>script.Parent.Values.Throttle.Value<unk><=<unk>_Tune.IdleThrottle/100

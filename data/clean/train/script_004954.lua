@@ -1,0 +1,1 @@
+---<unk>Creates<unk>or<unk>finds<unk>a<unk>hitbox<unk>object.<unk>Returns<unk>an<unk>hitbox<unk>object<unk>--<unk>@param<unk>required<unk>object<unk>parameter<unk>that<unk>takes<unk>in<unk>either<unk>a<unk>part<unk>or<unk>a<unk>model

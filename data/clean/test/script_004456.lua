@@ -1,0 +1,1 @@
+local<unk>RunFirstNeonParts<unk>=<unk>require(script.FirstNeonParts)<unk>local<unk>ThirdBeatDrop<unk>=<unk>require(script.ThirdBeatDrop)<unk>local<unk>Cooldown<unk>=<unk>require(script.Cooldown)<unk>local<unk>BouncePlatforms<unk>=<unk>require(ReplicatedStorage.BouncePlatforms)

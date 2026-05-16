@@ -1,0 +1,1 @@
+script.Parent.Button.ClickDetector.MouseClick:connect(function(click)<unk><unk>if<unk>on<unk>==<unk>false<unk>then<unk><unk>on<unk>=<unk>true

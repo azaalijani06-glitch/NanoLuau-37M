@@ -1,0 +1,1 @@
+--<unk>if<unk>version.Value<unk>~=<unk>current_version<unk>then<unk>--<unk><unk>update_notifier.Visible<unk>=<unk>true<unk>--<unk><unk>script.Parent.ErrorSound:Play()<unk>--<unk>end<unk>--end

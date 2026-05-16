@@ -1,0 +1,1 @@
+for<unk>_,v<unk>in<unk>pairs(Car.Chassis:GetChildren())<unk>do<unk><unk>if<unk>v.Name<unk>==<unk>"Id"<unk>then<unk><unk><unk>if<unk>game.Players:FindFirstChild(CarStats.Owner.Value)<unk>then<unk><unk><unk><unk>v.S.T.Text<unk>=<unk>game.Players[CarStats.Owner.Value].UserId<unk><unk><unk>end<unk><unk>end<unk>end

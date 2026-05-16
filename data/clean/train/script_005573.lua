@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CameraShake").OnClientEvent:Connect(function()<unk><unk>shakeCamera(10,<unk>script.Parent.HumanoidRootPart.Position,<unk>true)<unk>end)

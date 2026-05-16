@@ -1,0 +1,1 @@
+local<unk>MINIMUM_SECONDS_SCHEDULER:<unk>number<unk>=<unk>1<unk>/<unk>60<unk>local<unk>DEFAULT_SIMULATION_TYPE:<unk>RBXScriptSignal<unk>=<unk>game:GetService("RunService").Heartbeat

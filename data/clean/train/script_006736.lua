@@ -1,0 +1,1 @@
+local<unk>Controls<unk>=<unk>require(controlModule)<unk><unk>function<unk>Controls:IsJumping()<unk><unk>if<unk>self.activeController<unk>then<unk><unk><unk>return<unk>self.activeController:GetIsJumping()<unk>or<unk>(self.touchJumpController<unk>and<unk>self.touchJumpController:GetIsJumping())<unk><unk>end<unk><unk>return<unk>false<unk>end

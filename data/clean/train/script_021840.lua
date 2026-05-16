@@ -1,0 +1,1 @@
+car.DriveSeat.ChildRemoved:connect(function(child)<unk>if<unk>child.Name=="SeatWeld"<unk>and<unk>child:IsA("Weld")<unk>then<unk>script.Parent:Destroy()<unk>end<unk>end)<unk><unk><unk>local<unk>player<unk>=<unk>game:GetService("Players").LocalPlayer<unk>local<unk>mouse<unk>=<unk>player:GetMouse()

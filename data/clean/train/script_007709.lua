@@ -1,0 +1,1 @@
+local<unk>Button<unk>=<unk>script.Parent<unk><unk>local<unk>MainButton<unk>=<unk>Button.MainButton<unk>local<unk>ClickDetector<unk>=<unk>MainButton.ClickDetector

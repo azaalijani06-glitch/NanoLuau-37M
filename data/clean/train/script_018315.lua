@@ -1,0 +1,1 @@
+local<unk>CutsceneGui<unk>=<unk>script.Parent<unk>CutsceneGui.Enabled<unk>=<unk>true<unk><unk>local<unk>Camera<unk>=<unk>game.Workspace.CurrentCamera

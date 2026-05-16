@@ -1,0 +1,1 @@
+Tool.Changed:connect(OnChanged)<unk>Tool.RocketHit.OnServerEvent:connect(OnRocketHit)<unk>Tool.FireRocket.OnServerEvent:connect(OnFireRocket)<unk>Tool.HitPlayers.OnServerEvent:connect(OnHitPlayers)<unk>Tool.DirectHitPlayer.OnServerEvent:connect(OnDirectHitPlayer)<unk><unk>IntializeBuffer()

@@ -1,0 +1,1 @@
+--<unk>local<unk>success,<unk>msg<unk>=<unk>pcall(function()<unk>allowCustomAnimations<unk>=<unk>game:GetService("StarterPlayer").AllowCustomAnimations<unk>end)<unk>--<unk>if<unk>not<unk>success<unk>then<unk>--<unk><unk>allowCustomAnimations<unk>=<unk>true<unk>--<unk>end

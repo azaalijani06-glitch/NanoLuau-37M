@@ -1,0 +1,1 @@
+--[[if<unk>player.Character:FindFirstChild('WhiteButterfly')<unk>==<unk>nil<unk>then<unk><unk>script.Parent.Parent.Parent.Parent.ItemFrame.Visible<unk>=<unk>false<unk>end]]

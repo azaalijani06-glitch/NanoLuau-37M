@@ -1,0 +1,1 @@
+wait(1)<unk>end<unk>end)<unk>end<unk>end)<unk>else<unk>script.Parent.Parent.Enabled<unk>=<unk>false<unk><unk>end

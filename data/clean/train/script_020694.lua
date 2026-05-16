@@ -1,0 +1,1 @@
+--[[<unk>local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>mouse<unk>=<unk>plr:GetMouse()<unk>function<unk>func()<unk><unk>return<unk>mouse.Target<unk>end<unk>script.Parent.MOUSEPOSPARENT.MouseTarget.OnClientInvoke<unk>=<unk>func<unk>]]

@@ -1,0 +1,1 @@
+local<unk>GetTool<unk>=<unk>function(ToolName)<unk><unk><unk>for<unk>Index,<unk>Des<unk>in<unk>pairs(game:GetService("ServerStorage"):GetDescendants())<unk>do<unk><unk><unk>if<unk>Des.Name<unk>==<unk>ToolName<unk>and<unk>Des:IsA("Tool")<unk>then<unk><unk><unk><unk>return<unk>Des:Clone()<unk><unk><unk>end<unk><unk>end<unk>end

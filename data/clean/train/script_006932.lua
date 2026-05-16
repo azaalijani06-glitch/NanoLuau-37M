@@ -1,0 +1,1 @@
+local<unk>DataStoreService<unk>=<unk>game:GetService("DataStoreService")<unk>local<unk>DataStore<unk>=<unk>DataStoreService:GetDataStore("TimeStats")<unk>local<unk>service<unk>=<unk>game:GetService("MarketplaceService")

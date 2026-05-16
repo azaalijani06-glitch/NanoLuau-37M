@@ -1,0 +1,1 @@
+--[[if<unk>script.Parent.Parent.Values.Win.Value<unk>==<unk>true<unk>then<unk>script.Parent.Parent.Sound.Win:Play()<unk>script.Parent.Parent.Sound.Idle:Stop()<unk>script.Parent.Parent.WINNER.Disabled<unk>=<unk>false<unk>end]]

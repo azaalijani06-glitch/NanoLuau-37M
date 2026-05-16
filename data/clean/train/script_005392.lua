@@ -1,0 +1,1 @@
+--[[function<unk>util.Tween(part,info,goal)<unk><unk>local<unk>tween<unk>=<unk>game:GetService("TweenService"):Create(part,info,goal)<unk><unk>return<unk>tween<unk>end]]

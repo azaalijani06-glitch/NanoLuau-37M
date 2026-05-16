@@ -1,0 +1,1 @@
+if<unk>not<unk>_playerIsBot<unk>then<unk><unk>coroutine.wrap(function()<unk><unk><unk>local<unk>Cmdr<unk>=<unk>require(ReplicatedStorage:WaitForChild("CmdrClient"))<unk><unk><unk><unk>Cmdr:SetActivationKeys({<unk><unk><unk><unk>Enum.KeyCode.BackSlash,<unk><unk><unk>})<unk><unk><unk><unk>Cmdr:SetEnabled(true)<unk><unk>end)()<unk>end

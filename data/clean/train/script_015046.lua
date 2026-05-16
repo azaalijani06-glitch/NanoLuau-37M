@@ -1,0 +1,1 @@
+local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk><unk>game.ReplicatedStorage.Interactions.Client.WaitForMapLoad.OnClientInvoke<unk>=<unk>function(map,<unk>referenceCount)<unk><unk><unk>--<unk>Wait<unk>until<unk>complete<unk><unk>repeat<unk><unk><unk>wait(0.25)<unk><unk>until<unk>referenceCount<unk>-<unk>#map:GetDescendants()<unk><=<unk>10<unk><unk>end

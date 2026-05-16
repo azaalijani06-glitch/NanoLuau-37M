@@ -1,0 +1,1 @@
+local<unk>Camera<unk>=<unk>workspace.Camera<unk>local<unk>DFOV<unk>=<unk>70<unk>local<unk>Info<unk>=<unk>TweenInfo.new(0.5)

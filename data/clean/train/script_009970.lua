@@ -1,0 +1,1 @@
+debris<unk>=<unk>game:GetService("Debris")<unk>r<unk>=<unk>game:service("RunService")<unk><unk><unk>Tool<unk>=<unk>script.Parent

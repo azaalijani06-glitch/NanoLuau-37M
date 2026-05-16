@@ -1,0 +1,1 @@
+local<unk>norm<unk>=<unk>script.Parent.Slider.SliderBG.Normal<unk>local<unk>fast<unk>=<unk>script.Parent.Slider.SliderBG.Fast<unk>local<unk>max<unk>=<unk>script.Parent.Slider.SliderBG.Max

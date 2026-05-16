@@ -1,0 +1,1 @@
+Players.PlayerRemoving:connect(function(player)<unk><unk>if<unk>pings[player]<unk>then<unk><unk><unk>pings[player]<unk>=<unk>nil<unk><unk>end<unk>end)<unk><unk>script.Projectile.Event:connect(Projectile)

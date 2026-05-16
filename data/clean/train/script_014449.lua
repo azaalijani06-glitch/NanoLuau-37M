@@ -1,0 +1,1 @@
+script.Parent.Paper.Parent<unk>=<unk>game.ReplicatedStorage<unk><unk>wait()<unk>script.Parent:Destroy()

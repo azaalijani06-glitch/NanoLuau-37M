@@ -1,0 +1,1 @@
+local<unk>remoteEvents<unk>=<unk>game:GetService("ReplicatedStorage").Remotes.RemoteEvents<unk>local<unk>remoteFunctions<unk>=<unk>game:GetService("ReplicatedStorage").Remotes.RemoteFunctions

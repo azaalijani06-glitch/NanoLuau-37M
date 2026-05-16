@@ -1,0 +1,1 @@
+--<unk>teererererererphof<unk>--local<unk>player<unk>=<unk>game.Players:GetPlayerFromCharacter(script.Parent.Parent)<unk>--player.PlayerGui:FindFirstChild("Client_HurtS").Blunt:FireClient(player)

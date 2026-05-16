@@ -1,0 +1,1 @@
+local<unk>function<unk>PlayerTouched(Part)<unk><unk>local<unk>Parent<unk>=<unk>Part.Parent<unk><unk>if<unk>game.Players:GetPlayerFromCharacter(Parent)<unk>then<unk><unk><unk>Parent.Humanoid.Health<unk>=<unk>5<unk><unk>end<unk>end<unk><unk>Brick.Touched:connect(PlayerTouched)

@@ -1,0 +1,1 @@
+repeat<unk>wait()<unk><unk>Camera.CameraType<unk>=<unk>Enum.CameraType.Scriptable<unk>until<unk>Camera.CameraType<unk>==<unk>Enum.CameraType.Scriptable<unk>Camera.CFrame<unk>=<unk>workspace.CameraPart.CFrame<unk><unk>PlayButton.MouseButton1Click:Connect(function()<unk><unk>Camera.CameraType<unk>=<unk>Enum.CameraType.Custom<unk>end)

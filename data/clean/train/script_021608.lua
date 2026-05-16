@@ -1,0 +1,1 @@
+local<unk>ModuleScripts<unk>=<unk>ReplicatedStorage.ModuleScripts<unk>local<unk>WaypointController<unk>=<unk>require(script.WaypointController)<unk>local<unk>GameSettings<unk>=<unk>require(ModuleScripts.GameSettings)

@@ -1,0 +1,1 @@
+script.Parent.Color<unk>=<unk>randval7<unk>--Color3.new(math.random(),<unk>math.random(),<unk>math.random())<unk><unk>wait(0.5)<unk>script.Parent.Color<unk>=<unk>randval8<unk>--Color3.new(math.random(),<unk>math.random(),<unk>math.random())<unk><unk>wait(0.5)<unk>mode8()<unk>end<unk><unk>function<unk>mode9()

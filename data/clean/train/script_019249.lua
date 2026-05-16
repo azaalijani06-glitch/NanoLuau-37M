@@ -1,0 +1,1 @@
+local<unk>Remote<unk>=<unk>ReplicatedStorage:WaitForChild("IceRemote")<unk>local<unk>Player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>Character<unk>=<unk>Player.Character

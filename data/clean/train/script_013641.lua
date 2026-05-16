@@ -1,0 +1,1 @@
+--[[<unk>this<unk>imanol<unk>local<unk>stabygyro<unk>=<unk>Instance.new("BodyGyro",weightB)<unk>stabygyro.D<unk>=<unk>50<unk>stabygyro.MaxTorque<unk>=<unk>Vector3.new(50,0,0)<unk>stabygyro.P<unk>=<unk>50<unk>]]

@@ -1,0 +1,1 @@
+local<unk>Player<unk>=<unk>game:GetService("Players").LocalPlayer<unk>local<unk>UserInputService<unk>=<unk>game:GetService("UserInputService")<unk>local<unk>IconosFrame<unk>=<unk>script.Parent

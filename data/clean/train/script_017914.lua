@@ -1,0 +1,1 @@
+while<unk>true<unk>do<unk>script.Parent.Velocity<unk>=<unk>script.Parent.CFrame.lookVector<unk>*script.Parent.Speed.Value<unk>wait(0.1)<unk>end

@@ -1,0 +1,1 @@
+--wl.MaxVelocity<unk>=<unk>0.007<unk>--wl.Part0<unk>=<unk>script.Parent.Parent.Misc.FL.Door.WD<unk>--wl.Part1<unk>=<unk>wl.Parent

@@ -1,0 +1,1 @@
+local<unk>Door<unk><unk><unk><unk>=<unk>script.Parent.Parent.Door.Door<unk><unk>local<unk>DoorLogo<unk><unk><unk>=<unk>Door.DoorLogo<unk><unk>local<unk>DoorSeg<unk><unk><unk>=<unk>Door.DoorSegment<unk><unk>Door.PrimaryPart<unk><unk>=<unk>Door.DoorSegment<unk><unk>local<unk>Open,<unk>ShouldBe<unk>=<unk>false,<unk>false<unk>local<unk>InZone<unk>=<unk>{}

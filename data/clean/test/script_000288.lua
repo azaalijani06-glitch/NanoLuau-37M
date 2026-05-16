@@ -1,0 +1,1 @@
+workspace.Roommate.Head.Dialog.DialogChoiceSelected:Connect(function(player,choice)<unk><unk>if<unk>choice.Name<unk>==<unk>"Gimme<unk>rent"<unk>then<unk><unk><unk>game.ReplicatedStorage.Rent:FireServer()<unk><unk>elseif<unk>choice.Name<unk>==<unk>"I'm<unk>raising<unk>your<unk>rent"<unk>then<unk><unk><unk>game.ReplicatedStorage.Raise:FireServer()<unk><unk>end<unk>end)

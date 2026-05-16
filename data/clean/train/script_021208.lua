@@ -1,0 +1,1 @@
+script.Parent.Handle3.Hinge1.Transparency<unk>=<unk>1<unk><unk>script.Parent.Handle3.Interactive1.Transparency<unk>=<unk>1<unk><unk>script.Parent.Handle3.Part1.Transparency<unk>=<unk>1<unk><unk>wait(0.06)<unk>end<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>script.Parent.Push.ClickDetector.MouseClick:connect(toiletHandle)

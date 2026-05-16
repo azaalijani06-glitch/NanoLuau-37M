@@ -1,0 +1,1 @@
+local<unk>L_95_<unk>=<unk>game:GetService('RunService').RenderStepped<unk>local<unk>L_96_<unk>=<unk>game:GetService('UserInputService')

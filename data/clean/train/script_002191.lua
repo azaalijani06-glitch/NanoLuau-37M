@@ -1,0 +1,1 @@
+--function<unk>check_version()<unk>--<unk>if<unk>current_version<unk>then<unk>--<unk><unk>script.Parent.Parent.LatestVersion.Value<unk>=<unk>current_version<unk>--<unk>else<unk>--<unk><unk>script.Parent.Parent.LatestVersion.Value<unk>=<unk>"API<unk>Error"<unk>--<unk>end

@@ -1,0 +1,1 @@
+else<unk>script.Parent.Parent<unk>=<unk>nil<unk>end<unk>end<unk>script.Parent.Touched:connect(onTouched)

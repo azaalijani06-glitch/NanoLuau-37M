@@ -1,0 +1,1 @@
+bforce<unk>=<unk>Instance.new("BodyForce")<unk>bforce.Parent<unk>=<unk>script.Parent<unk>bforce.Name<unk>=<unk>"AirPhysics"<unk><unk>dforceF<unk>=<unk>Instance.new("BodyThrust")<unk>dforceF.Parent<unk>=<unk>weight<unk>dforceF.Name<unk>=<unk>"FrontDF"<unk><unk>dforceR<unk>=<unk>Instance.new("BodyThrust")<unk>dforceR.Parent<unk>=<unk>weight<unk>dforceR.Name<unk>=<unk>"RearDF"

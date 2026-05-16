@@ -1,0 +1,1 @@
+Players.PlayerAdded:Connect(OnPlayerAdded)<unk>SetCollisionGroupRecursive(workspace.Mobs)<unk>workspace.Mobs.ChildAdded:Connect(OnMobAdded)

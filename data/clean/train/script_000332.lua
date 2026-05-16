@@ -1,0 +1,1 @@
+--<unk>FIXME:<unk>This<unk>should<unk>be<unk>updated<unk>to<unk>be<unk>closer<unk>to<unk>the<unk>actual<unk>--<unk>`Object.preventExtensions`<unk>functionality<unk>in<unk>JS.<unk>This<unk>requires<unk>additional<unk>--<unk>support<unk>from<unk>the<unk>VM

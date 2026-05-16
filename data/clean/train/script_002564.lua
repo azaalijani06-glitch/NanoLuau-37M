@@ -1,0 +1,1 @@
+local<unk>PrimaryPart<unk>=<unk>script.Parent.Parent.PrimaryPart<unk>local<unk>open<unk>=<unk>false<unk>local<unk>Door<unk>=<unk>script.Parent.Parent<unk>local<unk>Proximity<unk>=<unk>script.Parent:WaitForChild("ProximityPrompt")<unk>local<unk>OpenSound<unk>=<unk>script.Parent.Sounds.Open<unk>local<unk>CloseSound<unk>=<unk>script.Parent.Sounds.Close

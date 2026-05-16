@@ -1,0 +1,1 @@
+local<unk>bear<unk>=<unk>script.Parent<unk>--<unk>replace<unk>with<unk>the<unk>path<unk>to<unk>your<unk>bear

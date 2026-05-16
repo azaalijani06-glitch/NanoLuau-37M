@@ -1,0 +1,1 @@
+local<unk>Car<unk>=<unk>script.Parent.Parent.Model<unk>local<unk>CarStats<unk>=<unk>script.Parent.Parent.Stats<unk>local<unk>LightsSpeed<unk>=<unk>0.4

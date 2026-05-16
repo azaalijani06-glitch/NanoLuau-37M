@@ -1,0 +1,1 @@
+local<unk>TimeObject<unk>=<unk>game.Workspace:WaitForChild('MapPurgeProof'):WaitForChild('Time')<unk>local<unk>ScreenGui<unk>=<unk>script.Parent.ScreenGui<unk>local<unk>Timer<unk>=<unk>ScreenGui.ScoreFrame.Timer<unk>local<unk>Events<unk>=<unk>game.ReplicatedStorage.Events<unk>local<unk>DisplayTimerInfo<unk>=<unk>Events.DisplayTimerInfo

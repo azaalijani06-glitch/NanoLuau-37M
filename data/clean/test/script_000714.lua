@@ -1,0 +1,1 @@
+game.ReplicatedStorage.GiveSystem.HandToSystem.OnClientEvent:Connect(function(plr,<unk>From,<unk>Text)<unk><unk>script.Parent:TweenPosition(UDim2.new(0.26,<unk>0,0.263,<unk>0))<unk>end)

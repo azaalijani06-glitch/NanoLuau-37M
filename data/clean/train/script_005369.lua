@@ -1,0 +1,1 @@
+local<unk>internalclient:<unk>any<unk>=<unk>require(ReplicatedStorage:WaitForChild("Systems").InternalSystem.internalclient)

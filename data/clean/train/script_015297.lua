@@ -1,0 +1,1 @@
+local<unk>indexOf<unk>=<unk>require(script.Parent.indexOf)<unk>type<unk>Array<T><unk>=<unk>{<unk>[number]:<unk>T<unk>}<unk><unk>return<unk>function<T>(array:<unk>Array<T>,<unk>searchElement:<unk>any,<unk>fromIndex:<unk>number?):<unk>boolean<unk><unk>return<unk>indexOf(array,<unk>searchElement,<unk>fromIndex)<unk>~=<unk>-1<unk>end

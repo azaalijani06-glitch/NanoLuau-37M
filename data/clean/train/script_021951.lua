@@ -1,0 +1,1 @@
+--local<unk>bodyPosition<unk>=<unk>Instance.new("BodyPosition",<unk>car.Chassis)<unk>--bodyPosition.MaxForce<unk>=<unk>Vector3.new()<unk>--local<unk>bodyGyro<unk>=<unk>Instance.new("BodyGyro",<unk>car.Chassis)<unk>--bodyGyro.MaxTorque<unk>=<unk>Vector3.new()

@@ -1,0 +1,1 @@
+--[[for<unk>n<unk>=<unk>1,80<unk>do<unk>wait(0.005)<unk>script.Parent.Parent.Parent.Grabber.Claw.Body.Rope.Length<unk>=<unk>script.Parent.Parent.Claw.Body.Rope.Length<unk>+<unk>0.175<unk>end]]

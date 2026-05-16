@@ -1,0 +1,1 @@
+--if<unk>u<unk>wanna<unk>add<unk>more<unk>lights<unk>make<unk>sure<unk>to<unk>use<unk>the<unk>same<unk>script<unk>format<unk>u<unk>see<unk>below<unk>--ex.<unk>(if<unk>script.Parent.Lights.(light).(partname).Material<unk>==<unk>Enum.Material.Neon<unk>then<unk>etc...)

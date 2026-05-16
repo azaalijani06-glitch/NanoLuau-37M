@@ -1,0 +1,1 @@
+local<unk>String<unk>=<unk>script.Parent<unk>local<unk>LuauPolyfill<unk>=<unk>String.Parent<unk>local<unk>Number<unk>=<unk>require(LuauPolyfill.Number)<unk><unk>local<unk>NaN<unk>=<unk>Number.NaN

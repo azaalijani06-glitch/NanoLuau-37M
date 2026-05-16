@@ -1,0 +1,1 @@
+local<unk>Seat<unk>=<unk>script.Parent<unk>local<unk>Thrust<unk>=<unk>Seat.Parent:WaitForChild("Thrust")<unk>local<unk>MainPart<unk>=<unk>Seat.Parent:WaitForChild("Main")<unk>local<unk>Force<unk>=<unk>Thrust:WaitForChild("Force")<unk>local<unk>Tilt<unk>=<unk>Thrust:WaitForChild("Tilt")

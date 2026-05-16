@@ -1,0 +1,1 @@
+--[[<unk><unk>Reference<unk>renderer<unk>intended<unk>for<unk>use<unk>in<unk>tests<unk>as<unk>well<unk>as<unk>for<unk>documenting<unk>the<unk><unk>minimum<unk>required<unk>interface<unk>for<unk>a<unk>Roact<unk>renderer.<unk>]]

@@ -1,0 +1,1 @@
+local<unk>PLAYER<unk>=<unk>Players.LocalPlayer<unk><unk>return<unk>function(character)<unk><unk>local<unk>rootPart<unk>=<unk>character.UpperTorso<unk><unk><unk><unk>local<unk>emitter<unk>=<unk>script.TicketEmitter:Clone()<unk><unk><unk>emitter.Parent<unk>=<unk>rootPart<unk><unk><unk><unk><unk>emitter:Emit(40)<unk><unk><unk><unk>Debris:AddItem(emitter,<unk>4)<unk>end

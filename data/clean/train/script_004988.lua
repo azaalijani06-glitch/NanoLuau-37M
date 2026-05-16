@@ -1,0 +1,1 @@
+local<unk>List<unk><unk><unk>=<unk>script.Parent<unk>local<unk>Folder<unk><unk>=<unk>game.ReplicatedStorage:WaitForChild("Weapons")<unk>local<unk>Template<unk><unk>=<unk>script.Parent.Template

@@ -1,0 +1,1 @@
+local<unk>proxy<unk>=<unk>require(script.Parent.proxy)<unk>local<unk>strtod<unk>=<unk>require(script.Parent.strtod)<unk>local<unk>DecimalToDoubleConverter<unk>=<unk>{<unk>}

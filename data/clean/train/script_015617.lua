@@ -1,0 +1,1 @@
+--[[<unk>if<unk>hasModel<unk>then<unk><unk>script.Parent.Text<unk>=<unk>"ON"<unk><unk>button.BackgroundColor3<unk>=<unk>Color3.new(0,<unk>255,<unk>0)<unk>elseif<unk>not<unk>hasModel<unk>then<unk><unk>button.Text<unk>=<unk>"OFF"<unk><unk>button.BackgroundColor3<unk>=<unk>Color3.new(255,<unk>0,<unk>0)<unk>end<unk>--]]

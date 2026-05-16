@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>Players.LocalPlayer<unk>local<unk>PlayerGui<unk>=<unk>player:FindFirstChild("PlayerGui")<unk>local<unk>TopBar<unk>=<unk>PlayerGui:FindFirstChild("TopBar")<unk>local<unk>CheckpointFrame<unk>=<unk>TopBar:FindFirstChild("CheckpointFrame")<unk>local<unk>CheckpointCount<unk>=<unk>CheckpointFrame:FindFirstChild("CheckpointCount")

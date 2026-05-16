@@ -1,0 +1,1 @@
+local<unk>pantsId<unk>=<unk>script.Parent.Parent.ClickPart.Pants.PantsTemplate<unk>local<unk>shirtId<unk>=<unk>script.Parent.Parent.ClickPart.Shirt.ShirtTemplate<unk>local<unk>cPart<unk>=<unk>script.Parent<unk>local<unk>cDetector<unk>=<unk>script.Parent.ClickDetector

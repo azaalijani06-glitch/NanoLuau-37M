@@ -1,0 +1,1 @@
+StarterGui<unk>=<unk>game:GetService("StarterGui")<unk>Players<unk>=<unk>game:GetService("Players")<unk>ReplicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")

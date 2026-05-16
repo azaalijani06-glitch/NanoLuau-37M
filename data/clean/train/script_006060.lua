@@ -1,0 +1,1 @@
+--<unk>local<unk>Packages<unk>=<unk>script.Parent.Parent<unk>--<unk>local<unk>LuauPolyfill<unk>=<unk>require(Packages.LuauPolyfill)<unk>--<unk>local<unk>Symbol<unk>=<unk>LuauPolyfill.Symbol

@@ -1,0 +1,1 @@
+local<unk>tool<unk>=<unk>script.Parent<unk>local<unk>currentAmmo<unk>=<unk>tool.Configurations.ClipSize.Value<unk>local<unk>canFire<unk>=<unk>true<unk>local<unk>reloading<unk>=<unk>false<unk>local<unk>fireSound<unk>=<unk>tool.FireSound

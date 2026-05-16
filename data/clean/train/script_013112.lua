@@ -1,0 +1,1 @@
+local<unk>createEnum<unk>=<unk>Enum.createEnum<unk>for<unk>_,<unk>childModule<unk>in<unk>pairs(script:GetChildren())<unk>do<unk><unk>if<unk>childModule:IsA("ModuleScript")<unk>then<unk><unk><unk>local<unk>enumDetail<unk>=<unk>require(childModule)<unk><unk><unk>createEnum(childModule.Name,<unk>enumDetail)<unk><unk>end<unk>end

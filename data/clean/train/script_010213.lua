@@ -1,0 +1,1 @@
+local<unk>playerService<unk>=<unk>game:GetService("Players")<unk><unk>playerService.PlayerAdded:Connect(function<unk>(plr)<unk><unk>plr.CharacterAdded:Connect(function<unk>(char)<unk><unk><unk><unk>local<unk>humanoid<unk>=<unk>char:WaitForChild("Humanoid")<unk><unk><unk>humanoid.DisplayDistanceType<unk>=<unk>Enum.HumanoidDisplayDistanceType.None<unk><unk>end)<unk>end)

@@ -1,0 +1,1 @@
+game.ReplicatedStorage.RemoteEvent.OnServerEvent:Connect(function(player,<unk>msg,<unk>rec,<unk>send)<unk><unk><unk>local<unk>filter<unk>=<unk>game:GetService("Chat"):FilterStringForBroadcast(msg,<unk>player)<unk><unk>game.ReplicatedStorage.RemoteEvent:FireAllClients(filter,<unk>rec,<unk>send)<unk>end)

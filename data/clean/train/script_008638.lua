@@ -1,0 +1,1 @@
+game.Players.PlayerRemoving:Connect(function(Player)<unk><unk>DataStore:SetAsync(Player.UserId,<unk>Player.leaderstats.Coins.Value)<unk>--<unk>Change<unk>"Coins"<unk>to<unk>the<unk><unk>name<unk>of<unk>your<unk>currency.<unk>end)

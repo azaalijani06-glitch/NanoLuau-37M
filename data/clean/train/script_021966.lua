@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>--<unk>Local<unk>player<unk>local<unk>humanoid<unk>=<unk>player.Character:WaitForChild("Humanoid")<unk>--<unk>Player's<unk>humanoid<unk>local<unk>userInputService<unk>=<unk>game:GetService("UserInputService")<unk>--<unk>UserInputService

@@ -1,0 +1,1 @@
+local<unk>PLAYER_DATA<unk>=<unk>ReplicatedStorage:WaitForChild("PlayerData")<unk>local<unk>PLAYER<unk><unk>=<unk>Players.LocalPlayer

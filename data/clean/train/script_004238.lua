@@ -1,0 +1,1 @@
+script.Parent.Handle2.Hinge1.Transparency<unk>=<unk>0<unk><unk>script.Parent.Handle2.Interactive1.Transparency<unk>=<unk>0<unk><unk>script.Parent.Handle2.Part1.Transparency<unk>=<unk>0

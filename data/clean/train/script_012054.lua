@@ -1,0 +1,1 @@
+local<unk>svcWorkspace<unk>=<unk>game:GetService("Workspace")<unk>local<unk>Camera<unk>=<unk>svcWorkspace.CurrentCamera

@@ -1,0 +1,1 @@
+sp=script.Parent<unk><unk>sp.Luminate.SourceValueChanged:connect(function(val)<unk><unk>if<unk>val==1<unk>then<unk><unk><unk><unk><unk><unk>sp.Transparency=0<unk><unk><unk>sp.Sparkles.Enabled=true<unk><unk>elseif<unk>val==0<unk>then<unk><unk><unk><unk><unk><unk>sp.Transparency=.5<unk><unk><unk>sp.Sparkles.Enabled=false<unk><unk>end<unk>end)

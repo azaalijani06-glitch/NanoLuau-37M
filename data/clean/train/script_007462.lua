@@ -1,0 +1,1 @@
+local<unk>fFD<unk>=<unk>_Tune.FinalDrive*_Tune.FDMult<unk>local<unk>fFDr<unk>=<unk>fFD*30/math.pi<unk>local<unk>cGrav<unk>=<unk>workspace.Gravity*_Tune.InclineComp/32.2<unk>local<unk>wDRatio<unk>=<unk>wDia*math.pi/60<unk>local<unk>cfWRot<unk>=<unk>CFrame.Angles(math.pi/2,-math.pi/2,0)<unk>local<unk>cfYRot<unk>=<unk>CFrame.Angles(0,math.pi,0)<unk>local<unk>rtTwo<unk>=<unk>(2^.5)/2

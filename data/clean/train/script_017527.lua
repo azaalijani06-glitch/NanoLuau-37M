@@ -1,0 +1,1 @@
+--<unk><unk>GiveFlagBucks()<unk>--<unk>end<unk>--end<unk>--script.Parent.Tabs.Main.BCart.MouseButton1Click:Connect(function()<unk>--<unk>game.ReplicatedStorage.Remotes.GiveFlagBucks:FireServer()<unk>--<unk>game.ReplicatedStorage.Remotes.EndPurchase:FireServer()<unk>--end)

@@ -1,0 +1,1 @@
+local<unk>tool<unk>=<unk>script.Parent<unk>local<unk>handle<unk>=<unk>script.Parent.Handle<unk>local<unk>hum<unk>=<unk>game.Players.LocalPlayer.Character.Humanoid<unk>local<unk>blockingval<unk>=<unk>hum.Parent.Values.Blocking

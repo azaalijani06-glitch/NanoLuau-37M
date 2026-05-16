@@ -1,0 +1,1 @@
+local<unk>GJK<unk>=<unk>require(script:WaitForChild("GJK"))<unk>local<unk>Supports<unk>=<unk>require(script:WaitForChild("Supports"))<unk>local<unk>Vertices<unk>=<unk>require(script:WaitForChild("Vertices"))

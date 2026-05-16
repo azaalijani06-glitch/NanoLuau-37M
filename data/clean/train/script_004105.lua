@@ -1,0 +1,1 @@
+--<unk>Note:<unk>Called<unk>whenever<unk>workspace.CurrentCamera<unk>changes,<unk>but<unk>also<unk>on<unk>initialization<unk>of<unk>this<unk>script

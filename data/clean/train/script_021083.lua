@@ -1,0 +1,1 @@
+local<unk>tiles<unk>=<unk>script.Parent:GetChildren()<unk>--tiles/items<unk>inside<unk>of<unk>the<unk>model<unk>local<unk>tilesize<unk>=<unk>6<unk>--diameter<unk>of<unk>the<unk>circle<unk>(width)

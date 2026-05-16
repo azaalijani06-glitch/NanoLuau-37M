@@ -1,0 +1,1 @@
+sp=script.Parent<unk><unk>local<unk>bv=sp:WaitForChild("BodyVelocity")<unk><unk><unk>wait(.5+math.random())<unk>bv.velocity=bv.velocity*Vector3.new(1,0,1)<unk>for<unk>_=1,100<unk>do<unk><unk>bv.velocity=bv.velocity+Vector3.new(math.random()-.5,math.random()-.5,math.random()-.5)*5<unk><unk>wait(.5+math.random())<unk>end<unk><unk>sp:Destroy()

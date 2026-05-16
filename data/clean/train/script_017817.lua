@@ -1,0 +1,1 @@
+--damage<unk>=<unk>25<unk>--firedheight<unk>=<unk>ball.Position.Y<unk>--highestpos<unk>=<unk>ball.Position.Y-2<unk>--explodetimer<unk>=<unk>0<unk>--exploded<unk>=<unk>false<unk>--magnitude<unk>=<unk>(ball.Position-ball.TargetPredictedPosition.Value).Magnitude<unk>--firedpos<unk>=<unk>ball.Position<unk>--Debris<unk>=<unk>game:GetService("Debris")

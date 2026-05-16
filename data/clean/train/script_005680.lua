@@ -1,0 +1,1 @@
+--<unk>local<unk>ClickToMoveTouchControls<unk>=<unk>nil<unk>local<unk>ControlModules<unk>=<unk>{}<unk><unk>local<unk>MasterControl<unk>=<unk>require(script:WaitForChild('MasterControl'))

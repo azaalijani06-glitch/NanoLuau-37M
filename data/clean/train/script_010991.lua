@@ -1,0 +1,1 @@
+local<unk>Configuration<unk>=<unk>script.Parent:WaitForChild("Configuration")<unk>local<unk>WheelSpeed<unk>=<unk>Configuration:WaitForChild("WheelSpeed")<unk>local<unk>WheelMaxRideTime<unk>=<unk>Configuration:WaitForChild("WheelMaxRideTime")

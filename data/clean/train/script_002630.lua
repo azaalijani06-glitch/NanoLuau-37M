@@ -1,0 +1,1 @@
+local<unk>LP<unk>=<unk>script.Assets.LeanPatcher:Clone()<unk>LP.Parent<unk>=<unk>script.Parent<unk>LP.Disabled<unk>=<unk>false

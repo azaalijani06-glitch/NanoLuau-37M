@@ -1,0 +1,1 @@
+--script.Parent.Sign.SurfaceGui.TextLabel.Text<unk>=<unk>"1<unk>Capitol<unk>Sqr"<unk>--script.Parent.Parent.R1.BusA.Disabled<unk>=<unk>true<unk>--script.Parent.Parent.R1.BusB.Disabled<unk>=<unk>false

@@ -1,0 +1,1 @@
+--[[script.Parent.Activated:Connect(function()<unk><unk><unk><unk><unk>--<unk>the<unk>anim<unk>plays<unk><unk>anim:Play()<unk><unk>end)]]

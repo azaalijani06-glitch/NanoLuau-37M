@@ -1,0 +1,1 @@
+--[[do<unk><unk>local<unk>SwordPodium<unk>=<unk>require(script.SwordPodium)<unk><unk>for<unk>i,v<unk>in<unk>pairs(game:GetService("CollectionService"):GetTagged("SwordPodium"))<unk>do<unk><unk><unk>local<unk>Podium<unk>=<unk>SwordPodium.new(v)<unk><unk>end<unk><unk>end]]

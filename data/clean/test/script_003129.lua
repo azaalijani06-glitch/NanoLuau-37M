@@ -1,0 +1,1 @@
+local<unk>numValue<unk>=<unk>Player.CoinBoost<unk>--<unk>substitua<unk>"NumValue"<unk>pelo<unk>nome<unk>da<unk>sua<unk>NumberValue<unk>local<unk>textLabel<unk>=<unk>script.Parent<unk>--<unk>substitua<unk>"TextLabel"<unk>pelo<unk>nome<unk>do<unk>seu<unk>TextLabel

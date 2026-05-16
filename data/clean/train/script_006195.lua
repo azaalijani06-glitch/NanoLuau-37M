@@ -1,0 +1,1 @@
+--local<unk>ClickerModule<unk>=<unk>require(343254562)<unk>--local<unk>clickEvent<unk>=<unk>ClickerModule.RemoteEvent

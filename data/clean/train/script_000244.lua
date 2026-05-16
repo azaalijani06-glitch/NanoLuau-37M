@@ -1,0 +1,1 @@
+local<unk>Database<unk>=<unk>require(ReplicatedStorage.Common.Database)<unk>local<unk>APIEquipment<unk>=<unk>require(ReplicatedStorage.Common.APIEquipment)

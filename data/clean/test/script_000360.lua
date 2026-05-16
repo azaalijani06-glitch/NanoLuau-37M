@@ -1,0 +1,1 @@
+local<unk>ExitButton<unk>=<unk>MainFrame:WaitForChild("ExitButton")<unk>local<unk>ToGameButton<unk>=<unk>MainFrame:WaitForChild("ToGameButton")<unk><unk>local<unk>TeleportLocation<unk>=<unk>workspace.SpawnLocations.TeleportLocation

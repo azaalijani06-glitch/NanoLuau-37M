@@ -1,0 +1,1 @@
+local<unk>EventSequencer<unk>=<unk>require(ReplicatedStorage:WaitForChild("EventSequencer"))<unk>local<unk>GetCurrentSceneEnvironment<unk>=<unk>EventSequencer.getCurrentSceneEnvironment<unk>local<unk>GetCurrentServerEnvironmentFromClient<unk>=<unk>EventSequencer.getCurrentServerEnvironmentFromClient<unk>local<unk>Schema<unk>=<unk>EventSequencer.createSchema()

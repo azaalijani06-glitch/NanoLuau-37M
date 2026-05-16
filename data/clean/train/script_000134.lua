@@ -1,0 +1,1 @@
+me<unk>=<unk>script.Parent<unk><unk>me.Position<unk>=<unk>Vector3.new(0,0,0)<unk>local<unk>radius<unk>=<unk>game.Workspace.Village.Radius.Value<unk>me.Size<unk>=<unk>Vector3.new(radius,radius,radius)

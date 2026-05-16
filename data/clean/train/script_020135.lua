@@ -1,0 +1,1 @@
+driveSeat.AirbagFilter:FireServer('restore')<unk><unk>script.Parent.Parent.Visible<unk>=<unk>false<unk>end)

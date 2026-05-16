@@ -1,0 +1,1 @@
+--script.Parent.SurfaceGui.ImageLabel.BackgroundColor3<unk>=<unk>script.Parent.BrickColor.Color<unk>--script.Parent.Pixelate.Color<unk>=<unk>Color3.new(script.Parent.SurfaceGui.ImageLabel.BackgroundColor3.r,0,0)

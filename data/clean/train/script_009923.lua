@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>carSeat<unk>=<unk>script.Parent.CarSeat.Value<unk>local<unk>mouse<unk>=<unk>game.Players.LocalPlayer:GetMouse()<unk>local<unk>control<unk>=<unk>script.Parent.Storage.Control

@@ -1,0 +1,1 @@
+--[[<unk>game.ReplicatedStorage.ToggleSleeping.OnServerEvent:Connect(function()<unk><unk>workspace.Ignore.Zombies.Snowfella.RootPart:SetAttribute("Sleeping",<unk>not<unk>workspace.Ignore.Zombies.Snowfella.RootPart:GetAttribute("Sleeping"))<unk>end)<unk>]]

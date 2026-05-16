@@ -1,0 +1,1 @@
+local<unk>CAMERA<unk><unk>=<unk>Workspace.CurrentCamera<unk>local<unk>PLAYER<unk><unk>=<unk>Players.LocalPlayer<unk>local<unk>PLAYER_GUI<unk>=<unk>PLAYER:WaitForChild("PlayerGui")

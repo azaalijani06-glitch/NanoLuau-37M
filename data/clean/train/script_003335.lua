@@ -1,0 +1,1 @@
+local<unk>L_1_<unk>=<unk>script.Parent<unk>local<unk>L_2_<unk>=<unk>L_1_.Parent.Parent<unk>local<unk>L_3_<unk>=<unk>L_2_.Character<unk>local<unk>L_4_<unk>=<unk>game.ReplicatedStorage:FindFirstChild('[WB]<unk>Leaderstat<unk>Network')<unk>or<unk>nil

@@ -1,0 +1,1 @@
+local<unk>Prompt<unk>=<unk>script.Parent.Prompt<unk>local<unk>soco<unk>=<unk>Prompt.Soco<unk>local<unk>alarme<unk>=<unk>Prompt.Alarme<unk>local<unk>tela<unk>=<unk>script.Parent.Body.Tela

@@ -1,0 +1,1 @@
+local<unk>LuauPolyfill<unk>=<unk>script.Parent.Parent<unk>local<unk>types<unk>=<unk>require(LuauPolyfill.types)<unk>type<unk>Array<T><unk>=<unk>types.Array<T><unk>type<unk>Object<unk>=<unk>types.Object<unk><unk>return<unk>function(t:<unk>Object<unk>|<unk>Array<any>):<unk>boolean<unk><unk>return<unk>table.isfrozen(t)<unk>end

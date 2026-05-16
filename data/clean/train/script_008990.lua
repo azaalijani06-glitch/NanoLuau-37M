@@ -1,0 +1,1 @@
+local<unk>L_1_<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>L_2_<unk>=<unk>L_1_.Character<unk><unk>local<unk>L_3_<unk>=<unk>game.ReplicatedStorage:WaitForChild('ACS_Engine')<unk>local<unk>L_5_<unk>=<unk>L_3_:WaitForChild('GameRules')<unk>local<unk>L_7_<unk>=<unk>L_3_:WaitForChild('HUD')

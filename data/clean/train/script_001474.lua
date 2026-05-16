@@ -1,0 +1,1 @@
+local<unk>tk<unk>=<unk>Instance.new("Motor",<unk>script.Parent.Parent.Misc.TK.SS)<unk>tk.MaxVelocity<unk>=<unk>0.02<unk>tk.Part0<unk>=<unk>script.Parent.TK<unk>tk.Part1<unk>=<unk>tk.Parent

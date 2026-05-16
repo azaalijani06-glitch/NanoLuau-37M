@@ -1,0 +1,1 @@
+local<unk>myaccpage<unk>=<unk>script.Parent.Parent.HolderFrame.Accounts<unk>local<unk>deppage<unk>=<unk>script.Parent.Parent.HolderFrame.Deposit<unk>local<unk>wthpage<unk>=<unk>script.Parent.Parent.HolderFrame.Withdraw<unk>local<unk>trnpage<unk>=<unk>script.Parent.Parent.HolderFrame.Transfer<unk>local<unk>cshpage<unk>=<unk>script.Parent.Parent.HolderFrame.BuyCash

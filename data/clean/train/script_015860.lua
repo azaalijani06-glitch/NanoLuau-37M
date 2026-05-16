@@ -1,0 +1,1 @@
+--<unk>TODO:<unk>Re-enable<unk>once<unk>appearance<unk>checking<unk>works<unk>--print(game.Players.LocalPlayer:HasAppearanceLoaded())<unk>--game:GetService("Players").LocalPlayer.CharacterAppearanceLoaded:wait()

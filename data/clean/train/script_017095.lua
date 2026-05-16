@@ -1,0 +1,1 @@
+while<unk>true<unk>do<unk>script.Parent.Text<unk>=<unk>""<unk>..math.floor(script.Parent.Parent.Parent.Parent.Parent.Parent.leaderstats.Love.Value).."<unk>LV"<unk>wait(0)<unk>end

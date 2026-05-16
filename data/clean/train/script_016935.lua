@@ -1,0 +1,1 @@
+local<unk>UIS<unk>=<unk>game:GetService("UserInputService")<unk>local<unk>tweenService<unk>=<unk>game:GetService("TweenService")<unk>local<unk>ti<unk>=<unk>TweenInfo.new(<unk><unk><unk><unk>0.5,<unk><unk>Enum.EasingStyle.Sine<unk><unk><unk><unk><unk>)

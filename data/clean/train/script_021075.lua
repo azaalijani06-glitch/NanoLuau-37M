@@ -1,0 +1,1 @@
+script.Parent.PickLock.MouseButton1Click:Connect(function()<unk><unk>House.DoAction:InvokeServer('Pick')<unk>end)

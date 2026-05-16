@@ -1,0 +1,1 @@
+local<unk>renderResolution<unk>=<unk>10<unk>local<unk>cam<unk>=<unk>workspace.CurrentCamera<unk>local<unk>viewportSize<unk>=<unk>cam.ViewportSize

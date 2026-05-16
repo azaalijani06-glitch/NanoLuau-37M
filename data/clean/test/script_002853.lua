@@ -1,0 +1,1 @@
+script.Parent.MouseButton1Click:Connect(function()<unk><unk>if<unk>game.Players.LocalPlayer.YouCash.Value<unk>>=<unk>110<unk>and<unk>game.Workspace["Floppa<unk>NPC"]["Floppa<unk>cube"].contract.Value<unk>==<unk>false<unk>then<unk><unk><unk>script.Parent.Parent.Parent.Ching:Play()<unk><unk>else<unk><unk><unk>script.Parent.Parent.Parent.Thud:Play()<unk><unk>end<unk>end)

@@ -1,0 +1,1 @@
+--<unk>put<unk>this<unk>script<unk>in<unk>the<unk>workspace<unk>not<unk>the<unk>model<unk>you<unk>want<unk>to<unk>regen,<unk>if<unk>you<unk>want<unk>a<unk>regen<unk>script<unk>that<unk>doesn't<unk>have<unk>a<unk>message<unk>when<unk>it<unk>regens<unk>delete<unk>the<unk>lines<unk>with<unk>a<unk>*<unk>after<unk>them

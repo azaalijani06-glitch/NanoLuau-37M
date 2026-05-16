@@ -1,0 +1,1 @@
+local<unk>TweenService<unk>=<unk>game:GetService("TweenService")<unk>local<unk>UserInputService<unk>=<unk>game:GetService("UserInputService")<unk>local<unk>ReplicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")<unk>local<unk>Players<unk>=<unk>game:GetService("Players")

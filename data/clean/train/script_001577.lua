@@ -1,0 +1,1 @@
+Instance<unk>=<unk>{<unk><unk>new<unk>=<unk>function(obj,<unk>parent)<unk><unk><unk>return<unk>oldInstNew(obj,<unk>service.UnWrap(parent))<unk><unk>end<unk>}<unk><unk>function<unk>require(obj)<unk><unk>return<unk>oldReq(service.UnWrap(obj))<unk>end<unk>rawequal<unk>=<unk>service.RawEqual

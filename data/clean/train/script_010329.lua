@@ -1,0 +1,1 @@
+local<unk>ContextActionService<unk>=<unk>game:GetService("ContextActionService");<unk>local<unk>TweenService<unk>=<unk>game:GetService("TweenService");<unk>local<unk>RunService<unk>=<unk>game:GetService("RunService");<unk>local<unk>Heartbeat<unk>=<unk>RunService.Heartbeat;

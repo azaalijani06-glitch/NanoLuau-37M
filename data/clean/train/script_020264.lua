@@ -1,0 +1,1 @@
+StarterGui<unk>=<unk>game:GetService('StarterGui')<unk><unk>StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Chat,<unk>true)<unk><unk>StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Health,<unk>true)<unk><unk>StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack,true)

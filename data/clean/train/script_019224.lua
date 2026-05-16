@@ -1,0 +1,1 @@
+script.Parent.OnServerEvent:connect(function(plr,groupID,minrank)<unk><unk>if<unk>plr:GetRankInGroup(groupID)<unk><<unk>minrank<unk>then<unk><unk><unk>script.Parent.Parent.Parent:Destroy()<unk><unk>end<unk>end)

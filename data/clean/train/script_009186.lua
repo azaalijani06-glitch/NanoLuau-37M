@@ -1,0 +1,1 @@
+game:GetService("RunService").Heartbeat:Connect(function()<unk><unk>for<unk>_,v<unk>in<unk>pairs(game.Players:GetPlayers())<unk>do<unk><unk><unk>UpdateTag(v);<unk><unk>end;<unk>end)

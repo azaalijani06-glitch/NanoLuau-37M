@@ -1,0 +1,1 @@
+local<unk>GUI<unk><unk>=<unk>script.Parent<unk>local<unk>SQUAD_GUI<unk>=<unk>GUI:WaitForChild("Squad")<unk><unk>local<unk>HEALTH_COLOR<unk>=<unk>Color3.fromRGB(80,<unk>208,<unk>45)<unk>local<unk>DOWN_COLOR<unk>=<unk>Color3.fromRGB(216,<unk>33,<unk>33)

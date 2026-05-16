@@ -1,0 +1,1 @@
+--<unk><unk><unk><unk><unk><unk>if<unk>GetHitPlayers()<unk>>=<unk>3<unk>then<unk>--<unk><unk><unk><unk><unk><unk><unk>AwardBadge:Invoke(FiredPlayer,"Explosive<unk>Results")<unk>--<unk><unk><unk><unk><unk><unk>end

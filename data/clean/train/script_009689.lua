@@ -1,0 +1,1 @@
+--Script<unk>is<unk>automatically<unk>enabled<unk>/<unk>disabled<unk>--Changing<unk>the<unk>speed<unk>of<unk>this<unk>may<unk>require<unk>you<unk>to<unk>increase<unk>the<unk>hold<unk>time<unk>on<unk>the<unk>proximity<unk>prompt,<unk>to<unk>prevent<unk>items<unk>from<unk>backing<unk>up

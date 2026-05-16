@@ -1,0 +1,1 @@
+--[[<unk><unk>API<unk>Reference:<unk><unk>Once<unk>the<unk>experience<unk>starts,<unk>an<unk>`SurfaceArt`<unk>ModuleScript<unk>will<unk>be<unk>parented<unk>to<unk><unk>ReplicatedStorage.<unk>To<unk>access<unk>the<unk>following<unk>APIs,<unk>simply<unk>require<unk>the<unk><unk>`SurfaceArt`<unk>ModuleScript<unk>as<unk>follows:<unk>]]

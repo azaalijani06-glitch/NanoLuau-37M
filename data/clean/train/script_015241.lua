@@ -1,0 +1,1 @@
+--<unk><unk>if<unk>script.Parent.Parent.Engine:FindFirstChild("BodyGyro")<unk>then<unk>--<unk><unk><unk>script.Parent.Parent.Engine.BodyGyro:Destroy()<unk>--<unk><unk>end<unk>--<unk><unk>if<unk>script.Parent.Parent.Engine:FindFirstChild("BodyVelocity")<unk>then<unk>--<unk><unk><unk>script.Parent.Parent.Engine.BodyBodyVelocity:Destroy()<unk>--<unk><unk>end

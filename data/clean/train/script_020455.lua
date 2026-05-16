@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk><unk>local<unk>mouse<unk>=<unk>player:GetMouse()<unk><unk>local<unk>UserInputService<unk>=<unk>game:GetService("UserInputService")<unk><unk>local<unk>car<unk>=<unk>script.Parent.Car.Value<unk><unk>local<unk>_Tune<unk>=<unk>require(car.Tuner)

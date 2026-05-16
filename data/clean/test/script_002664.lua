@@ -1,0 +1,1 @@
+local<unk>Figure<unk>=<unk>script.Parent<unk>local<unk>Head<unk>=<unk>Figure:WaitForChild("Head")<unk>local<unk>Humanoid<unk>=<unk>Figure:WaitForChild("Humanoid")<unk>local<unk>regening<unk>=<unk>false<unk>char<unk>=<unk>game.Players[Figure.Name].Character

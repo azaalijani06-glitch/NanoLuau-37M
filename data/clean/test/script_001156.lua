@@ -1,0 +1,1 @@
+local<unk>Datastore2<unk>=<unk>require(ReplicatedStorage.Modules.MainModule)<unk>Datastore2.Combine("DATA",<unk>"Donated",<unk>"Raised")<unk>--<unk>This<unk>is<unk>like<unk>the<unk>data.<unk>'DATA'<unk>is<unk>your<unk>MASTER<unk>KEY!

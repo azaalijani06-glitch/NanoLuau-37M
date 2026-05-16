@@ -1,0 +1,1 @@
+local<unk>plr<unk>=<unk>playerService.LocalPlayer<unk><unk>script.Parent.MouseButton1Click:Connect(function<unk>()<unk><unk>marketplaceService:PromptPurchase(plr,<unk>400812710)<unk>--<unk>Prompts<unk>the<unk>user<unk>to<unk>get<unk>Realism<unk>Mod<unk>on<unk>click<unk>end)

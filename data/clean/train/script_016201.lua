@@ -1,0 +1,1 @@
+function<unk>module.weld2(base,target,tim)<unk><unk>local<unk>weld<unk>=<unk>Instance.new("Weld")<unk><unk>weld.Part0<unk>=<unk>base<unk><unk>weld.Part1<unk>=<unk>target<unk><unk>weld.C0<unk>=<unk>target.CFrame:inverse()<unk>*<unk>base.CFrame<unk><unk>weld.Parent<unk>=<unk>weld.Part1<unk><unk><unk><unk>game.Debris:AddItem(target,tim)<unk>end

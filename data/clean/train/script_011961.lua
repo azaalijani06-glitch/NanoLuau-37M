@@ -1,0 +1,1 @@
+for<unk>index,Weapon<unk>in<unk>pairs(Folder:GetChildren())<unk>do<unk>local<unk>Clone<unk>=<unk>Template:Clone()<unk>Clone.Name<unk>=<unk>Weapon.Name<unk>Clone.Price.Value<unk>=<unk>Weapon.Price.Value<unk>Clone.NAME.Text<unk>=<unk>Weapon.Name<unk>Clone.COST.Text<unk>=<unk>Weapon.Price.Value<unk>Clone.Parent<unk>=<unk>script.Parent<unk>Clone.Visible<unk>=<unk>true<unk>end

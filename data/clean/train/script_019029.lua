@@ -1,0 +1,1 @@
+car.Body.CarName.Value.VehicleSeat.ChildAdded:connect(function(child)<unk><unk>if<unk>child.Name=="SeatWeld"<unk>and<unk>child:IsA("Weld")<unk>and<unk>game.Players:GetPlayerFromCharacter(child.Part1.Parent)~=nil<unk>then<unk><unk>end<unk>end)

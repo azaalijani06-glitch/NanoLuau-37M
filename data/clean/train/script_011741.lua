@@ -1,0 +1,1 @@
+--[[<unk>local<unk>core<unk>=<unk>game.ReplicatedStorage.CustomMovement;<unk>local<unk>studioAnim<unk>=<unk>require(core.Utility:WaitForChild("StudioAnim"));<unk>local<unk>animations<unk>=<unk>core:WaitForChild("Animations");<unk>studioAnim(animations);<unk>--]]

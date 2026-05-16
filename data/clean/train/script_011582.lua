@@ -1,0 +1,1 @@
+local<unk>Replicated<unk>=<unk>game:GetService("ReplicatedStorage")<unk><unk>local<unk>Components<unk>=<unk>require(Replicated.Packages.Components)<unk><unk>Components.RegisterAll(Replicated.Components)<unk>Components.RegisterAll(Replicated.Client.Components)

@@ -1,0 +1,1 @@
+---<unk>Returns<unk>the<unk>store<unk>with<unk>the<unk>given<unk>name<unk>--<unk>Used<unk>for<unk>commands<unk>that<unk>require<unk>persistent<unk>state,<unk>like<unk>bind<unk>or<unk>ban

@@ -1,0 +1,1 @@
+for<unk>Index,<unk>Player<unk>in<unk>pairs(game:GetService("Players"):GetChildren())<unk>do<unk><unk>PlayerAdded(Player)<unk>end

@@ -1,0 +1,1 @@
+Players.PlayerAdded:Connect(PlayerAdded)<unk>Players.PlayerRemoving:Connect(PlayerRemoving)<unk>Remote.OnServerEvent:Connect(Fire)

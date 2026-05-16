@@ -1,0 +1,1 @@
+local<unk>HttpService<unk>=<unk>game:GetService('HttpService')<unk>local<unk>MessagingService<unk>=<unk>game:GetService('MessagingService')<unk>local<unk>ReplicatedStorage<unk>=<unk>game:GetService('ReplicatedStorage')

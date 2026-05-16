@@ -1,0 +1,1 @@
+--[[<unk><unk>Manually<unk>respawns<unk>characters<unk>when<unk>they<unk>die,<unk>used<unk>because<unk><unk>Players.CharacterAutoLoads<unk>is<unk>false<unk>so<unk>that<unk>we<unk>can<unk>wait<unk>to<unk>spawn<unk>the<unk>character<unk><unk>until<unk>their<unk>data<unk>is<unk>fully<unk>loaded.<unk>--]]

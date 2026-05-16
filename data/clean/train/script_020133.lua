@@ -1,0 +1,1 @@
+local<unk>ReplicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")<unk><unk>local<unk>SelfieMode<unk>=<unk>ReplicatedStorage:WaitForChild("SelfieMode")<unk><unk>local<unk>Emotes<unk>=<unk>require(SelfieMode.Emotes)<unk><unk>for<unk>_,<unk>emote<unk>in<unk>ipairs(Emotes.Emotes)<unk>do<unk><unk>Emotes.loadEmoteAsync(emote.assetId)<unk>end

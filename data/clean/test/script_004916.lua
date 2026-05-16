@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>character<unk>=<unk>player.Character<unk>local<unk>humanoid<unk>=<unk>character.Humanoid<unk>local<unk>camera<unk>=<unk>workspace.CurrentCamera<unk><unk>camera.FieldOfView<unk>=<unk>90<unk>humanoid.CameraOffset<unk>=<unk>Vector3.new(0,<unk>0,<unk>-1)

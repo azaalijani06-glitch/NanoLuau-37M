@@ -1,0 +1,1 @@
+--local<unk>part,pos,norm,mat<unk>=<unk>workspace:FindPartOnRay(ray,banto)<unk>--banto:MoveTo(Vector3.new(banto.PrimaryPart.Position.X,pos.Y+2.25,banto.PrimaryPart.Position.Z))<unk>--bp.Position<unk>=<unk>Vector3.new(bp.Position.X,pos.Y+2.25,bp.Position.Z)

@@ -1,0 +1,1 @@
+local<unk>tool<unk>=<unk>script.Parent<unk>local<unk>color<unk>=<unk>game.Lighting.TheWorldColor<unk>local<unk>debounce<unk>=<unk>false<unk>local<unk>parts<unk>=<unk>game.Workspace:GetChildren()

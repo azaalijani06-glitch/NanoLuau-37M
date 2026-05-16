@@ -1,0 +1,1 @@
+TCS.OnIncomingMessage<unk>=<unk>function(Msg)<unk><unk>if<unk>Msg.Metadata<unk>then<unk><unk><unk>local<unk>overrideProperties<unk>=<unk>Instance.new("TextChatMessageProperties")<unk><unk><unk>overrideProperties.Text<unk>=<unk>Msg.Text<unk><unk><unk>return<unk>overrideProperties<unk><unk>else<unk><unk><unk>--<unk>do<unk>nothing<unk><unk><unk>return<unk>nil<unk><unk>end<unk>end

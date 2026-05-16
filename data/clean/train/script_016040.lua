@@ -1,0 +1,1 @@
+Spawner=script.Parent.Parent:FindFirstChildOfClass("Part")<unk>script.Parent=game.ServerScriptService<unk>Zombie.Parent=game.ServerStorage

@@ -1,0 +1,1 @@
+--game:GetService("UserInputService").InputBegan:Connect(function(input,gp)<unk>--<unk>local<unk>c<unk>=<unk>0

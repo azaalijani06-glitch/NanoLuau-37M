@@ -1,0 +1,1 @@
+local<unk>Fountain<unk>=<unk>script.Parent<unk>local<unk>HealPart<unk>=<unk>Fountain:WaitForChild("Heal",<unk>math.huge)<unk>local<unk>BillboardGui<unk>=<unk>HealPart:WaitForChild("Attachment"):WaitForChild("BillboardGui")

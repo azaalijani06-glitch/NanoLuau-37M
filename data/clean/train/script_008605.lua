@@ -1,0 +1,1 @@
+local<unk>dualWorld<unk>=<unk>require(game.ReplicatedStorage.DualWorlds).new(localPlayer.Character,<unk>doorA,<unk>doorB,<unk>Enum.NormalId.Front,<unk>localPlayer.PlayerGui)<unk><unk>dualWorld.PortalA:AddToWorld(dualWorld.PortalB:ClipModel(world:Clone()))<unk>dualWorld.PortalB:AddToWorld(dualWorld.PortalA:ClipModel(world:Clone()))

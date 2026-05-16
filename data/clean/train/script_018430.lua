@@ -1,0 +1,1 @@
+local<unk>cam<unk>=<unk>workspace.Camera<unk>local<unk>scenes<unk>=<unk>workspace.CameraScenes<unk>local<unk>currentTween<unk>=<unk>nil<unk>local<unk>looping<unk>=<unk>true

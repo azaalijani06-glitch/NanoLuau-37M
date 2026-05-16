@@ -1,0 +1,1 @@
+local<unk>ListenForManualWindowTrigger<unk>=<unk>require(Tool.Core:WaitForChild('ListenForManualWindowTrigger'))

@@ -1,0 +1,1 @@
+local<unk>ValueRemote<unk>=<unk>ReplicatedStorage:WaitForChild("Value")<unk><unk>local<unk>Player<unk>=<unk>Players.LocalPlayer<unk>local<unk>leaderstats<unk>=<unk>Player:WaitForChild("leaderstats")<unk>local<unk>Stage<unk>=<unk>leaderstats:WaitForChild("Stage")<unk>local<unk>MaxLevel<unk>=<unk>Player:WaitForChild("MaxLevel")

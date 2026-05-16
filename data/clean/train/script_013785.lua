@@ -1,0 +1,1 @@
+car.DriveSeat.ChildAdded:connect(function(child)<unk><unk>if<unk>child.Name=="SeatWeld"<unk>and<unk>child:IsA("Weld")<unk>and<unk>game.Players:GetPlayerFromCharacter(child.Part1.Parent)~=nil<unk>then<unk><unk><unk>child.C0=CFrame.new(0,-.4,0)*CFrame.fromEulerAnglesXYZ(-(math.pi/2),0,0)<unk><unk>end<unk>end)

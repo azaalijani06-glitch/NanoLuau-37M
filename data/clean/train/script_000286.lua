@@ -1,0 +1,1 @@
+--<unk><unk><unk>m.DesiredAngle<unk>=<unk>-1<unk>--<unk><unk><unk>script.Parent.Parent.DoorOpen:Play()

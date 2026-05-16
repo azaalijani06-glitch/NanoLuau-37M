@@ -1,0 +1,1 @@
+--[[<unk><unk><unk>TODO:<unk>Clone<unk>and<unk>toss<unk>the<unk>tool<unk>handle<unk>and<unk>display,<unk>putting<unk>them<unk>into<unk>a<unk>new<unk>model<unk>and<unk>into<unk>workspace.Debris.<unk>When<unk>the<unk>handle<unk>is<unk>touched<unk>by<unk>a<unk>descendant<unk>of<unk>workspace.Enemies,<unk>trap<unk>them<unk><unk><unk><unk><unk>]]

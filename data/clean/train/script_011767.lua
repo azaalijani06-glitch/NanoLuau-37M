@@ -1,0 +1,1 @@
+local<unk>hd<unk>=<unk>Instance.new("Motor",<unk>script.Parent.Parent.Misc.HD.SS)<unk>hd.MaxVelocity<unk>=<unk>0.03<unk>hd.Part0<unk>=<unk>script.Parent.HD<unk>hd.Part1<unk>=<unk>hd.Parent

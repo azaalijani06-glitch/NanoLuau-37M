@@ -1,0 +1,1 @@
+--<unk>local<unk>PlayersService<unk>=<unk>game:GetService("Players")<unk>local<unk>ContextActionService<unk>=<unk>game:GetService("ContextActionService")<unk>local<unk>Settings<unk>=<unk>UserSettings()<unk>--<unk>ignore<unk>warning<unk>local<unk>GameSettings<unk>=<unk>Settings.GameSettings

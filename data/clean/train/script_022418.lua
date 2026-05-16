@@ -1,0 +1,1 @@
+--<unk><unk>--<unk>character.DescendantAdded:Connect(function(bodypart)<unk>--<unk><unk>print("test")<unk>--<unk><unk>if<unk>bodypart:IsA("BasePart")<unk>then<unk>--<unk><unk><unk>PhysicsService:SetPartCollisionGroup(bodypart,<unk>"Players")<unk>--<unk><unk>end<unk>--<unk>end)

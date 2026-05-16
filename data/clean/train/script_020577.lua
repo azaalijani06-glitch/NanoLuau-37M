@@ -1,0 +1,1 @@
+script.Parent:WaitForChild("Car")<unk><unk>script.Parent:WaitForChild("IsOn")<unk><unk>script.Parent:WaitForChild("ControlsOpen")<unk><unk>script.Parent:WaitForChild("Values")<unk><unk>script.Parent:WaitForChild("CruiseControl")<unk><unk>wait()

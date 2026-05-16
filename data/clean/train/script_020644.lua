@@ -1,0 +1,1 @@
+local<unk>ReplicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")<unk>local<unk>RunService<unk>=<unk>game:GetService("RunService")

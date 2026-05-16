@@ -1,0 +1,1 @@
+if<unk>not<unk>bloodCache<unk>then<unk><unk>bloodCache<unk>=<unk>Instance.new("Folder",<unk>workspace)<unk><unk>bloodCache.Name<unk>=<unk>"BloodCache"<unk>end

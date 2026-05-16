@@ -1,0 +1,1 @@
+local<unk>partDockA1Callout<unk>=<unk>script.Parent.SurfaceGui.ImageLabel<unk><unk>partDockA1.Transparency<unk>=<unk>1<unk>partDockA1Callout.ImageTransparency<unk>=<unk>1<unk>partDockA1Callout.TextLabel.TextTransparency<unk>=<unk>1

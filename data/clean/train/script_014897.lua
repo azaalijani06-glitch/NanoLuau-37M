@@ -1,0 +1,1 @@
+--<unk>ROBLOX<unk>deviation<unk>START:<unk>Package<unk>not<unk>available,<unk>setting<unk>type<unk>to<unk>object<unk>--<unk>local<unk>istanbul_lib_coverageModule<unk>=<unk>require(rootWorkspace["istanbul-lib-coverage"])

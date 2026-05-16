@@ -1,0 +1,1 @@
+script.Parent.MouseButton1Click:Connect(function()<unk><unk>local<unk>plr<unk>=<unk>script.Parent.Parent.Parent.Parent.Parent<unk><unk>game.ServerStorage.ServerData.HasKeys.Value<unk>=<unk>true<unk><unk>script.Parent.Parent:Destroy()<unk>end)

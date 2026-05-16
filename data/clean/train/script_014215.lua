@@ -1,0 +1,1 @@
+--[[<unk><unk><unk><unk>cameraShakeInstance<unk>=<unk>CameraShakeInstance.new(magnitude,<unk>roughness,<unk>fadeInTime,<unk>fadeOutTime)<unk><unk><unk>--]]

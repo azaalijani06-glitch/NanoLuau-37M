@@ -1,0 +1,1 @@
+local<unk>ModuleScripts<unk>=<unk>ReplicatedStorage:WaitForChild("ModuleScripts")<unk>local<unk>GameSettings<unk>=<unk>require(ModuleScripts:WaitForChild("GameSettings"))

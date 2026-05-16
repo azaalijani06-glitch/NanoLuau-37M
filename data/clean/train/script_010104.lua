@@ -1,0 +1,1 @@
+--<unk>Blood<unk>effects<unk>--if<unk>gameRules.BloodSplats<unk>then<unk>--<unk>Mods["Realistic<unk>Blood"].Parent<unk>=<unk>game:GetService("ServerScriptService")<unk>--end

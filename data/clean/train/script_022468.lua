@@ -1,0 +1,1 @@
+local<unk>remoteFold<unk>=<unk>rp.remoteFold<unk><unk>local<unk>module<unk>=<unk>{}<unk><unk>module.Cam<unk>=<unk>function(Part,<unk>Data)<unk><unk>if<unk>Players:GetPlayerFromCharacter(Part)<unk>then<unk><unk><unk>local<unk>plr<unk>=<unk>Players:GetPlayerFromCharacter(Part)<unk><unk><unk>remoteFold['Client']:FireClient(plr,Data)<unk><unk>end<unk>end<unk><unk>return<unk>module

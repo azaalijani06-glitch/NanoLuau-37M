@@ -1,0 +1,1 @@
+--<unk>ClassZombie<unk>=<unk><unk>--<unk>{<unk>--<unk><unk>Character<unk>=<unk>script.Parent;<unk>--<unk><unk>Humanoid<unk>=<unk>script.Parent.Humanoid;<unk>--<unk><unk>Animations<unk>=<unk>script.Parent.Animations;<unk>--<unk><unk>ZombieColor<unk>=<unk><unk>script.Parent["Body<unk>Colors"];

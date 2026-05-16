@@ -1,0 +1,1 @@
+script.Parent.Parent.Part7:Remove()<unk><unk>end<unk><unk>script.Parent.ClickDetector.MouseClick:connect(onClicked)

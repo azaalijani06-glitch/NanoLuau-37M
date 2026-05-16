@@ -1,0 +1,1 @@
+script.Parent.Close.MouseButton1Click:Connect(function()<unk><unk>House.RemoveGui:InvokeServer(script.Parent.Parent)<unk>end)

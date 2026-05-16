@@ -1,0 +1,1 @@
+local<unk>OpenSound<unk>=<unk>script.Parent.OpenSound<unk>local<unk>CloseSound<unk>=<unk>script.Parent.CloseSound<unk>local<unk>Unlock<unk>=<unk>script.Parent.Unlock

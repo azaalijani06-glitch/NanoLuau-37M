@@ -1,0 +1,1 @@
+local<unk>trimStart<unk>=<unk>require(script.Parent.trimStart)<unk>local<unk>trimEnd<unk>=<unk>require(script.Parent.trimEnd)<unk><unk>return<unk>function(source:<unk>string):<unk>string<unk><unk>return<unk>trimStart(trimEnd(source))<unk>end

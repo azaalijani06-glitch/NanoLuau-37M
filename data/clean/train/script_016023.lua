@@ -1,0 +1,1 @@
+Tool<unk>=<unk>script.Parent.Parent<unk>Libraries<unk>=<unk>Tool:WaitForChild<unk>'Libraries'<unk>Support<unk>=<unk>require(Libraries:WaitForChild<unk>'SupportLibrary')<unk>RegionModule<unk>=<unk>require(Libraries:WaitForChild<unk>'Region')

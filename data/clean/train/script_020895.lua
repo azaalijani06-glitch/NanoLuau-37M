@@ -1,0 +1,1 @@
+local<unk>Cam<unk>=<unk>game.Workspace.CurrentCamera<unk><unk>local<unk>Plr<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>Mouse<unk>=<unk>Plr:GetMouse()<unk>local<unk>Body<unk>local<unk>Head<unk><unk>local<unk>Hum<unk>local<unk>Core<unk>local<unk>IsR6<unk>local<unk>Trso<unk>local<unk>Neck<unk>local<unk>Waist

@@ -1,0 +1,1 @@
+local<unk>Event<unk>=<unk>script.Parent<unk>local<unk>NPC<unk>=<unk>false<unk>local<unk>Person<unk>=<unk>false<unk>local<unk>Enemy

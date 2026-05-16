@@ -1,0 +1,1 @@
+local<unk>Proximity<unk>=<unk>game.Workspace.ComplaintDep.Granade.ProximityPrompt<unk>local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>gui<unk>=<unk>script.Parent.Dont.TextLabel

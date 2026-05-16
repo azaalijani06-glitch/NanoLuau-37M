@@ -1,0 +1,1 @@
+local<unk>Players<unk>=<unk>game:GetService("Players")<unk>local<unk>DataStoreService<unk>=<unk>game:GetService("DataStoreService")<unk><unk>local<unk>dsPlayerBans<unk>=<unk>DataStoreService:GetDataStore("Bans")

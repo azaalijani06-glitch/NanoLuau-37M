@@ -1,0 +1,1 @@
+local<unk>WaitService<unk>=<unk>game.ReplicatedStorage.Modules.WaitService<unk>local<unk>Replication_Module<unk>=<unk>require(game.ReplicatedStorage.Modules.Local_Reaction)

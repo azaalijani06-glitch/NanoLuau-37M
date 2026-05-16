@@ -1,0 +1,1 @@
+--[[<unk>--<unk><<<unk>MODIFY<unk>DATA<unk>IN<unk>GAME<unk>>><unk><unk>local<unk>player<unk>=<unk>game.Players.ForeverHD<unk>local<unk>main<unk>=<unk>_G.HDAdminMain<unk>main:GetModule("DataStore"):ChangeStat(player,<unk>"Donor",<unk>true)<unk><unk><unk>--]]

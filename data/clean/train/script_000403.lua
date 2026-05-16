@@ -1,0 +1,1 @@
+local<unk>newRope<unk>=<unk>nil<unk>local<unk>newDir<unk>=<unk>nil<unk>local<unk>new<unk>=<unk>nil<unk>local<unk>newAtt0<unk>=<unk>nil<unk>local<unk>newAtt1<unk>=<unk>nil<unk>local<unk>isHeld<unk>=<unk>false<unk>local<unk>active<unk>=<unk>false<unk><unk>local<unk>TS<unk>=<unk>game:GetService("TweenService")

@@ -1,0 +1,1 @@
+local<unk>starterGui<unk>=<unk>game:GetService("StarterGui")<unk><unk>wait()<unk>starterGui:SetCore("ResetButtonCallback",<unk>false)

@@ -1,0 +1,1 @@
+Tool<unk>=<unk>script.Parent;<unk>Support<unk>=<unk>require(Tool:WaitForChild<unk>'SupportLibrary');<unk>RegionModule<unk>=<unk>require(Tool:WaitForChild<unk>'Region<unk>by<unk>AxisAngle');

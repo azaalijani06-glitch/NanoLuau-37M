@@ -1,0 +1,1 @@
+script.Parent:WaitForChild("Bike")<unk><unk>script.Parent:WaitForChild("IsOn")<unk><unk>script.Parent:WaitForChild("ControlsOpen")<unk><unk>script.Parent:WaitForChild("Values")

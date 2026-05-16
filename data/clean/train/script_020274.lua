@@ -1,0 +1,1 @@
+local<unk>Local_Player<unk>=<unk>PlayersService.LocalPlayer<unk>local<unk>Crosshair_Screen<unk>=<unk>script:WaitForChild("Crosshair")<unk>local<unk>Crosshair_Frame<unk>=<unk>Crosshair_Screen.Frame<unk>local<unk>Crosshair_Image<unk>=<unk>Crosshair_Frame.CrosshairImage

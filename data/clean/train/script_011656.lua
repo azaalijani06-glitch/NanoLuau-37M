@@ -1,0 +1,1 @@
+--newgui.CarName.Value=script.Parent.Parent<unk>-<unk>a<unk>little<unk>too<unk>much<unk>for<unk>now.

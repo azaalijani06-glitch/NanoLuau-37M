@@ -1,0 +1,1 @@
+local<unk>Libraries<unk>=<unk>Tool:WaitForChild<unk>'Libraries'<unk>local<unk>Signal<unk>=<unk>require(Libraries:WaitForChild<unk>'Signal')<unk>local<unk>Make<unk>=<unk>require(Libraries:WaitForChild<unk>'Make')<unk>local<unk>ListenForManualWindowTrigger<unk>=<unk>require(Tool.Core:WaitForChild('ListenForManualWindowTrigger'))

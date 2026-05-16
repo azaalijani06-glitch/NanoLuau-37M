@@ -1,0 +1,1 @@
+--[=[<unk><unk>@param<unk>object<unk>any<unk>--<unk>Object<unk>to<unk>remove<unk><unk>Removes<unk>the<unk>object<unk>from<unk>the<unk>Trove<unk>and<unk>cleans<unk>it<unk>up.<unk><unk>```lua<unk><unk>local<unk>part<unk>=<unk>Instance.new("Part")<unk><unk>trove:Add(part)<unk><unk>trove:Remove(part)<unk><unk>```<unk>]=]

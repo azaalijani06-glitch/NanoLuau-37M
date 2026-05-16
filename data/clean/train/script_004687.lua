@@ -1,0 +1,1 @@
+--r<unk>=<unk>game:service("RunService")<unk>--t,<unk>s<unk>=<unk>r.Stepped:wait()<unk>--d<unk>=<unk>t<unk>+<unk>8.0<unk>-<unk>s<unk>--while<unk>t<unk><<unk>d<unk>do<unk>--<unk>t<unk>=<unk>r.Stepped:wait()<unk>--end<unk>--while<unk>ball.Parent~=nil<unk>do

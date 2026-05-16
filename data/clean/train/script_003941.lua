@@ -1,0 +1,1 @@
+local<unk>localPlayer<unk>=<unk>game:GetService("Players").LocalPlayer<unk>local<unk>playerGui<unk>=<unk>localPlayer.PlayerGui<unk>topbarPlusGui.Parent<unk>=<unk>playerGui<unk><unk><unk><unk>return<unk>topbarPlusGui

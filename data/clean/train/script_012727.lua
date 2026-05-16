@@ -1,0 +1,1 @@
+script.Parent.MouseButton1Click:Connect(function()<unk><unk>script.Parent.Parent.Visible<unk>=<unk>false<unk><unk>script.Parent.Parent.Parent.AboutButton.Visible<unk>=<unk><unk>true<unk><unk>script.Parent.Parent.Parent.PlayButton.Visible<unk>=<unk>true<unk>end)

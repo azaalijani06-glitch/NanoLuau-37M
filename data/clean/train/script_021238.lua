@@ -1,0 +1,1 @@
+local<unk>MapSave<unk>=<unk>game.ServerStorage:FindFirstChild("MapSave")<unk>if<unk>not<unk>MapSave<unk>then<unk><unk>MapSave<unk>=<unk>Instance.new("Folder",<unk>game.ServerStorage)<unk><unk>MapSave.Name<unk>=<unk>"MapSave"<unk>end<unk>local<unk>Spawns<unk>=<unk>{<unk>}

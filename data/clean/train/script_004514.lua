@@ -1,0 +1,1 @@
+--<unk>PlayerTarget<unk>=<unk>game.Players.LocalPlayer<unk>PlayerHead<unk>=<unk>game.Players.LocalPlayer.Character.Head<unk>NameTarget<unk>=<unk>script.Parent.Parent.billboardText<unk>TextTarget<unk>=<unk>script.Parent.Parent.billboardTarget

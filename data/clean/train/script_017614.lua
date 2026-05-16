@@ -1,0 +1,1 @@
+--local<unk>equalizingForce<unk>=<unk>236<unk>/<unk>1.2<unk>--<unk>amount<unk>of<unk>force<unk>required<unk>to<unk>levitate<unk>a<unk>mass

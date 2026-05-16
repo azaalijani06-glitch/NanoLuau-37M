@@ -1,0 +1,1 @@
+function<unk>onclick()<unk><unk>script.Parent.ImageTransparency<unk>=<unk>0.1<unk><unk>wait(.05)<unk><unk>script.Parent.ImageTransparency<unk>=<unk>0<unk>end<unk><unk>script.Parent.MouseButton1Click:connect(onclick)

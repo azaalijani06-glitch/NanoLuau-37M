@@ -1,0 +1,1 @@
+local<unk>Camera<unk>=<unk>Workspace.CurrentCamera<unk>local<unk>Player<unk>=<unk>Players.LocalPlayer<unk>local<unk>GameSettings<unk>=<unk>UserSettings().GameSettings<unk>local<unk>CanShow<unk>=<unk>GameSettings.SavedQualityLevel.Value<unk>>=<unk>8

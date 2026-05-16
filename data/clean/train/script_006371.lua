@@ -1,0 +1,1 @@
+--<unk>local<unk>TeleportService<unk>=<unk>game:GetService("TeleportService")<unk><unk><unk>--<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>

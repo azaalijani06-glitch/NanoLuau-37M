@@ -1,0 +1,1 @@
+wait(2)<unk><unk>while<unk>wait(0.1)<unk>do<unk><unk><unk>if<unk>script.Parent.UpperTorso.Velocity.Magnitude<unk><<unk>25<unk>then<unk><unk><unk><unk><unk><unk>script.Parent.Head.ScreamFall:Stop()<unk><unk><unk>end<unk><unk><unk>end

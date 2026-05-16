@@ -1,0 +1,1 @@
+local<unk>APIEquipment<unk>=<unk>require(ReplicatedStorage.Common.APIEquipment)<unk>local<unk>APICharacterState<unk>=<unk>require(ReplicatedStorage.Common.APICharacterState)

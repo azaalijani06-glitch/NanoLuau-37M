@@ -1,0 +1,1 @@
+local<unk>Button<unk>=<unk>script.Parent<unk>local<unk>Events<unk>=<unk>game:GetService("ReplicatedStorage").Events.GiveTools<unk>local<unk>Frame<unk>=<unk>Button.Parent.Parent

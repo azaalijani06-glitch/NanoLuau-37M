@@ -1,0 +1,1 @@
+local<unk>ModelPad<unk>=<unk>script.Parent.Parent<unk>local<unk>PhysPad<unk>=<unk>ModelPad.PhysPad<unk><unk>local<unk>Configs<unk>=<unk>ModelPad.Configs<unk>local<unk>JumpHeight<unk>=<unk>Configs.JumpHeight

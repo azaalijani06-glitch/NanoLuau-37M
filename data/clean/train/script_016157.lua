@@ -1,0 +1,1 @@
+local<unk>bezierTween<unk>=<unk>require(Modules.BezierTweens)<unk>local<unk>Waypoints<unk>=<unk>bezierTween.Waypoints

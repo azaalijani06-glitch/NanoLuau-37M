@@ -1,0 +1,1 @@
+local<unk>RunAnimation<unk>=<unk>Instance.new('Animation')<unk>RunAnimation.AnimationId<unk>=<unk>'rbxassetid://'..ID<unk>RAnimation<unk>=<unk>Humanoid:LoadAnimation(RunAnimation)<unk>Running<unk>=<unk>false

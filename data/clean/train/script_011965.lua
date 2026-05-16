@@ -1,0 +1,1 @@
+local<unk>xsize<unk>=<unk>script.Parent.Size.X<unk>local<unk>ysize<unk>=<unk>script.Parent.Size.Y<unk>local<unk>zsize<unk>=<unk>script.Parent.Size.Z

@@ -1,0 +1,1 @@
+local<unk>Player<unk>=<unk>Players.LocalPlayer<unk>local<unk>Camera<unk>=<unk>game.Workspace.CurrentCamera<unk><unk>local<unk>Gui<unk>=<unk>script.Parent<unk>local<unk>Sounds<unk>=<unk>Gui.Sounds<unk>local<unk>PromptLabel<unk>=<unk>Gui.PromptLabel<unk>local<unk>LineLabel<unk>=<unk>Gui.LineLabel

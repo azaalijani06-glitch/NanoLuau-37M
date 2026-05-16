@@ -1,0 +1,1 @@
+local<unk>bloodPart<unk>=<unk>script:WaitForChild("BloodPart")<unk>local<unk>bloodParticles<unk>=<unk>script:WaitForChild("BloodParticles")<unk><unk>local<unk>bloodCache<unk>=<unk>workspace:FindFirstChild("BloodCache")

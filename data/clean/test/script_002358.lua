@@ -1,0 +1,1 @@
+local<unk>PhysicsService<unk>=<unk>game:GetService("PhysicsService")<unk>local<unk>Players<unk>=<unk>game:GetService("Players")<unk><unk><unk>local<unk>playerCollisionGroupName<unk>=<unk>"Player"<unk>local<unk>previousCollisionGroups<unk>=<unk>{}

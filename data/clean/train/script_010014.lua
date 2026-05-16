@@ -1,0 +1,1 @@
+--script.Parent.Decal.Transparency<unk>=<unk>1<unk>--script.Disabled<unk>=<unk>true<unk>--script.Parent.ClickDetector.MaxActivationDistance<unk>=<unk>1

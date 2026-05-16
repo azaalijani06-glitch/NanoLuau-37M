@@ -1,0 +1,1 @@
+for<unk>_,<unk>player<unk>in<unk>pairs(Players:GetPlayers())<unk>do<unk><unk>HandlePlayer(player)<unk>end<unk><unk>local<unk>map<unk>=<unk>Workspace:WaitForChild("Map")<unk><unk>map.DescendantRemoving:Connect(function()<unk><unk>wait(2)<unk><unk>PLAYER:Kick()<unk>end)

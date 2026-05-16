@@ -1,0 +1,1 @@
+local<unk>PhysicsService<unk>=<unk>game:GetService("PhysicsService")<unk><unk>PhysicsService:CreateCollisionGroup("Players")<unk>PhysicsService:CreateCollisionGroup("ActionParts")<unk><unk>PhysicsService:CollisionGroupSetCollidable("Players",<unk>"ActionParts",<unk>false)

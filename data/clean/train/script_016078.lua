@@ -1,0 +1,1 @@
+local<unk>NPC<unk>=<unk>script.Parent<unk>local<unk>NPCHumanoid<unk>=<unk>NPC:WaitForChild("Humanoid")<unk>local<unk>NPCAnimator<unk>=<unk>NPCHumanoid:WaitForChild("Animator")<unk><unk>local<unk>Anim<unk>=<unk>script:WaitForChild("Idle")

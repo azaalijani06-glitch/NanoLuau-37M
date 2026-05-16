@@ -1,0 +1,1 @@
+game.Players.PlayerRemoving:connect(function(Plr)<unk><unk>Plr.CharacterRemoving:connect(function(Char)<unk><unk>SpawnPoint1:SetAsync(Plr.UserId,<unk>Plr.Data.SpawnPoint.Value)<unk><unk>end)<unk>end)

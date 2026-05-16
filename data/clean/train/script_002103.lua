@@ -1,0 +1,1 @@
+script.Parent.FlushSoon.Touched:connect(whileTouching)<unk>script.Parent.FlushSoon.TouchEnded:connect(letGo)

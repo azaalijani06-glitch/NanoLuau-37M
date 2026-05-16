@@ -1,0 +1,1 @@
+local<unk>MapPurgeProof<unk>=<unk>game.Workspace:FindFirstChild("MapPurgeProof")<unk>if<unk>not<unk>MapPurgeProof<unk>then<unk><unk>MapPurgeProof<unk>=<unk>Instance.new("Folder",<unk>game.Workspace)<unk><unk>MapPurgeProof.Name<unk>=<unk>"MapPurgeProof"<unk>end

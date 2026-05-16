@@ -1,0 +1,1 @@
+local<unk>RunService<unk>=<unk>game:GetService("RunService")<unk>local<unk>CollectionService<unk>=<unk>game:GetService("CollectionService")<unk>local<unk>ReplicatedStorage<unk>=<unk>game:GetService("ReplicatedStorage")<unk><unk>local<unk>Modules<unk>=<unk>ReplicatedStorage:WaitForChild("SharedModules")<unk><unk>local<unk>Thread<unk>=<unk>require(Modules.Thread)

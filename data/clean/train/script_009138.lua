@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>lightOn<unk>=<unk>false<unk>local<unk>car<unk>=<unk>script.Parent.Car.Value

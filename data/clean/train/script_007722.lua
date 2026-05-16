@@ -1,0 +1,1 @@
+--local<unk>pln_ID<unk>=<unk>math.random(0,300)<unk>+2312<unk>--script.Parent.Pln_ID.Value<unk>=<unk>pln_ID

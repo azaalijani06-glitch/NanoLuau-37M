@@ -1,0 +1,1 @@
+local<unk>runService<unk>=<unk>game:GetService("RunService")<unk>local<unk>playerService<unk>=<unk>game:GetService("Players")

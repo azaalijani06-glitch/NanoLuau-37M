@@ -1,0 +1,1 @@
+--<unk><unk>local<unk>TeleportService<unk>=<unk>game:GetService("TeleportService")<unk>local<unk>Players<unk>=<unk>game:GetService("Players")

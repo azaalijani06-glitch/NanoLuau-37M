@@ -1,0 +1,1 @@
+--local<unk>PathLib<unk>=<unk>require(gamelocal<unk>HumanoidList<unk>=<unk>require(game.ServerStorage.ROBLOX_HumanoidList).ServerStorage.PathfindingLibrary).new()

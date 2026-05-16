@@ -1,0 +1,1 @@
+local<unk>workcam<unk>=<unk>workspace.CurrentCamera<unk>local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>menCam<unk>=<unk>game.Workspace.MenuItems.CameraF<unk>local<unk>focus<unk>=<unk>game.Workspace.MenuItems.Face

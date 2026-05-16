@@ -1,0 +1,1 @@
+local<unk>RunSrv<unk>=<unk>game:GetService("RunService");<unk><unk>local<unk>Wrks<unk>=<unk>game:GetService("Workspace");<unk>local<unk>Plrs<unk>=<unk>game:GetService("Players");

@@ -1,0 +1,1 @@
+--<unk><unk><unk><unk><unk><unk>script.Parent.Parent.Body.Dash.Screen.G.Radio.Select.Position<unk>=<unk>UDim2.new(0,<unk>0,<unk>0,<unk>60)

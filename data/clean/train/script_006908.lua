@@ -1,0 +1,1 @@
+--[[Config<unk>=<unk>require(script.Parent.Parent.Parent.Parent.Parent.CustomLabel)<unk>CustomLabel<unk>=<unk>Config["CUSTOMFLOORLABEL"][tonumber(script.Parent.Parent.Name)]<unk>script.Parent.SurfaceGui.Frame.TextLabel.Text<unk>=<unk>CustomLabel<unk>or<unk>script.Parent.Parent.Name]]

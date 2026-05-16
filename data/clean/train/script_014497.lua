@@ -1,0 +1,1 @@
+script.Parent.AutoSensor.Touched:connect(whileTouching)<unk>script.Parent.AutoSensor.TouchEnded:connect(letGo)

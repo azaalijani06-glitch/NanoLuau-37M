@@ -1,0 +1,1 @@
+local<unk>Types<unk>=<unk>require(script.Parent.Parent.Parent.Types)<unk><unk>return<unk>function(excludedPlayers:<unk>Types.Array<Player>):<unk>Types.PlayerContainer<unk><unk>return<unk>{<unk>kind<unk>=<unk>"except",<unk>value<unk>=<unk>excludedPlayers<unk>}<unk>end

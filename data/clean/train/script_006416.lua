@@ -1,0 +1,1 @@
+--local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>--local<unk>character<unk>=<unk>player.Character<unk>--local<unk>humanoid<unk>=<unk>character.Humanoid

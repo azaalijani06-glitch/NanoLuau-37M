@@ -1,0 +1,1 @@
+local<unk>myaccbtn<unk>=<unk>script.Parent.buttons_holder.Account<unk>local<unk>depbtn<unk>=<unk>script.Parent.buttons_holder.Deposit<unk>local<unk>wthbtn<unk>=<unk>script.Parent.buttons_holder.Withdraw<unk>local<unk>trnbtn<unk>=<unk>script.Parent.buttons_holder.Transfer<unk>local<unk>cshbtn<unk>=<unk>script.Parent.buttons_holder.Cash

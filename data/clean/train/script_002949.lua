@@ -1,0 +1,1 @@
+--<unk>local<unk>DEFAULT_MOUSE_LOCK_CURSOR<unk>=<unk>"rbxasset://textures/MouseLockedCursor.png"<unk><unk>local<unk>CONTEXT_ACTION_NAME<unk>=<unk>"MouseLockSwitchAction"<unk>local<unk>MOUSELOCK_ACTION_PRIORITY<unk>=<unk>Enum.ContextActionPriority.Default.Value<unk><unk>local<unk>Util<unk>=<unk>require(script.Parent:WaitForChild("CameraUtils"))

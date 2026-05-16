@@ -1,0 +1,1 @@
+local<unk>M<unk>=<unk>require(game.ServerScriptService["GC<unk>Server"].Services.CPRaid);<unk><unk><unk><unk>while<unk>true<unk>do

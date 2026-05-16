@@ -1,0 +1,1 @@
+local<unk>Libraries<unk>=<unk>Tool:WaitForChild<unk>'Libraries'<unk>local<unk>Support<unk>=<unk>require(Libraries:WaitForChild<unk>'SupportLibrary')<unk>local<unk>Maid<unk>=<unk>require(Libraries:WaitForChild<unk>'Maid')

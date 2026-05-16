@@ -1,0 +1,1 @@
+LoadSceneRemoteEventModule.RespawnConnection<unk>=<unk>nil<unk>LoadSceneRemoteEventModule.lastCalledLoadSceneTime<unk>=<unk>0<unk>LoadSceneRemoteEventModule.rng<unk>=<unk>Random.new()<unk>LoadSceneRemoteEventModule.Player<unk>=<unk>Players.LocalPlayer<unk>LoadSceneRemoteEventModule.RunService<unk>=<unk>RunService

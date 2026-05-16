@@ -1,0 +1,1 @@
+local<unk>Button<unk>=<unk>script.Parent<unk>local<unk>InventoryFrame<unk>=<unk>Button.Parent.InventoryScrollingFrame<unk>local<unk>InformationFrame<unk>=<unk>Button.Parent.InformationFrame<unk>local<unk>CaseInventoryFrame<unk>=<unk>Button.Parent.CaseShopScrollingFrame<unk>local<unk>CaseInformationFrame<unk>=<unk>Button.Parent.CaseInformationFrame

@@ -1,0 +1,1 @@
+local<unk>Digit1<unk>=<unk>script.Parent.Parent.Parent.Digit1Panel.DigitNumber<unk>local<unk>Digit2<unk>=<unk>script.Parent.Parent.Parent.Digit2Panel.DigitNumber<unk>local<unk>Digit3<unk>=<unk>script.Parent.Parent.Parent.Digit3Panel.DigitNumber<unk>local<unk>EnteredCode<unk>=<unk>script.Parent.Parent.Parent.EnteredCode

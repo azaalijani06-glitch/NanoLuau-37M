@@ -1,0 +1,1 @@
+--<unk>TODO:<unk>When<unk>Promise<unk>is<unk>on<unk>Wally,<unk>remove<unk>this<unk>in<unk>favor<unk>of<unk>just<unk>`script.Parent.Parent:FindFirstChild("Promise")`.

@@ -1,0 +1,1 @@
+local<unk>Player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>Frame<unk><unk>=<unk>script.Parent<unk>local<unk>BUYB<unk><unk>=<unk>Frame.BUY<unk>local<unk>Price<unk><unk>=<unk>Frame.Price

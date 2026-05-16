@@ -1,0 +1,1 @@
+local<unk>R<unk>=<unk>script.Parent.Red<unk>local<unk>O<unk>=<unk>script.Parent.Orange<unk>local<unk>G<unk>=<unk>script.Parent.Green

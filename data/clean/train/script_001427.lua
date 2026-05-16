@@ -1,0 +1,1 @@
+--[[<unk>game:GetService("RunService").Stepped:Connect(function()<unk><unk>camera.CFrame<unk>=<unk>CFrame.new(player.Character.HumanoidRootPart.Position)<unk>*<unk>CFrame.new(0,<unk>0,<unk>30)<unk>end)<unk>--]]

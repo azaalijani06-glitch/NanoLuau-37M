@@ -1,0 +1,1 @@
+--script.Parent.Values.Gear.Changed:connect(function()<unk>--<unk>mult=1<unk>--<unk>if<unk>script.Parent.Values.RPM.Value>5500<unk>then<unk>--<unk><unk>shift=.2<unk>--<unk>end<unk>--end)

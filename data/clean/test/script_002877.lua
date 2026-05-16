@@ -1,0 +1,1 @@
+local<unk>configuration<unk>=<unk>require(script.Parent.Parent.Parent.Config)<unk>local<unk>DEBUG_HTTP<unk>=<unk>configuration.DEBUG_HTTP

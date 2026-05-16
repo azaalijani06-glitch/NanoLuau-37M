@@ -1,0 +1,1 @@
+local<unk>Text<unk>=<unk>script.Parent<unk><unk>Text.Text<unk>=<unk>RebirthLevel.Value<unk><unk>RebirthLevel.Changed:Connect(function()<unk><unk>Text.Text<unk>=<unk>RebirthLevel.Value<unk>end)

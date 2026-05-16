@@ -1,0 +1,1 @@
+repeat<unk>wait()<unk>until<unk>Players.LocalPlayer<unk>local<unk>Player<unk>=<unk>Players.LocalPlayer

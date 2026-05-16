@@ -1,0 +1,1 @@
+car.DriveSeat.ChildRemoved:connect(function(child)<unk><unk>if<unk>child.Name=="SeatWeld"<unk>and<unk>child:IsA("Weld")<unk>then<unk><unk><unk>_PBrake<unk>=<unk>not<unk>_PBrake<unk><unk><unk>wait(.2)<unk><unk><unk><unk>script.Parent:Destroy()<unk><unk><unk>end<unk><unk>end)

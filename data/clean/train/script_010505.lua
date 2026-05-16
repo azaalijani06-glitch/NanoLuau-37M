@@ -1,0 +1,1 @@
+local<unk>Tool<unk>=<unk>script.Parent<unk>local<unk>Handle<unk>=<unk>Tool:WaitForChild("Handle")<unk><unk>local<unk>Animations<unk>=<unk>{}<unk><unk>local<unk>ServerControl<unk>=<unk>Tool:WaitForChild("ServerControl")<unk>local<unk>ClientControl<unk>=<unk>Tool:WaitForChild("ClientControl")

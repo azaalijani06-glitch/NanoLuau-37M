@@ -1,0 +1,1 @@
+--script.Parent.Unequipped:Connect(function()<unk>--<unk>player.PlayerGui:FindFirstChild("AlterGui").Enabled<unk>=<unk>false<unk>--end)

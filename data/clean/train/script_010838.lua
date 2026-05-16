@@ -1,0 +1,1 @@
+local<unk>set<unk>=<unk>script.Settings<unk>local<unk>sp<unk>=<unk>set.Speed<unk>local<unk>enabled<unk>=<unk>set.Enabled<unk>local<unk>hum<unk>=<unk>script.Parent:WaitForChild("Humanoid")<unk>if<unk>hum<unk>then

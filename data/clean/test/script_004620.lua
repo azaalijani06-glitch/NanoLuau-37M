@@ -1,0 +1,1 @@
+local<unk>players<unk>=<unk>game:GetService("Players")<unk>local<unk>runService<unk>=<unk>game:GetService("RunService")<unk>local<unk>heartbeat<unk>=<unk>runService.Heartbeat<unk>local<unk>Signal<unk>=<unk>require(script.Parent.Parent.Signal)<unk>local<unk>Janitor<unk>=<unk>require(script.Parent.Parent.Janitor)

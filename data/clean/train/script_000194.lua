@@ -1,0 +1,1 @@
+--script.Parent.Parent.Parent.Parent.Values.Win.Changed:Connect(function()<unk>--if<unk>script.Parent.Parent.Parent.Parent.Values.Win.Value<unk>==<unk>true<unk>then<unk>--PLR_CLICKED.leaderstats.Wins.Value<unk>=<unk>PLR_CLICKED.leaderstats.Wins.Value<unk>+<unk>1<unk>--script.Disabled<unk>=<unk>true<unk>--end<unk><unk><unk>--end)

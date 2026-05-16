@@ -1,0 +1,1 @@
+--local<unk>Anim<unk>=<unk>script.Parent.AnimationController:LoadAnimation(game.ReplicatedStorage.Pets.Settings.WalkAnim)<unk>--local<unk>AnimPlay<unk>=<unk>false

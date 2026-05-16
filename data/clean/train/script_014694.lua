@@ -1,0 +1,1 @@
+local<unk>Gamemodes<unk>=<unk>script.Parent:WaitForChild("Gamemodes")<unk>local<unk>Current_Gamemode<unk>=<unk>Gamemodes[script:GetAttribute("Gamemode")]<unk>local<unk>Current_GameStateObject<unk>=<unk>Current_Gamemode.GameState

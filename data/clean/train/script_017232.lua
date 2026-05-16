@@ -1,0 +1,1 @@
+script.Parent.Knock.MouseButton1Click:Connect(function()<unk><unk>House.DoAction:InvokeServer('Knock')<unk>end)

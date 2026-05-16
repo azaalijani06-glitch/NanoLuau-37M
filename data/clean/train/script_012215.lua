@@ -1,0 +1,1 @@
+local<unk>Character<unk>=<unk>script.Parent<unk>local<unk>Humanoid<unk>=<unk>Character:WaitForChild("Humanoid")<unk>local<unk>HRP<unk>=<unk>Character:WaitForChild("HumanoidRootPart")

@@ -1,0 +1,1 @@
+local<unk>Line<unk>=<unk>script.Parent.Label.Line<unk>local<unk>Label<unk>=<unk>script.Parent.Label<unk>local<unk>LabelShadow<unk>=<unk>script.Parent.Shadow<unk>local<unk>Plr<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>PlayerScripts<unk>=<unk>Plr.PlayerScripts

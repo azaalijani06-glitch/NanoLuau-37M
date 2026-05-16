@@ -1,0 +1,1 @@
+local<unk>loadingScreen<unk>=<unk>script.ScreenGui<unk>loadingScreen.Parent<unk>=<unk>game.Players.LocalPlayer.PlayerGui

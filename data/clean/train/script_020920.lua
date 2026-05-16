@@ -1,0 +1,1 @@
+local<unk>BHText<unk>=<unk>workspace.HoursValues.BHTextValue;<unk>local<unk>BHValue<unk>=<unk>workspace.HoursValues.BHValue;<unk>local<unk>BHEndValue<unk>=<unk>workspace.HoursValues.BHEndValue;<unk><unk>local<unk>Stunning<unk>=<unk>script.Parent.Stunning;<unk><unk>local<unk>StunsValue<unk>=<unk>script.Parent.Stun.GetStuns

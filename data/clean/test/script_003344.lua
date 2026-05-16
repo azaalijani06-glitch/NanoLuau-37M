@@ -1,0 +1,1 @@
+local<unk>textLabel<unk>=<unk>script.Parent<unk><unk>local<unk>function<unk>updateText()<unk><unk><unk>textLabel.Text<unk>=<unk>points.Value<unk>end

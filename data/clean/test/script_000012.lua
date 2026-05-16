@@ -1,0 +1,1 @@
+local<unk>NavigatorStringValue:<unk>StringValue<unk>=<unk>ReplicatedStorage.gameStatus.navigatorText<unk>local<unk>NavigatorFrame:<unk>Frame<unk>=<unk>script.Parent.Parent<unk>local<unk>NavigatorText:<unk>TextLabel<unk>=<unk>script.Parent

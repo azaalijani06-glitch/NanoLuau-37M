@@ -1,0 +1,1 @@
+local<unk>Client<unk>=<unk>script.Client;<unk><unk>local<unk>Seat<unk>=<unk>script.Parent.Seat;<unk>local<unk>CarModel<unk>=<unk>script.Parent.CarModel;<unk>local<unk>BodyPostion<unk>=<unk>CarModel.BodyPosition;<unk>local<unk>BodyGyro<unk>=<unk>CarModel.BodyGyro;<unk><unk>local<unk>currentOccupant<unk>=<unk>nil;<unk>local<unk>currentClient<unk>=<unk>nil;

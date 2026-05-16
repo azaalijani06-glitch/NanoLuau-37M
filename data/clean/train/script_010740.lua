@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>humanoid<unk>=<unk>player.Character:WaitForChild("Humanoid")

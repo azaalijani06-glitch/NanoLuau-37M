@@ -1,0 +1,1 @@
+local<unk>set<unk>=<unk>script.Settings<unk>local<unk>sp<unk>=<unk>set.Speed<unk>local<unk>enabled<unk>=<unk>set.Enabled<unk>local<unk>hum<unk>=<unk>script.Parent:WaitForChild("Zombie")<unk>if<unk>hum<unk>then<unk><unk>print("Success")<unk>else<unk><unk>print("No<unk>Humanoid")<unk>end<unk>local<unk>humanim<unk>=<unk>hum:LoadAnimation(script:FindFirstChildOfClass("Animation"))

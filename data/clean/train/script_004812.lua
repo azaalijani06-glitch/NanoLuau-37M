@@ -1,0 +1,1 @@
+local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>char<unk>=<unk>plr.Character<unk><unk>local<unk>mFrame<unk>=<unk>script.Parent<unk>local<unk>button_equip<unk>=<unk>mFrame.equip<unk>local<unk>value_item<unk>=<unk>mFrame.ItemName

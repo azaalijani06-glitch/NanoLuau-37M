@@ -1,0 +1,1 @@
+print("Made<unk>By<unk>OfficerVargas<unk>And<unk>FPSVision")<unk>seat<unk>=<unk>script.Parent<unk>s<unk>=<unk>script

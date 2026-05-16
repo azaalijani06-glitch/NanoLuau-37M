@@ -1,0 +1,1 @@
+--<unk>Permissions<unk>--<unk>You<unk>can<unk>set<unk>the<unk>admin<unk>power<unk>required<unk>to<unk>use<unk>a<unk>command<unk>--<unk>COMMANDNAME=ADMINPOWER;

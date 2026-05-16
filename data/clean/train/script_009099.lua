@@ -1,0 +1,1 @@
+local<unk>Libraries<unk>=<unk>Tool:WaitForChild<unk>'Libraries'<unk>local<unk>Maid<unk>=<unk>require(Libraries:WaitForChild<unk>'Maid')<unk>local<unk>PaintHistoryRecord<unk>=<unk>require(script:WaitForChild<unk>'PaintHistoryRecord')

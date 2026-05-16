@@ -1,0 +1,1 @@
+local<unk>Local_Player<unk>=<unk>PlayersService.LocalPlayer<unk>local<unk>Root<unk>=<unk>script.Parent<unk><unk>Root.Parent<unk>=<unk>Local_Player.PlayerGui

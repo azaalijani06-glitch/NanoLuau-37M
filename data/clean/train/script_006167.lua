@@ -1,0 +1,1 @@
+local<unk>Roact<unk>=<unk>require(Vendor:WaitForChild<unk>'Roact')<unk>local<unk>new<unk>=<unk>Roact.createElement

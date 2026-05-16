@@ -1,0 +1,1 @@
+while<unk>true<unk>do<unk><unk><unk>script.Parent.Red.Transparency<unk>=<unk>0.9<unk><unk><unk><unk>script.Parent.Gre.Transparency<unk>=<unk>0.9<unk><unk><unk><unk>wait<unk>(0.4)<unk><unk><unk><unk>script.Parent.Red.Transparency<unk>=<unk>0.9<unk><unk><unk><unk>script.Parent.Gre.Transparency<unk>=<unk>0<unk><unk><unk><unk><unk>wait<unk>(0.4)<unk><unk><unk><unk><unk>end

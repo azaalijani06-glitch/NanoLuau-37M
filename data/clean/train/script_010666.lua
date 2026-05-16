@@ -1,0 +1,1 @@
+--<unk>--local<unk>TwinService<unk>=<unk>game:GetService("TweenService")<unk>--local<unk>AnimationHighLight<unk>=<unk>TweenInfo.new(3)<unk>--local<unk>Info<unk>=<unk>{FillTransparency<unk>=<unk>0}<unk>--local<unk>Animka<unk>=<unk>TwinService:Create(HighLight,<unk>AnimationHighLight,<unk>Info<unk>)<unk>--local<unk>char<unk>=<unk>script.Parent

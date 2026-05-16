@@ -1,0 +1,1 @@
+local<unk>h<unk>=<unk>script.Parent:WaitForChild("Humanoid")<unk>local<unk>ha<unk>=<unk>h:LoadAnimation(script:FindFirstChildOfClass("Animation"))<unk><unk>local<unk>s<unk>=<unk>script.Settings<unk>local<unk>en<unk>=<unk>s.Enabled<unk>local<unk>p<unk>=<unk>s.Speed

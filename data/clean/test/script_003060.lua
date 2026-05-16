@@ -1,0 +1,1 @@
+local<unk>player<unk>=<unk>Players.LocalPlayer<unk>local<unk>leaderstats<unk>=<unk>player:WaitForChild("CustomLeaderstats")<unk><unk>local<unk>displayValues<unk>=<unk>ReplicatedStorage:WaitForChild("DisplayValues")<unk>local<unk>points<unk>=<unk>leaderstats:WaitForChild("Points")

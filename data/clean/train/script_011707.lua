@@ -1,0 +1,1 @@
+--local<unk>DataStoreService<unk>=<unk>game:GetService("DataStoreService")<unk>--<unk>The<unk>data<unk>saving<unk>service<unk>--local<unk>banSave<unk>=<unk>DataStoreService:GetDataStore("BannedPlayers")<unk>--<unk>Our<unk>ban<unk>save

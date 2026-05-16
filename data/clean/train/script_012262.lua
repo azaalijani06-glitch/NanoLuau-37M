@@ -1,0 +1,1 @@
+--Destroy<unk>the<unk>holster<unk>if<unk>player<unk>drops<unk>this<unk>tool<unk>--workspace.ChildAdded:Connect(function(item)<unk>--<unk>if<unk>item==Tool<unk>then<unk>--<unk><unk>if<unk>Holster<unk>then<unk>--<unk><unk><unk>Holster:Destroy()<unk>--<unk><unk><unk>print("Destroying<unk>holster!!!")<unk>--<unk><unk>end<unk>--<unk>end<unk>--end)

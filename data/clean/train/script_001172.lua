@@ -1,0 +1,1 @@
+local<unk>function<unk>GetSquad(player)<unk><unk>for<unk>_,<unk>squad<unk>in<unk>pairs(SQUADS:GetChildren())<unk>do<unk><unk><unk>if<unk>squad.Players:FindFirstChild(player.Name)<unk>then<unk><unk><unk><unk>return<unk>squad<unk><unk><unk>end<unk><unk>end<unk>end

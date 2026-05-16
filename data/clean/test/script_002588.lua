@@ -1,0 +1,1 @@
+Support.ImportServices();<unk>SyncAPI<unk>=<unk>Tool.SyncAPI;<unk>Player<unk>=<unk>Players.LocalPlayer;<unk>local<unk>RunService<unk>=<unk>game:GetService('RunService')

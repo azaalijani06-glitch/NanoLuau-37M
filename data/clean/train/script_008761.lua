@@ -1,0 +1,1 @@
+--while<unk>true<unk>do<unk>--<unk>for<unk>_,<unk>player<unk>in<unk>pairs(Players:GetPlayers())<unk>do<unk>--<unk>loop<unk>through<unk>all<unk>the<unk>players<unk>--<unk><unk>local<unk>playerRoot<unk>=<unk>player.Character<unk>and<unk>player.Character:FindFirstChild("HumanoidRootPart")<unk>--<unk>get<unk>the<unk>player's<unk>humanoidrootpart

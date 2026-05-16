@@ -1,0 +1,1 @@
+----[RETURNS<unk>THE<unk>PREVIEW<unk>COLOR<unk>FOR<unk>A<unk>GIVEN<unk>COLOR<unk>PICKER]----<unk>--[[Use<unk>these<unk>2<unk>lines<unk>to<unk>get<unk>the<unk>Color3<unk>Value<unk>local<unk>ColorPickerModule<unk>=<unk>require(script.Parent.ColorPicker)<unk>local<unk>PreviewColor3<unk>=<unk>ColorPickerModule.ReturnPreviewColor("DropShadow")<unk>]]

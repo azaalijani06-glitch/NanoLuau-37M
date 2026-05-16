@@ -1,0 +1,1 @@
+local<unk>Camera<unk>=<unk>game.Workspace.CurrentCamera<unk>--Now<unk>that<unk>we<unk>fixed<unk>this<unk>up<unk>its<unk>time<unk>to<unk>get<unk>to<unk>the<unk>GUI<unk>Part!<unk>local<unk>Player<unk>=<unk>game.Players.LocalPlayer

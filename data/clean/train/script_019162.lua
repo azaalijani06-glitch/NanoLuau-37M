@@ -1,0 +1,1 @@
+local<unk>PhysicsService<unk>=<unk>game:GetService("PhysicsService")<unk>local<unk>Players<unk>=<unk>game:GetService("Players")<unk><unk><unk>local<unk>npcModel<unk>=<unk>script.Parent

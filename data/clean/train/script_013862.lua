@@ -1,0 +1,1 @@
+local<unk>UIS<unk>=<unk>game:GetService("UserInputService")<unk>local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>Mouse<unk>=<unk>plr:GetMouse()<unk>local<unk>Debounce<unk>=<unk>true<unk>Player<unk>=<unk>game.Players.LocalPlayer<unk><unk>wait(1)

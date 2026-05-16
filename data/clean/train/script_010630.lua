@@ -1,0 +1,1 @@
+--Finds<unk>the<unk>model<unk>the<unk>current<unk>part<unk>is<unk>in<unk>which<unk>is<unk>closest<unk>to<unk>workspace<unk>--Returns<unk>the<unk>part<unk>is<unk>the<unk>part<unk>is<unk>in<unk>Workspace<unk>--Returns<unk>nil<unk>if<unk>the<unk>object<unk>is<unk>already<unk>in<unk>the<unk>roomModel<unk>we<unk>are<unk>constructing

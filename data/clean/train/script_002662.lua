@@ -1,0 +1,1 @@
+local<unk>WMRR<unk>=<unk>Instance.new("Attachment",zBRL)<unk>WMRR.Rotation<unk>=<unk>Vector3.new(0,0,0)<unk>WMRR.Name<unk>=<unk>"Wheel"<unk><unk>local<unk>WMLL<unk>=<unk>Instance.new("Attachment",zBRR)<unk>WMLL.Rotation<unk>=<unk>Vector3.new(0,0,0)<unk>WMLL.Name<unk>=<unk>"Wheel"

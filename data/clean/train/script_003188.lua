@@ -1,0 +1,1 @@
+local<unk>Baskets<unk>=<unk>script.Parent:WaitForChild("Baskets")<unk>local<unk>AllBaskets<unk>=<unk>Baskets:GetChildren()<unk>local<unk>BasketSeats<unk>=<unk>{}

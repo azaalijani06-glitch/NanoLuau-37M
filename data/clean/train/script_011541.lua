@@ -1,0 +1,1 @@
+local<unk>Icon<unk>=<unk>Button.Parent.Parent.UI.Icon<unk>local<unk>TweenService<unk>=<unk>game:GetService("TweenService")<unk><unk>if<unk>Points.Value<unk><=<unk>Formula<unk>then<unk><unk>Icon.Rotation<unk>=<unk>0<unk><unk>end

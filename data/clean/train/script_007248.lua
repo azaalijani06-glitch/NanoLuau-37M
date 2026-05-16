@@ -1,0 +1,1 @@
+--[=[<unk><unk>@class<unk>StreamableUtil<unk><unk>@client<unk><unk>A<unk>utility<unk>library<unk>for<unk>the<unk>Streamable<unk>class.<unk><unk><unk>```lua<unk><unk>local<unk>StreamableUtil<unk>=<unk>require(packages.Streamable).StreamableUtil<unk><unk>```<unk>]=]

@@ -1,0 +1,1 @@
+function<unk>whileTouching()<unk><unk>--wait(4)<unk><unk>script.Parent.AutomaticT.Disabled<unk>=<unk>false<unk><unk>script.Parent.Lighted.Disabled<unk>=<unk>false<unk>end<unk><unk>function<unk>letGo()<unk><unk>script.Parent.AutomaticT.Disabled<unk>=<unk>true<unk><unk>script.Parent.Lighted.Disabled<unk>=<unk>true<unk><unk>script.Parent.LightedOff.Disabled<unk>=<unk>false<unk>end

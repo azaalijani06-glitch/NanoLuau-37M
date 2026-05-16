@@ -1,0 +1,1 @@
+local<unk>dlg<unk>=<unk>script.Parent<unk>local<unk>playerNameWins<unk>=<unk>dlg:FindFirstChild("PlayerNameWins")<unk>local<unk>okButton<unk>=<unk>dlg:FindFirstChild("Ok")

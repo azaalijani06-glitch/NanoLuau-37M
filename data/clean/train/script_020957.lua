@@ -1,0 +1,1 @@
+--<unk><unk>if<unk>not<unk>gameRules.SpawnStacking<unk>and<unk>not<unk>spawner:FindFirstChild("CurrentGun")<unk>then<unk>--<unk><unk><unk>local<unk>objValue<unk>=<unk>Instance.new("ObjectValue")<unk>--<unk><unk><unk>objValue.Name<unk>=<unk>"CurrentGun"<unk>--<unk><unk><unk>objValue.Parent<unk>=<unk>spawner<unk>--<unk><unk>end

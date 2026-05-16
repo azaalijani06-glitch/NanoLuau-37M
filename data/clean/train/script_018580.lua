@@ -1,0 +1,1 @@
+local<unk>rs<unk>=<unk>game:GetService("RunService")<unk><unk>local<unk>plr<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>char<unk>=<unk>plr.Character<unk><unk>local<unk>mFrame<unk>=<unk>script.Parent<unk>local<unk>iContainer<unk>=<unk>mFrame.ItemContainer<unk><unk>local<unk>currentTool<unk>=<unk>nil

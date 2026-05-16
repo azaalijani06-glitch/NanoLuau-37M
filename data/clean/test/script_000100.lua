@@ -1,0 +1,1 @@
+--local<unk>MasterControl<unk>=<unk>require(Player:WaitForChild("PlayerScripts"):WaitForChild("ControlScript"):WaitForChild("MasterControl"))

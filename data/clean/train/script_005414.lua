@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.CharacterAdded:Connect(function(char)<unk><unk>local<unk>hl<unk>=<unk>script.Highlight:Clone()<unk><unk>hl.Parent<unk>=<unk>char<unk>end)

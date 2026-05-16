@@ -1,0 +1,1 @@
+--Variables<unk>--local<unk>GameAnalyticsSendMessage<unk>=<unk>game:GetService("ReplicatedStorage"):WaitForChild("GameAnalyticsSendMessage")

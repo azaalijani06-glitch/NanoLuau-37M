@@ -1,0 +1,1 @@
+local<unk>Player<unk>=<unk>game.Players.LocalPlayer<unk>local<unk>Character<unk>=<unk>Player.Character<unk>or<unk>Player.CharacterAdded:Wait()<unk>local<unk>Camera<unk>=<unk>workspace.CurrentCamera

@@ -1,0 +1,1 @@
+--RunService.RenderStepped:Connect(function(step)<unk>--<unk>local<unk>ray<unk>=<unk>Ray.new(char.Head.Position,<unk>((char.Head.CFrame<unk>+<unk>char.Head.CFrame.LookVector<unk>*<unk>2)<unk>-<unk>char.Head.Position).Position.Unit)<unk>--<unk>local<unk>ignoreList<unk>=<unk>char:GetChildren()

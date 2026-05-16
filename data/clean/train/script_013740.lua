@@ -1,0 +1,1 @@
+local<unk>bezierTween<unk>=<unk>require(Modules.BezierTweens)<unk>local<unk>Waypoints<unk>=<unk>bezierTween.Waypoints<unk>local<unk>partCacheMod<unk>=<unk>require(Modules.PartCache)

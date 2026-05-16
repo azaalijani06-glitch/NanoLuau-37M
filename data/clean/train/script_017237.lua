@@ -1,0 +1,1 @@
+local<unk>Racetrack<unk>=<unk>workspace:FindFirstChild("Racetrack")<unk>local<unk>Checkpoints<unk>=<unk>Racetrack:FindFirstChild("Checkpoints")<unk>local<unk>checkpointList<unk>=<unk><unk>Checkpoints:GetChildren()

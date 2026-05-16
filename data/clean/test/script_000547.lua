@@ -1,0 +1,1 @@
+--script.Parent.Urinal.Flushes.DistortionSoundEffect.Level<unk>=<unk>0.75<unk>--script.Parent.Waterz.Disabled<unk>=<unk>false

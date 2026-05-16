@@ -1,0 +1,1 @@
+--[[<unk>for<unk>i,<unk>car<unk>in<unk>pairs(workspace.Cars:GetChildren())<unk>do<unk><unk>enableCarPhysics(car)<unk>end<unk>]]

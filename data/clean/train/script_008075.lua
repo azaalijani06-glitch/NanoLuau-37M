@@ -1,0 +1,1 @@
+local<unk>FerrisMotor<unk>=<unk>script.Parent:WaitForChild("FerrisMotor")<unk>local<unk>IsMoving<unk>=<unk>false<unk>local<unk>StartUpTime<unk>=<unk>10

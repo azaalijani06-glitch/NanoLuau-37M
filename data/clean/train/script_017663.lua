@@ -1,0 +1,1 @@
+local<unk>ProximityPrompts<unk>=<unk>script["Proximity<unk>Prompts"]<unk>local<unk>Settings<unk>=<unk>script.Settings<unk><unk><unk>local<unk>Block<unk>=<unk>script.Parent

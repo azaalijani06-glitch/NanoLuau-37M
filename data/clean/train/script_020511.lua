@@ -1,0 +1,1 @@
+script.Parent.ClickDetector.MouseClick:connect(function(plr)<unk>plr.Character.Torso.Anchored<unk>=<unk>true<unk>plr.PlayerGui.CarShop.Main.Visible<unk>=<unk>true<unk>end)

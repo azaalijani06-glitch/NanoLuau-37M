@@ -1,0 +1,1 @@
+local<unk>Access<unk>=<unk>Replicated.Access<unk>local<unk>Anims<unk>=<unk>Access.Animations<unk>local<unk>Remotes<unk>=<unk>Access.Remotes<unk>local<unk>State<unk>=<unk>script.Parent:WaitForChild("State")

@@ -1,0 +1,1 @@
+local<unk>mouse<unk>=<unk>game.Players.LocalPlayer:GetMouse()<unk>mouse.Icon<unk>=<unk>'rbxassetid://<unk>68308747'<unk><unk><unk><unk>----Change<unk>ID<unk>to<unk>any<unk>decal,<unk>Be<unk>sure<unk>to<unk>minus<unk>1<unk>digit<unk>from<unk>the<unk>last<unk>digit

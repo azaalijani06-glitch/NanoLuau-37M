@@ -1,0 +1,1 @@
+local<unk>CurrentCamera<unk>=<unk>workspace.CurrentCamera<unk>local<unk>Plr<unk>=<unk>game.Players.LocalPlayer

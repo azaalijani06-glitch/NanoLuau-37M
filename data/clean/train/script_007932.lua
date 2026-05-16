@@ -1,0 +1,1 @@
+local<unk>TweenService<unk>=<unk>game:GetService("TweenService")<unk>local<unk>OpenTweenInfo<unk>=<unk>TweenInfo.new(.5,Enum.EasingStyle.Linear,Enum.EasingDirection.Out,0,false,0)<unk>local<unk>CloseTweenInfo<unk>=<unk>TweenInfo.new(.5,Enum.EasingStyle.Linear,Enum.EasingDirection.In,0,false,0)

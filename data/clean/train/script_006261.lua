@@ -1,0 +1,1 @@
+local<unk>Main<unk>=<unk>(script.owner.Value)<unk><unk>local<unk>Player<unk>=<unk>game.Players.LocalPlayer<unk><unk>local<unk>Found<unk>=<unk>false

@@ -1,0 +1,1 @@
+Car<unk>=<unk>script.Parent.Car.Value<unk>Values<unk>=<unk>script.Parent.Values<unk>_Tune<unk>=<unk>require(Car["A-Chassis<unk>Tune"])<unk><unk>Dash<unk>=<unk>Car.Body["Digital<unk>Dash"].Screen.SurfaceGui.MainFrame

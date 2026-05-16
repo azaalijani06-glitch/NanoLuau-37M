@@ -1,0 +1,1 @@
+--K9Model<unk>=<unk>script.Parent<unk>----script.Parent.Parent<unk>=<unk>game.Workspace<unk>--K9Model:MoveTo(game.Workspace.SinikalLaw.Torso.Position)<unk>--Path<unk>=<unk>script:WaitForChild("Pathfinder"):Clone()<unk>--Path.Parent<unk>=<unk>game.ServerScriptService

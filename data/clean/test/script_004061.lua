@@ -1,0 +1,1 @@
+local<unk>CHARACTER<unk>=<unk>script.Parent<unk>local<unk>HUMANOID<unk>=<unk>CHARACTER.Humanoid<unk>local<unk>ARMOR<unk><unk>=<unk>HUMANOID.Armor<unk>local<unk>SLOTS<unk><unk>=<unk>HUMANOID.ArmorSlots<unk><unk>local<unk>SLOT_SIZE<unk>=<unk>30

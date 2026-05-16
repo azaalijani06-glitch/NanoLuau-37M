@@ -1,0 +1,1 @@
+---<unk>Replace<unk>with<unk>true/false<unk>to<unk>force<unk>the<unk>chat<unk>type.<unk>Otherwise<unk>this<unk>will<unk>default<unk>to<unk>the<unk>setting<unk>on<unk>the<unk>website.<unk>--module.BubbleChatEnabled<unk>=<unk>PlayersService.BubbleChat

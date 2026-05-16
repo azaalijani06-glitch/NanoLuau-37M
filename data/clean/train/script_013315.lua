@@ -1,0 +1,1 @@
+local<unk>beam<unk>=<unk>Instance.new("Beam")<unk>beam.Segments<unk>=<unk>1<unk>beam.Width0<unk>=<unk>0.2<unk>beam.Width1<unk>=<unk>0.2<unk>beam.Color<unk>=<unk>ColorSequence.new(Color3.new(1,<unk>0,<unk>0))<unk>beam.FaceCamera<unk>=<unk>true

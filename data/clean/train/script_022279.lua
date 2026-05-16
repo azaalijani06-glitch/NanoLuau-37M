@@ -1,0 +1,1 @@
+function<unk>module.SetFreeCamera(Player,Target)<unk><unk>local<unk>camera<unk>=<unk>workspace.CurrentCamera<unk><unk>camera.CameraType<unk>=<unk>Enum.CameraType.Custom<unk><unk><unk><unk>camera.CameraSubject<unk>=<unk>Target<unk>end<unk><unk>return<unk>module

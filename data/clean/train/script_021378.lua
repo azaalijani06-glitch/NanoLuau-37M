@@ -1,0 +1,1 @@
+--<unk>If<unk>you<unk>want<unk>a<unk>spotlight<unk>to<unk>flicker,<unk>just<unk>add<unk>a<unk>spotlight<unk>in,<unk>delete<unk>the<unk>pointlight,<unk>then<unk>change<unk>script.Parent.Pointlight<unk>to<unk>script.Parent.Spotlight<unk>--<unk>Your<unk>welcome!

@@ -1,0 +1,1 @@
+local<unk>ListenForManualWindowTrigger<unk>=<unk>require(Tool.Core:WaitForChild('ListenForManualWindowTrigger'))<unk>local<unk>Roact<unk>=<unk>require(Vendor:WaitForChild('Roact'))<unk>local<unk>ColorPicker<unk>=<unk>require(UI:WaitForChild('ColorPicker'))

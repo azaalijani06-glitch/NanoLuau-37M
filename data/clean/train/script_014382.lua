@@ -1,0 +1,1 @@
+function<unk>FastCast.new()<unk><unk>return<unk>setmetatable({<unk><unk><unk>LengthChanged<unk>=<unk>Signal.new(),<unk><unk><unk>RayHit<unk>=<unk>Signal.new(),<unk><unk><unk>RayPierced<unk>=<unk>Signal.new(),<unk><unk><unk>CastTerminating<unk>=<unk>Signal.new(),<unk><unk><unk>WorldRoot<unk>=<unk>workspace<unk><unk>},<unk>FastCast)<unk>end

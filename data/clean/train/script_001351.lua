@@ -1,0 +1,1 @@
+local<unk>Tool<unk>=<unk>script.Parent<unk><unk>Tool.Equipped:Connect(function()<unk><unk>Tool.Equip.Value<unk>=<unk>true<unk>end)<unk><unk>Tool.Unequipped:Connect(function()<unk><unk>Tool.Equip.Value<unk>=<unk>false<unk>end)

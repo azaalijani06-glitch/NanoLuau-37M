@@ -1,0 +1,1 @@
+local<unk>playerListButton<unk>=<unk>script.Parent:WaitForChild("Ignore")<unk><unk>local<unk>playerListFrame<unk>=<unk>script.Parent:WaitForChild("MainFrame")

@@ -1,0 +1,1 @@
+stopcall()<unk><unk>sbros()<unk>end)<unk>script.Parent.B.ClickDetector.MouseClick:Connect(function(player)<unk><unk>if<unk>sys.KVEnter.Value<unk>==<unk>true<unk>and<unk>folder.KV.Value.Value<unk>~=<unk>config.AllCode.Value<unk>then<unk><unk><unk>huh.ButtonSound:Play()<unk><unk><unk>enter()

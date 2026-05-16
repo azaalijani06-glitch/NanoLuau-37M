@@ -1,0 +1,1 @@
+local<unk>animController<unk>=<unk>script.Parent:WaitForChild'AnimationController'<unk>local<unk>walk<unk>=<unk>Instance.new'Animation'<unk>walk.AnimationId<unk>=<unk>game.ReplicatedStorage.NPCAnimations.BantoWalk.AnimationId<unk>walk<unk>=<unk>animController:LoadAnimation(walk)

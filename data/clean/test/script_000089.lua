@@ -1,0 +1,1 @@
+local<unk>UIS<unk>=<unk>game:GetService("UserInputService")<unk><unk>local<unk>IB<unk>=<unk>UIS.InputBegan<unk><unk>local<unk>IE<unk>=<unk>UIS.InputEnded<unk><unk>local<unk>IC<unk>=<unk>UIS.InputChanged<unk><unk>local<unk>JR<unk>=<unk>UIS.JumpRequest<unk><unk>local<unk>RST<unk>=<unk>game:GetService("RunService").RenderStepped

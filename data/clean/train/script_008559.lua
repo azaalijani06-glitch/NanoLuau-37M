@@ -1,0 +1,1 @@
+CS:GetInstanceAddedSignal(Tag):Connect(function(v)<unk><unk>if<unk>v:IsA("Model")<unk>and<unk>v:IsDescendantOf(workspace)<unk>then<unk><unk><unk>RagdollModule:Setup(v)<unk><unk>end<unk>end)

@@ -1,0 +1,1 @@
+--manually<unk>add<unk>the<unk>rest<unk>--table.insert(_G.Safezones,<unk>{["Position"]<unk>=<unk>workspace.SpeciesSelectionArea.SpiritSelectionAnchor.Position,<unk>["Magnitude"]<unk>=<unk>workspace.SpeciesSelectionArea.SpiritSelectionAnchor.Radius.Value,<unk>["Spawn"]<unk>=<unk>true})

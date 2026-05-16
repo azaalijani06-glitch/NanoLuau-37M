@@ -1,0 +1,1 @@
+--[[script.Parent.MouseButton2Down:connect(ClickB)<unk>script.Parent.MouseButton2Up:connect(UnclickB)--]]

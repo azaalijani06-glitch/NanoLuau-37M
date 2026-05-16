@@ -1,0 +1,1 @@
+--<unk>inspd.Rotation<unk>=<unk>-115<unk>+<unk>(220<unk>/<unk>220)<unk>*<unk>(math.abs(script.Parent.Parent.Values.Velocity.Value.Magnitude*((10/12)<unk>*<unk>(60/88))))

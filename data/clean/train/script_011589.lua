@@ -1,0 +1,1 @@
+local<unk>Player<unk>=<unk>game.Players:GetPlayerFromCharacter(script.Parent);<unk>C<unk>=<unk>script.Parent;<unk>Mouse<unk>=<unk>Player:GetMouse();<unk>Debounce<unk>=<unk>false;

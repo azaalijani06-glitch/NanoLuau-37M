@@ -1,0 +1,1 @@
+--script.Parent.Sign.SurfaceGui.TextLabel.Text<unk>=<unk>"1<unk>Old<unk>Univ<unk>Av"<unk>--script.Parent.Parent.R1.BusA.Disabled<unk>=<unk>false<unk>--script.Parent.Parent.R1.BusB.Disabled<unk>=<unk>true

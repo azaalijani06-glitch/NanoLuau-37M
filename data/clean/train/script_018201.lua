@@ -1,0 +1,1 @@
+--wr2.MaxVelocity<unk>=<unk>0.007<unk>--wr2.Part0<unk>=<unk>script.Parent.Parent.Misc.RR.Door.WD<unk>--wr2.Part1<unk>=<unk>wr2.Parent

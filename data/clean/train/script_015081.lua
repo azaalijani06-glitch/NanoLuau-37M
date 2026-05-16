@@ -1,0 +1,1 @@
+end<unk>end<unk>end<unk>end<unk>end<unk>end)<unk><unk>script.Parent.ChildRemoved:connect(function(w)

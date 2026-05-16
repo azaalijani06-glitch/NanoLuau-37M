@@ -1,0 +1,1 @@
+lean<unk>=<unk>Instance.new("BodyGyro")<unk>lean.Parent<unk>=<unk>bal<unk>lean.Name<unk>=<unk>"LeanGyro"<unk>lean.D<unk>=<unk>_Tune.LeanD<unk>lean.MaxTorque<unk>=<unk>Vector3.new(0,0,_Tune.LeanMaxTorque)<unk>lean.P<unk>=<unk>_Tune.LeanP

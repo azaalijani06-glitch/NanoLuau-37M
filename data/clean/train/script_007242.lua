@@ -1,0 +1,1 @@
+local<unk>char<unk>=<unk>script.Parent;<unk>local<unk>hum<unk>:<unk>Humanoid<unk>=<unk>char.Humanoid;<unk>local<unk>hrp<unk>:<unk>BasePart<unk>=<unk>char.HumanoidRootPart;

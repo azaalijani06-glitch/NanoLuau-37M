@@ -1,0 +1,1 @@
+script.Parent.Configuration.Reset.Changed:connect(function()<unk>if<unk>script.Parent.Configuration.Reset.Value<unk>==<unk>true<unk>then<unk><unk>--ResetScript<unk>Starts

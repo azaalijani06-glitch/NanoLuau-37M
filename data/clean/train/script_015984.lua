@@ -1,0 +1,1 @@
+--Old<unk>never<unk>do<unk>it<unk>like<unk>this<unk>because<unk>child<unk>of<unk>Tycoons<unk>get<unk>deleted<unk>the<unk>the<unk>child<unk>children<unk>is<unk>empty<unk>causes<unk>bug<unk>--local<unk>tycoons<unk>=<unk>script.Parent:WaitForChild("Tycoons"):GetChildren()

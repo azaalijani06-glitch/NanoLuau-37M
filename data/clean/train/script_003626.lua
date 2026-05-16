@@ -1,0 +1,1 @@
+local<unk>KingdomHolder<unk>=<unk>require(ServerStorage.KingdomHolder)<unk><unk><unk><unk><unk>Players.PlayerAdded:Connect(function(plr)<unk><unk><unk><unk><unk><unk>KingdomHolder.CreateKingdom(plr)<unk>end)

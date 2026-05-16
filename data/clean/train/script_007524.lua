@@ -1,0 +1,1 @@
+--local<unk>message<unk>=<unk>function(...)<unk>local<unk>Str<unk>=<unk>""<unk>game:GetService("TestService"):Message(Str)<unk>end

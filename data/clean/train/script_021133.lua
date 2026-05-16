@@ -1,0 +1,1 @@
+--<unk>ROBLOX<unk>deviation<unk>START:<unk>not<unk>ported<unk>as<unk>it<unk>doesn't<unk>seem<unk>necessary<unk>in<unk>Lua<unk>--<unk>exports.tryRealpath<unk>=<unk>require(script.tryRealpath).default<unk>--<unk>exports.requireOrImportModule<unk>=<unk>require(script.requireOrImportModule).default<unk>--<unk>ROBLOX<unk>deviation<unk>END

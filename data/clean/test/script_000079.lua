@@ -1,0 +1,1 @@
+local<unk>Camera<unk>=<unk>workspace.CurrentCamera<unk>local<unk>Looping<unk>=<unk>false<unk>local<unk>Speed<unk>=<unk>1<unk>local<unk>FreezeControls<unk>=<unk>false

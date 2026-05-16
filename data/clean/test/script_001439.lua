@@ -1,0 +1,1 @@
+local<unk>plr<unk>=<unk>game:GetService("Players").LocalPlayer<unk>local<unk>char<unk>=<unk>script.Parent<unk>local<unk>hum<unk>=<unk>char:WaitForChild("Humanoid")<unk>local<unk>root<unk>=<unk>hum.RootPart<unk>--<unk>The<unk>HumanoidRootPart

@@ -1,0 +1,1 @@
+local<unk>clickSound<unk>=<unk>Instance.new("Sound")<unk>clickSound.Name<unk>=<unk>"ClickSound"<unk>clickSound.Volume<unk>=<unk>0<unk>clickSound.Parent<unk>=<unk>iconContainer

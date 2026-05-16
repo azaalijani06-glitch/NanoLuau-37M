@@ -1,0 +1,1 @@
+while<unk>wait()<unk>do<unk><unk>script.Parent.Text<unk>=<unk>"Loading<unk>Game."<unk><unk><unk><unk><unk>wait(.5)<unk><unk><unk><unk><unk>script.Parent.Text<unk>=<unk>"Loading<unk>Game.."<unk><unk>wait(.5)<unk><unk>script.Parent.Text<unk>=<unk>"Loading<unk>Game..."<unk><unk>wait(.5)<unk><unk>script.Parent.Text<unk>=<unk>"Loading<unk>Game."<unk>end

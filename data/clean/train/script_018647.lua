@@ -1,0 +1,1 @@
+function<unk>onTouch(part)<unk><unk><unk>local<unk>human<unk>=<unk>part.Parent:findFirstChild("Humanoid")<unk><unk>if<unk>(human<unk>==<unk>nil)<unk>then<unk>return<unk>end<unk><unk><unk>human.Parent.Name=<unk>"IT<unk>ATE<unk>ME!"<unk>--Change<unk>~~~NZ~~~<unk>to<unk>whatever<unk>name<unk>u<unk>want<unk><unk>end<unk><unk><unk>script.Parent.Touched:connect(onTouch)

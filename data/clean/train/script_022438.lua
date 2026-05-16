@@ -1,0 +1,1 @@
+local<unk>portao<unk>=<unk>script.Parent.Parent.Portao<unk>local<unk>botao<unk>=<unk>script.Parent<unk>local<unk>cf1<unk>=<unk>script.Parent.Parent.Cf1<unk>local<unk>aberto<unk>=<unk>false<unk>local<unk>tela<unk>=<unk>script.Parent.Parent.Body.Tela<unk>local<unk>som<unk>=<unk>script.Parent.Somzinho<unk>local<unk>doorpos<unk>=<unk>portao.CFrame

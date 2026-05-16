@@ -1,0 +1,1 @@
+local<unk>dlg<unk>=<unk>script.Parent<unk>local<unk>ResultString<unk>=<unk>dlg:FindFirstChild("ResultString")<unk>local<unk>ResultTime<unk>=<unk>dlg:FindFirstChild("ResultTime")<unk>local<unk>ExitButton<unk>=<unk>dlg:FindFirstChild("ExitButton")<unk><unk>local<unk>DISPLAY_DURATION<unk>=<unk>3

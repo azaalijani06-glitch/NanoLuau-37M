@@ -1,0 +1,1 @@
+Prompt.Triggered:Connect(function(plr)<unk><unk>plr.leaderstats.Coins.Value<unk>=<unk>plr.leaderstats.Coins.Value<unk>+<unk>amount<unk><unk>plr.Data.Exp.Value<unk>=<unk>plr.Data.Exp.Value<unk>+<unk>10<unk><unk><unk>s.Playing<unk>=<unk>true<unk><unk><unk>script.Parent.Parent:Destroy()<unk>end)

@@ -1,0 +1,1 @@
+local<unk>database<unk>=<unk>require(game:GetService("ServerScriptService").Database.DatabaseHandler)

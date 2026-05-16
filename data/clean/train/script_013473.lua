@@ -1,0 +1,1 @@
+--[[local<unk>iceMesh<unk>=<unk>Instance.new("SpecialMesh",<unk>icePart)<unk>iceMesh.Name<unk>=<unk>"IceMesh"<unk>iceMesh.MeshType<unk>=<unk>"FileMesh"<unk>iceMesh.MeshId<unk>=<unk>"http://www.roblox.com/asset/?id=1290033"<unk>iceMesh.Scale<unk>=<unk>Vector3.new(0.675,<unk>0.675,<unk>0.675)]]

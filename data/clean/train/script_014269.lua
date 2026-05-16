@@ -1,0 +1,1 @@
+local<unk>person<unk>=<unk>script.Parent.Parent<unk>local<unk>cam<unk>=<unk>game.Workspace.CurrentCamera<unk><unk>repeat<unk>wait()<unk>until<unk>game.Workspace:findFirstChild(person.Name)~=nil<unk>repeat<unk>wait()<unk>until<unk>game.Workspace:findFirstChild(person.Name):findFirstChild("Head")~=nil<unk>local<unk>theperson<unk>=<unk>game.Workspace:findFirstChild(person.Name)

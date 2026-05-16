@@ -1,0 +1,1 @@
+local<unk>Char<unk>=<unk>script.Parent<unk>local<unk>AFKTag<unk>=<unk>script:FindFirstChild("AFKTag")<unk><unk>local<unk>AFKTagClone<unk>=<unk>AFKTag:Clone()<unk>AFKTagClone.Parent<unk>=<unk>Char:FindFirstChild("Head")<unk>AFKTagClone.Adornee<unk>=<unk>Char:FindFirstChild("Head")

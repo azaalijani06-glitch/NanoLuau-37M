@@ -1,0 +1,1 @@
+for<unk>_,v<unk>in<unk>pairs(script.Parent.n1:GetChildren())do<unk>v.Visible=tonumber(v.Name)==sc1<unk>end<unk>for<unk>_,v<unk>in<unk>pairs(script.Parent.n2:GetChildren())do<unk>v.Visible=tonumber(v.Name)==sc2<unk>end<unk><unk>end<unk>end
